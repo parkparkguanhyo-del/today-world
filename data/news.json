@@ -1,1093 +1,933 @@
 {
- "updated": "2026-11-08T13:29:04.387Z",
+ "updated": "2026-11-08T19:01:15.109Z",
  "source": "The GDELT Project",
+ "ai": "gemini",
  "countries": {
   "jp": {
    "articles": [
     {
-     "title": "Tokyo Gas Co.,Ltd. (OTCMKTS:TKGSY) Stock Price Crosses Below 200 Day Moving Average – What's Next?",
-     "url": "https://www.dailypolitical.com/2026/11/08/tokyo-gas-co-ltd-otcmktstkgsy-stock-price-crosses-below-200-day-moving-average-whats-next.html",
-     "domain": "dailypolitical.com",
-     "seen": "20261108T133000Z"
+     "title": "Japan: Tax-free Shopping Follows New Rules",
+     "url": "https://www.tourism-review.com/new-rules-for-tax-free-shopping-introduced-in-japan-news15708",
+     "domain": "tourism-review.com",
+     "seen": "20261108T184500Z",
+     "ko": "일본 면세 쇼핑에 새로운 규정 적용",
+     "sum": "일본에서 면세 쇼핑에 새로운 규정이 적용된다."
     },
     {
-     "title": "PHL foreign debt grows faster than income-peer average, WB says",
-     "url": "https://bworldonline.com/economy/2026/11/08/792150/phl-foreign-debt-grows-faster-than-income-peer-average-wb-says/",
-     "domain": "bworldonline.com",
-     "seen": "20261108T133000Z"
+     "title": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22",
+     "url": "https://www.ksl.com:443/article/news/world/strong-earthquake-shakes-central-japan-shattering-store-windows-and-injuring-at-least-22/51644477",
+     "domain": "ksl.com",
+     "seen": "20261108T181500Z",
+     "ko": "일본 중부 강진 발생 상점 유리창 깨지고 최소 22명 부상",
+     "sum": "일본 중부에서 발생한 강진으로 상점 창문이 깨지고 최소 22명이 다쳤다."
     },
     {
-     "title": "Comparing Recruit (OTCMKTS:RCRUY) and SS&C Technologies (NASDAQ:SSNC)",
-     "url": "https://www.themarketsdaily.com/2026/11/08/comparing-recruit-otcmktsrcruy-and-ssc-technologies-nasdaqssnc.html",
-     "domain": "themarketsdaily.com",
-     "seen": "20261108T133000Z"
+     "title": "Typhoon No. 32 Set to Intensify Before Approaching Japan Islands",
+     "url": "https://newsonjapan.com/article/151288.php",
+     "domain": "newsonjapan.com",
+     "seen": "20261108T180000Z",
+     "ko": "제32호 태풍 일본 열도 접근 전 세력 강화 전망",
+     "sum": "제32호 태풍이 일본 열도에 접근하기 전에 세력을 키울 것으로 예상된다."
     },
     {
-     "title": "Japan's Tashima rates FIFA election chances at 20-30% in challenge to Infantino",
-     "url": "https://cyprus-mail.com/2026/11/08/japans-tashima-rates-fifa-election-chances-at-20-30-in-challenge-to-infantino",
-     "domain": "cyprus-mail.com",
-     "seen": "20261108T133000Z"
+     "title": "Japan Banking Outage Disrupts Cash Access at 128 Credit Unions",
+     "url": "https://econotimes.com/Japan-Banking-Outage-Disrupts-Cash-Access-at-128-Credit-Unions-1773272",
+     "domain": "econotimes.com",
+     "seen": "20261108T180000Z",
+     "ko": "일본 전산 장애로 128개 신용조합 현금 인출 차질",
+     "sum": "일본 전산망 장애로 128개 신용조합에서 현금 이용 차질이 발생했다."
     },
     {
-     "title": "Witch on the Holy Night Manga Adaptation to Get Simultaneous English Release",
-     "url": "https://operationrainfall.com/2026/11/08/witch-on-the-holy-night-manga-adaptation-to-get-simultaneous-english-release/",
-     "domain": "operationrainfall.com",
-     "seen": "20261108T131500Z"
+     "title": "350-Year-Old Deer Antler-Cutting Tradition Held in Nara Park",
+     "url": "https://newsonjapan.com/article/151290.php",
+     "domain": "newsonjapan.com",
+     "seen": "20261108T180000Z",
+     "ko": "일본 나라 공원서 350년 전통 사슴 뿔 자르기 행사 열려",
+     "sum": "일본 나라 공원에서 350년 전통의 사슴 뿔 자르기 행사가 개최되었다."
     },
     {
-     "title": "In Search of the Heart of the Online Cat-Industrial Complex",
-     "url": "https://www.wired.com/2012/08/ff-cats/",
-     "domain": "wired.com",
-     "seen": "20261108T131500Z"
-    },
-    {
-     "title": "Anna Sawai 'so terrified' of spilling Beatles biopic secrets",
-     "url": "http://www.femalefirst.co.uk/movies/movie-news/anna-sawai-terrified-spilling-beatles-biopic-secrets-1453355.html",
-     "domain": "femalefirst.co.uk",
-     "seen": "20261108T131500Z"
-    },
-    {
-     "title": "Norwich Royal Arcade to host Christmas late-night shopping",
-     "url": "https://www.edp24.co.uk/news/26706906.norwich-royal-arcade-host-christmas-late-night-shopping/",
-     "domain": "edp24.co.uk",
-     "seen": "20261108T131500Z"
-    },
-    {
-     "title": "Mitsubishi Heavy Industries (MHVYF) & Its Peers Critical Analysis",
-     "url": "https://www.dailypolitical.com/2026/11/08/mitsubishi-heavy-industries-mhvyf-its-peers-critical-analysis.html",
-     "domain": "dailypolitical.com",
-     "seen": "20261108T131500Z"
-    },
-    {
-     "title": "Vietnamese Party General Secretary and State President To Lam arrives in Japan for official visit",
-     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/08/vietnamese-party-general-secretary-and-state-president-to-lam-arrives-in-japan-for-official-visit",
-     "domain": "thestar.com.my",
-     "seen": "20261108T130000Z"
+     "title": "Japan's Tashima rates FIFA election chances at 20%-30% in challenge to Infantino",
+     "url": "https://news.tuoitre.vn/japans-tashima-rates-fifa-election-chances-at-20-30-in-challenge-to-infantino-10326110820260872.htm",
+     "domain": "news.tuoitre.vn",
+     "seen": "20261108T173000Z",
+     "ko": "일본 다시마 피파 회장 선거 당선 가능성 20에서 30퍼센트 전망",
+     "sum": "일본의 다시마가 인판티노에 맞선 피파 회장 선거 당선 가능성을 20퍼센트에서 30퍼센트로 평가했다."
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Tokyo_Montage_2015.jpg/800px-Tokyo_Montage_2015.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "page": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%BF%84",
-    "title": "도쿄"
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/080103_hakkai_fuji.jpg/960px-080103_hakkai_fuji.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%A7%80%EC%82%B0",
+    "title": "후지산",
+    "file": "080103_hakkai_fuji.jpg"
    }
   },
   "cn": {
    "articles": [
     {
-     "title": "(CIIE) CHINA-SHANGHAI-CIIE-NEW TECH PRODUCTS (CN)",
-     "url": "http://www.chinanationalnews.com/news/279420293/ciie-china-shanghai-ciie-new-tech-products-cn",
-     "domain": "chinanationalnews.com",
-     "seen": "20261108T133000Z"
+     "title": "Jensen Huang reportedly targeted by Beijing-recruited spy",
+     "url": "http://www.jpost.com/business-and-innovation/article-914134",
+     "domain": "jpost.com",
+     "seen": "20261108T183000Z",
+     "ko": "엔비디아 젠슨 황 중국 스파이 표적 됐다는 보도 나와",
+     "sum": "엔비디아의 젠슨 황이 중국 베이징에서 포섭된 스파이의 표적이 되었다는 보도가 나왔다."
     },
     {
-     "title": "CHINA-HUNAN-XIANGXI-CAMBRIAN CLUES-FIELD WORK-ACADEMIC DISCUSSIONS (CN)",
-     "url": "http://www.shanghaisun.com/news/279420189/china-hunan-xiangxi-cambrian-clues-field-work-academic-discussions-cn",
+     "title": "(SpotNews) CHINA-SHANXI-TAIYUAN-BUILDING FIRE (CN)",
+     "url": "http://www.shanghaisun.com/news/279420367/spotnews-china-shanxi-taiyuan-building-fire-cn",
      "domain": "shanghaisun.com",
-     "seen": "20261108T133000Z"
+     "seen": "20261108T183000Z",
+     "ko": "중국 산시성 타이위안서 건물 화재 발생",
+     "sum": "중국 산시성 타이위안의 한 건물에서 화재가 발생했다."
     },
     {
-     "title": "Poster | Seeing CIIE: Wonders",
-     "url": "http://www.shanghaisun.com/news/279420295/poster-seeing-ciie-wonders",
-     "domain": "shanghaisun.com",
-     "seen": "20261108T133000Z"
+     "title": "Chinese medical team provides free healthcare to over 5,000 residents in Tanzania's Zanzibar",
+     "url": "http://www.bignewsnetwork.com/news/279420598/chinese-medical-team-provides-free-healthcare-to-over-5000-residents-in-tanzania-zanzibar",
+     "domain": "bignewsnetwork.com",
+     "seen": "20261108T181500Z",
+     "ko": "중국 의료진 탄자니아 잔지바르 주민 5천여 명에 무료 진료 제공",
+     "sum": "중국 의료진이 탄자니아 잔지바르 주민 5천 명 이상에게 무료 의료 서비스를 제공했다."
     },
     {
-     "title": "Two Apprehended With Chinese Pistol, Grenades in Kulgam",
-     "url": "https://kashmirlife.net/two-apprehended-with-chinese-pistol-grenades-in-kulgam-460276/",
-     "domain": "kashmirlife.net",
-     "seen": "20261108T133000Z"
+     "title": "Sichuan Outlines Supply and Demand Priorities to Strengthen Quantum and Telecom Sectors",
+     "url": "https://www.chinatechnews.com/2026/11/09/132314-sichuan-outlines-supply-and-demand-priorities-to-strengthen-quantum-and-telecom-sectors",
+     "domain": "chinatechnews.com",
+     "seen": "20261108T174500Z",
+     "ko": "중국 쓰촨성 양자와 통신 부문 강화 위한 수급 우선과제 발표",
+     "sum": "중국 쓰촨성이 양자 및 통신 부문을 강화하기 위한 수급 우선순위를 개괄해 발표했다."
     },
     {
-     "title": "Telecom Operators' AI Spending in 2026: Bell, Ooredoo, China Mobile, China Telecom and Singtel Reveal Investments and Returns",
-     "url": "https://telecomlead.com/telecom-services/telecom-operators-ai-spending-in-2026-bell-ooredoo-china-mobile-china-telecom-and-singtel-reveal-investments-and-returns-128606",
-     "domain": "telecomlead.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "CIIE opens doors to global opportunities for Singaporean businesses: Singapore Business Federation CEO",
-     "url": "http://www.shanghaisun.com/news/279419287/ciie-opens-doors-to-global-opportunities-for-singaporean-businesses-singapore-business-federation-ceo",
-     "domain": "shanghaisun.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "#(EcoChina) CHINA-HEILONGJIANG-WINTER-DRIFT ICE (CN)",
-     "url": "http://www.shanghaisun.com/news/279419581/ecochina-china-heilongjiang-winter-drift-ice-cn",
-     "domain": "shanghaisun.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "2026 China International Intelligent Communication Forum Held in Wuxi",
-     "url": "https://www.thehindubusinessline.com/brandhub/pr-release/2026-china-international-intelligent-communication-forum-held-in-wuxi/article71680796.ece",
-     "domain": "thehindubusinessline.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Singapore business leader says CIIE opens up global opportunities",
-     "url": "http://www.laosnews.net/news/279420046/singapore-business-leader-says-ciie-opens-up-global-opportunities",
-     "domain": "laosnews.net",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "(CIIE) Economic Watch: China import expo spotlights deeper Asia-Pacific industrial cooperation",
-     "url": "http://www.laosnews.net/news/279420195/ciie-economic-watch-china-import-expo-spotlights-deeper-asia-pacific-industrial-cooperation",
-     "domain": "laosnews.net",
-     "seen": "20261108T133000Z"
+     "title": "Global experts seek Cambrian clues in central China's Hunan",
+     "url": "http://www.beijingbulletin.com/news/279420297/global-experts-seek-cambrian-clues-in-central-china-hunan",
+     "domain": "beijingbulletin.com",
+     "seen": "20261108T174500Z",
+     "ko": "세계 전문가들 중국 후난성서 캄브리아기 단서 탐색 나서",
+     "sum": "세계 각국 전문가들이 중국 중부 후난성에서 캄브리아기 단서를 찾고 있다."
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/China_Beijing.svg/langko-330px-China_Beijing.svg.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "page": "https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%9D%B4%EC%A7%95%EC%8B%9C",
-    "title": "베이징시"
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hall_of_Supreme_Harmony_%2820241127120000%29.jpg/960px-Hall_of_Supreme_Harmony_%2820241127120000%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%9E%90%EA%B8%88%EC%84%B1",
+    "title": "자금성",
+    "file": "Hall_of_Supreme_Harmony_(20241127120000).jpg"
    }
   },
   "tw": {
    "articles": [
     {
-     "title": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election",
-     "url": "http://www.cecildaily.com/ap/world/taiwan-detains-a-communist-party-leader-over-alleged-chinese-sponsorship-in-election/article_d791321f-91b2-538f-a4ba-d2ed3dca887e.html",
-     "domain": "cecildaily.com",
-     "seen": "20261108T121500Z"
+     "title": "TSMC mulls making advanced AI memory chips: report",
+     "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/09/2003867384",
+     "domain": "taipeitimes.com",
+     "seen": "20261108T164500Z",
+     "ko": "대만 TSMC 첨단 AI 메모리 반도체 제조 검토 보도",
+     "sum": "대만 TSMC가 첨단 인공지능 메모리 칩 생산을 검토하고 있다는 보도가 나왔다."
     },
     {
-     "title": "\"The Death of a Certain Woman,\" by Yasushi Inoue",
-     "url": "https://www.newyorker.com/magazine/2026/11/16/the-death-of-a-certain-woman-fiction-yasushi-inoue",
-     "domain": "newyorker.com",
-     "seen": "20261108T121500Z"
+     "title": "Three new F-16V Block 70s arrive at Taitung's air base",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867410",
+     "domain": "taipeitimes.com",
+     "seen": "20261108T164500Z",
+     "ko": "대만 타이둥 공군기지에 신형 F16V 전투기 3대 도착",
+     "sum": "대만 타이둥 공군기지에 신형 F16V 블록 70 전투기 3대가 도착했다."
     },
     {
-     "title": "Election-related fraud causes NT$20.15 million in losses: CIB",
-     "url": "https://focustaiwan.tw:443/society/202611080009",
-     "domain": "focustaiwan.tw",
-     "seen": "20261108T121500Z"
+     "title": "Chinese-owned yachts barred from Taiwan ports",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/09/2003867399",
+     "domain": "taipeitimes.com",
+     "seen": "20261108T164500Z",
+     "ko": "대만 모든 항구서 중국 소유 요트 입항 전면 금지",
+     "sum": "대만 항구에 중국인 소유 요트의 입항이 금지되었다."
     },
     {
-     "title": "On campaign trail, Chiang talks sports, Shen disadvantaged groups",
-     "url": "https://focustaiwan.tw/politics/202611080012",
-     "domain": "focustaiwan.tw",
-     "seen": "20261108T121500Z"
+     "title": "2026 Elections: TPCP head detained on interference allegations",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867413",
+     "domain": "taipeitimes.com",
+     "seen": "20261108T164500Z",
+     "ko": "대만 2026년 선거 앞두고 민중당 대표 선거 개입 혐의로 구금",
+     "sum": "대만에서 2026년 선거 개입 혐의로 민중당 대표가 구금되었다."
     },
     {
-     "title": "Taiwan People's Communist Party chief detained in China funding probe",
-     "url": "https://focustaiwan.tw:443/society/202611080010",
-     "domain": "focustaiwan.tw",
-     "seen": "20261108T121500Z"
+     "title": "2026 Elections: CIB reports NT$20.15m election-related fraud losses",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867414",
+     "domain": "taipeitimes.com",
+     "seen": "20261108T164500Z",
+     "ko": "대만 형사경찰국 2026 선거 관련 사기 피해액 2천만 대만달러 집계",
+     "sum": "대만 형사경찰국은 2026년 선거와 관련된 사기 피해액이 2015만 대만달러에 달한다고 발표했다."
     },
     {
-     "title": "Northeasterly winds to send temperatures lower in northern Taiwan",
-     "url": "https://focustaiwan.tw:443/society/202611080013",
-     "domain": "focustaiwan.tw",
-     "seen": "20261108T121500Z"
+     "title": "Guide on weight-loss drugs planned - Taipei Times",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867415",
+     "domain": "taipeitimes.com",
+     "seen": "20261108T164500Z",
+     "ko": "대만 비만 치료제 관련 가이드라인 마련 추진",
+     "sum": "대만에서 비만 치료제에 대한 사용 지침 마련이 추진된다."
     },
     {
-     "title": "Panamanian lawmaker urges Taiwan to establish trade office in Panama",
-     "url": "https://focustaiwan.tw:443/politics/202611080014",
-     "domain": "focustaiwan.tw",
-     "seen": "20261108T121500Z"
-    },
-    {
-     "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Bought by Kornitzer Capital Management Inc. KS",
-     "url": "https://www.themarketsdaily.com/2026/11/08/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-bought-by-kornitzer-capital-management-inc-ks.html",
-     "domain": "themarketsdaily.com",
-     "seen": "20261108T113000Z"
-    },
-    {
-     "title": "Taiwan detains Communist Party leader over alleged Chinese sponsorship in election",
-     "url": "https://www.thehindu.com/news/international/taiwan-detains-communist-party-leader-over-alleged-chinese-sponsorship-in-election/article71680805.ece",
-     "domain": "thehindu.com",
-     "seen": "20261108T103000Z"
-    },
-    {
-     "title": "Taiwan People'S Communist Party: Taiwan detains communist party leader over alleged links to China ahead of local polls",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-detains-communist-party-leader-over-alleged-links-to-china-ahead-of-local-polls/articleshow/135655245.cms",
-     "domain": "indiatimes.com",
-     "seen": "20261108T100000Z"
+     "title": "NT dollar volatility a challenge: analysts",
+     "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/09/2003867382",
+     "domain": "taipeitimes.com",
+     "seen": "20261108T164500Z",
+     "ko": "대만 달러 변동성 확대가 주요 경제 과제로 지적돼",
+     "sum": "전문가들은 대만 달러의 환율 변동성 확대가 해결해야 할 과제라고 지적했다."
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/800px-Taipei_Skyline_2022.06.29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/960px-Taipei_Skyline_2022.06.29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "page": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EC%8B%9C",
-    "title": "타이베이시"
+    "title": "타이베이시",
+    "file": "Taipei_Skyline_2022.06.29.jpg"
    }
   },
   "mm": {
-   "articles": [
-    {
-     "title": "Myanmar Junta Criticized for Adding Conscription Law Lessons to School Curriculum",
-     "url": "https://karennews.org/2026/11/myanmar-junta-criticized-for-adding-conscription-law-lessons-to-school-curriculum/",
-     "domain": "karennews.org",
-     "seen": "20261108T104500Z"
-    }
-   ],
+   "articles": [],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Yangon_montage.png/800px-Yangon_montage.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "page": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B3%A4",
-    "title": "양곤"
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Shwedagon_Pagoda_2017.jpg/960px-Shwedagon_Pagoda_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%8A%88%EC%9B%A8%EB%8B%A4%EA%B3%A4_%ED%8C%8C%EA%B3%A0%EB%8B%A4",
+    "title": "슈웨다곤 파고다",
+    "file": "Shwedagon_Pagoda_2017.jpg"
    }
   },
   "my": {
    "articles": [
     {
-     "title": "Najib house arrest leaves Anwar in a bind | The Straits Times",
-     "url": "https://www.straitstimes.com/asia/se-asia/to-free-or-not-to-free-ceding-to-umno-leaves-anwar-in-a-bind-over-najibs-house-arrest",
-     "domain": "straitstimes.com",
-     "seen": "20261108T133000Z"
+     "title": "Indonesia called me a spy, says Malaysian haze filmmaker",
+     "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/indonesia-called-me-a-spy-says-malaysian-haze-film-maker",
+     "domain": "freemalaysiatoday.com",
+     "seen": "20261108T173000Z",
+     "ko": "말레이시아 연무 다큐 감독 인도네시아가 날 스파이로 몰았다 주장",
+     "sum": "말레이시아 연무 다큐멘터리 영화감독이 인도네시아가 자신을 스파이라고 불렀다고 말했다."
     },
     {
-     "title": "Sundry shop owner slashed to death after fight over money, say Papar cops",
-     "url": "https://www.thestar.com.my/news/nation/2026/11/08/man-slashed-to-death-after-fight-over-money-say-papar-cops",
+     "title": "Terengganu to appoint Chinese Gerakan rep as state assemblyman, says MB",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/08/terengganu-to-appoint-chinese-gerakan-rep-as-state-assemblyman-says-mb",
      "domain": "thestar.com.my",
-     "seen": "20261108T130000Z"
+     "seen": "20261108T150000Z",
+     "ko": "말레이시아 트렝가누주 화교 게라칸 대표 주의회 의원으로 임명 예정",
+     "sum": "말레이시아 트렝가누주가 게라칸의 중국계 대표를 주의회 의원으로 임명할 예정이다."
     },
     {
-     "title": "Man drowns at Taman Suria Waterfall in Taiping",
-     "url": "https://www.thestar.com.my/news/nation/2026/11/08/man-drowns-at-taman-suria-waterfall-in-taiping",
-     "domain": "thestar.com.my",
-     "seen": "20261108T130000Z"
+     "title": "Taman Sri Muda flooded again following heavy rain",
+     "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/taman-sri-muda-flooded-again-following-heavy-rain",
+     "domain": "freemalaysiatoday.com",
+     "seen": "20261108T143000Z",
+     "ko": "말레이시아 타만 스리 무다 폭우로 또다시 침수 피해",
+     "sum": "말레이시아 타만 스리 무다 지역이 집중 호우로 인해 다시 침수되었다."
     },
     {
-     "title": "Taman Sri Muda among several areas hit by flash floods, Bomba on alert",
-     "url": "https://www.thestar.com.my/news/nation/2026/11/08/selangor-sees-rising-water-levels-firefighters-on-alert",
-     "domain": "thestar.com.my",
-     "seen": "20261108T130000Z"
+     "title": "Rauf eyes Kota Laksamana as new Melaka state capital",
+     "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/rauf-eyes-kota-laksamana-as-new-melaka-state-capital",
+     "domain": "freemalaysiatoday.com",
+     "seen": "20261108T143000Z",
+     "ko": "말레이시아 믈라카주 코타 락사마나로 주도 이전 검토",
+     "sum": "말레이시아 믈라카주가 코타 락사마나를 새로운 주도로 지정하는 방안을 검토하고 있다."
     },
     {
-     "title": "AADK needs more volunteers to fight drug abuse",
-     "url": "https://www.thestar.com.my/news/nation/2026/11/08/aadk-needs-more-volunteers-to-fight-drug-abuse",
-     "domain": "thestar.com.my",
-     "seen": "20261108T130000Z"
+     "title": "Experts weigh expansion of KKIA against building new airport",
+     "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/experts-weigh-expansion-of-kkia-against-building-new-airport",
+     "domain": "freemalaysiatoday.com",
+     "seen": "20261108T143000Z",
+     "ko": "말레이시아 전문가들 코타키나발루 공항 확장과 신공항 건설 저울질",
+     "sum": "전문가들이 코타키나발루 국제공항 확장안과 신공항 건설안을 비교 검토하고 있다."
     },
     {
-     "title": "Nine remanded in fatal Sibu brawl case",
-     "url": "https://www.thestar.com.my/news/nation/2026/11/08/nine-remanded-in-fatal-sibu-brawl-case",
-     "domain": "thestar.com.my",
-     "seen": "20261108T130000Z"
-    },
-    {
-     "title": "Man dies in suspected fall from Bayan Lepas hotel balcony",
-     "url": "https://www.thestar.com.my/news/nation/2026/11/08/man-dies-in-suspected-fall-from-bayan-lepas-hotel-balcony",
-     "domain": "thestar.com.my",
-     "seen": "20261108T130000Z"
-    },
-    {
-     "title": "Preparing now for longer lives",
-     "url": "https://www.thestar.com.my/opinion/letters/2026/11/08/preparing-now-for-longer-lives",
-     "domain": "thestar.com.my",
-     "seen": "20261108T124500Z"
-    },
-    {
-     "title": "Why policy certainty is important in a world of hyper-flux",
-     "url": "https://www.thestar.com.my/opinion/letters/2026/11/08/why-policy-certainty-is-important-in-a-world-of-hyper-flux",
-     "domain": "thestar.com.my",
-     "seen": "20261108T124500Z"
-    },
-    {
-     "title": "From Viral Vomiting Claims To Expired Waffles: What Is Actually Going On With Gardenia?",
-     "url": "https://www.therakyatpost.com/news/malaysia/2026/11/08/from-viral-vomiting-claims-to-expired-waffles-what-is-actually-going-on-with-gardenia/",
-     "domain": "therakyatpost.com",
-     "seen": "20261108T123000Z"
+     "title": "Patrol car overturns while trying to avoid monkeys on road",
+     "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/patrol-car-overturns-while-trying-to-avoid-monkeys-on-road",
+     "domain": "freemalaysiatoday.com",
+     "seen": "20261108T143000Z",
+     "ko": "말레이시아 도로 위 원숭이 피하려던 경찰 순찰차 전복",
+     "sum": "말레이시아에서 도로 위의 원숭이를 피하려던 경찰 순찰차가 전복되었다."
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bukit_Bintang_Junction_in_2023.jpg/800px-Bukit_Bintang_Junction_in_2023.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bukit_Bintang_Junction_in_2023.jpg/960px-Bukit_Bintang_Junction_in_2023.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "page": "https://ko.wikipedia.org/wiki/%EC%BF%A0%EC%95%8C%EB%9D%BC%EB%A3%B8%ED%91%B8%EB%A5%B4",
-    "title": "쿠알라룸푸르"
+    "title": "쿠알라룸푸르",
+    "file": "Bukit_Bintang_Junction_in_2023.jpg"
    }
   },
   "id": {
    "articles": [
     {
-     "title": "Australians survive fire helicopter crash in Indonesia",
-     "url": "https://www.easternriverinachronicle.com.au/story/9387825/australians-survive-fire-helicopter-crash-in-indonesia/",
-     "domain": "easternriverinachronicle.com.au",
-     "seen": "20261108T133000Z"
+     "title": "Can't cook or shower: Indonesians take aim at data centres",
+     "url": "https://tribune.com.pk/story/2639297/cant-cook-or-shower-indonesians-take-aim-at-data-centres",
+     "domain": "tribune.com.pk",
+     "seen": "20261108T180000Z",
+     "ko": "인도네시아 주민들 샤워도 못 해 데이터센터에 거센 불만",
+     "sum": "인도네시아 주민들이 요리와 샤워조차 어렵게 만드는 데이터센터를 비판하고 있다."
     },
     {
-     "title": "Environmental groups embrace AI, even as they warn of data center impacts",
-     "url": "https://news.tuoitre.vn/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts-103261108153002294.htm",
-     "domain": "news.tuoitre.vn",
-     "seen": "20261108T124500Z"
-    },
-    {
-     "title": "Indonesia: Helicopter Crashes Into River During Wildfire Operations",
-     "url": "https://www.deccanchronicle.com/world/indonesia-helicopter-crashes-into-river-during-wildfire-operations-2002769",
-     "domain": "deccanchronicle.com",
-     "seen": "20261108T123000Z"
-    },
-    {
-     "title": "Singapore President Tharman Shanmugaratnam celebrates Deepavali with idiyappam challenge, highlights multicultural spirit",
-     "url": "http://www.singaporestar.com/news/279419617/singapore-president-tharman-shanmugaratnam-celebrates-deepavali-with-idiyappam-challenge-highlights-multicultural-spirit",
-     "domain": "singaporestar.com",
-     "seen": "20261108T121500Z"
-    },
-    {
-     "title": "Indonesian govt tightens checks on subsidized rice after fraud cases",
-     "url": "https://en.antaranews.com/news/441171/indonesian-govt-tightens-checks-on-subsidized-rice-after-fraud-cases",
+     "title": "One dead, two survive helicopter crash in S Kalimantan",
+     "url": "https://en.antaranews.com/news/441215/one-dead-two-survive-helicopter-crash-in-s-kalimantan",
      "domain": "antaranews.com",
-     "seen": "20261108T120000Z"
+     "seen": "20261108T160000Z",
+     "ko": "인도네시아 남칼리만탄서 헬기 추락해 1명 사망 2명 생존",
+     "sum": "인도네시아 남칼리만탄에서 헬기가 추락해 탑승자 1명이 숨지고 2명이 생존했다."
     },
     {
-     "title": "Jimly urges police chief to implement reform recommendations",
-     "url": "https://en.antaranews.com/news/441131/jimly-urges-police-chief-to-implement-reform-recommendations",
+     "title": "Prabowo gathers 10 former police chiefs amid wiretap investigation",
+     "url": "https://en.antaranews.com/news/441207/prabowo-gathers-10-former-police-chiefs-amid-wiretap-investigation",
      "domain": "antaranews.com",
-     "seen": "20261108T120000Z"
+     "seen": "20261108T160000Z",
+     "ko": "프라보워 인도네시아 대통령 도청 수사 속 전직 경찰청장 10명 소집",
+     "sum": "프라보워 인도네시아 대통령이 도청 수사 와중에 전직 경찰청장 10명을 소집했다."
     },
     {
-     "title": "International concerts boost foreign tourist arrivals: Ministry",
-     "url": "https://en.antaranews.com/news/441151/international-concerts-boost-foreign-tourist-arrivals-ministry",
+     "title": "Bali launches free electric bus service on Trans Sarbagita route",
+     "url": "https://en.antaranews.com/news/441211/bali-launches-free-electric-bus-service-on-trans-sarbagita-route",
      "domain": "antaranews.com",
-     "seen": "20261108T120000Z"
+     "seen": "20261108T160000Z",
+     "ko": "인도네시아 발리 트랜스 사르바기타 노선에 무료 전기버스 운행",
+     "sum": "인도네시아 발리의 트랜스 사르바기타 노선에서 무료 전기버스 운행 서비스가 시작되었다."
     },
     {
-     "title": "Skouw border post enforces All Indonesia arrival declaration",
-     "url": "https://en.antaranews.com/news/441147/skouw-border-post-enforces-all-indonesia-arrival-declaration",
+     "title": "Indonesia completes construction of 265 People's Schools",
+     "url": "https://en.antaranews.com/news/441199/indonesia-completes-construction-of-265-peoples-schools",
      "domain": "antaranews.com",
-     "seen": "20261108T120000Z"
+     "seen": "20261108T160000Z",
+     "ko": "인도네시아 국민학교 265곳 건설 완공 발표",
+     "sum": "인도네시아가 265개 국민학교 건설을 완료했다."
     },
     {
-     "title": "KAI offers 30 percent discount on for year-end holidays",
-     "url": "https://en.antaranews.com/news/441183/kai-offers-30-percent-discount-on-for-year-end-holidays",
+     "title": "Agriculture Minister vows to act on 340 reports of irregularities",
+     "url": "https://en.antaranews.com/news/441195/agriculture-minister-vows-to-act-on-340-reports-of-irregularities",
      "domain": "antaranews.com",
-     "seen": "20261108T120000Z"
-    },
-    {
-     "title": "Three survive after another firefighting chopper crashes in Kalimantan",
-     "url": "https://en.antaranews.com/news/441087/three-survive-after-another-firefighting-chopper-crashes-in-kalimantan",
-     "domain": "antaranews.com",
-     "seen": "20261108T120000Z"
+     "seen": "20261108T160000Z",
+     "ko": "인도네시아 농업부 장관 340건의 부정행위 신고에 엄정 대응 천명",
+     "sum": "인도네시아 농업부 장관이 340건의 부정행위 제보에 대해 강력히 조치하겠다고 밝혔다."
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Jakarta_Special_Capital_Region_in_Indonesia_%28special_marker%29.svg/langko-330px-Jakarta_Special_Capital_Region_in_Indonesia_%28special_marker%29.svg.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "page": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%B9%B4%EB%A5%B4%ED%83%80",
-    "title": "자카르타"
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/960px-Borobudur-Nothwest-view.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A1%9C%EB%B6%80%EB%91%90%EB%A5%B4",
+    "title": "보로부두르",
+    "file": "Borobudur-Nothwest-view.jpg"
    }
   },
   "fr": {
    "articles": [
     {
-     "title": "Back To The Future Of Science Fiction",
-     "url": "https://science20.com/quentin_r_skrabec/back_to_the_future_of_science_fiction-256126",
-     "domain": "science20.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "French bank faces €100 million loss after cyber heist",
-     "url": "http://www.laosnews.net/news/279414663/french-bank-faces-100-million-loss-after-cyber-heist",
-     "domain": "laosnews.net",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Christian Dior S.E. (OTCMKTS:CHDRY) Stock Crosses Below 200-Day Moving Average – Here's Why",
-     "url": "https://www.dailypolitical.com/2026/11/08/christian-dior-s-e-otcmktschdry-stock-crosses-below-200-day-moving-average-heres-why.html",
-     "domain": "dailypolitical.com",
-     "seen": "20261108T133000Z"
-    },
-    {
      "title": "Hackers steal €100 million from French lender Credit Mutuel Arkea",
-     "url": "http://www.chinanationalnews.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
-     "domain": "chinanationalnews.com",
-     "seen": "20261108T133000Z"
+     "url": "http://www.nigeriasun.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+     "domain": "nigeriasun.com",
+     "seen": "20261108T174500Z",
+     "ko": "사이버 해킹으로 프랑스 은행서 1억 유로 털려",
+     "sum": "프랑스 금융기관 크레디 뮈튀엘 아르케아가 해커들의 공격을 받아 1억 유로를 도난당했다."
     },
     {
-     "title": "Gianni Infantino left sweating as Arsene Wenger urged to rival FIFA chief for job",
-     "url": "https://www.aol.co.uk/articles/gianni-infantino-left-sweating-arsene-124910000.html",
-     "domain": "aol.co.uk",
-     "seen": "20261108T133000Z"
+     "title": "Coty plans to axe 155 of its 200 jobs in France, unions say",
+     "url": "https://www.premiumbeautynews.com/en/coty-plans-to-axe-155-of-its-200,28498",
+     "domain": "premiumbeautynews.com",
+     "seen": "20261108T174500Z",
+     "ko": "뷰티 기업 코티, 프랑스 직원 200명 중 155명 감원 계획",
+     "sum": "뷰티 기업 코티가 프랑스 내 인력 200명 가운데 155명을 감원할 계획이라고 노동조합이 밝혔다."
     },
     {
-     "title": "I'm a 32-year-old personal trainer... and I love having affairs with my female, midlife clients. Their husbands should thank me for improving their wives (in and out of the bedroom!)",
-     "url": "https://www.dailymail.com/lifestyle/love-sex/article-16275883/personal-trainer-love-affairs-midlife-clients-husbands.html",
-     "domain": "dailymail.com",
-     "seen": "20261108T131500Z"
+     "title": "Tom Laperche smashes Route du Rhum record to win transatlantic solo race on Ultim SVR-Lazartigue",
+     "url": "https://www.yachtingworld.com/all-latest-posts/tom-laperche-smashes-route-du-rhum-record-to-win-transatlantic-solo-race-on-ultim-svr-lazartigue-164535",
+     "domain": "yachtingworld.com",
+     "seen": "20261108T164500Z",
+     "ko": "프랑스 항해사 라페르슈, 루 드 럼 횡단 요트 대회 신기록 우승",
+     "sum": "프랑스 항해사 톰 라페르슈가 대서양 횡단 단독 요트 대회인 루 드 럼에서 신기록을 세우며 우승했다."
     },
     {
-     "title": "Film Column - The Devils",
-     "url": "https://www.limerickpost.ie/2026/11/08/film-column-the-devils/",
-     "domain": "limerickpost.ie",
-     "seen": "20261108T131500Z"
+     "title": "A woman bought an unremarkable black lamp for just €20 at a French flea market; her daughter spotted a hidden signature and the rediscovered ceramic piece sold for €251,000",
+     "url": "https://timesofindia.indiatimes.com/world/europe/a-woman-bought-an-unremarkable-black-lamp-for-just-20-at-a-french-flea-market-her-daughter-spotted-a-hidden-signature-and-the-rediscovered-ceramic-piece-sold-for-251000/articleshow/135630119.cms",
+     "domain": "indiatimes.com",
+     "seen": "20261108T164500Z",
+     "ko": "벼룩시장서 20유로에 산 조명, 25만 유로에 낙찰",
+     "sum": "프랑스 벼룩시장에서 20유로에 산 램프에서 숨겨진 서명이 발견돼 경매에서 25만 1000유로에 팔렸다."
     },
     {
-     "title": "Filet crochet is the delicate lace technique to try this autumn",
-     "url": "https://www.prima.co.uk/craft/crochet/a74355752/how-to-filet-crochet/",
-     "domain": "prima.co.uk",
-     "seen": "20261108T130000Z"
+     "title": "Covid-19 cases rise in France: map of worst-hit departments",
+     "url": "https://www.connexionfrance.com/health/covid-19-on-the-rise-in-france-map-shows-worst-hit-departments/826895",
+     "domain": "connexionfrance.com",
+     "seen": "20261108T163000Z",
+     "ko": "프랑스 전역서 코로나19 확진자 급증세",
+     "sum": "프랑스 내 여러 지역에서 코로나19 확진자가 다시 증가하고 있다."
     },
     {
-     "title": "GCHQ warns UK organisations after freezer cyber attacks",
-     "url": "https://www.northwalespioneer.co.uk/news/26709597.gchq-warns-uk-organisations-freezer-cyber-attacks/",
-     "domain": "northwalespioneer.co.uk",
-     "seen": "20261108T130000Z"
-    },
-    {
-     "title": "After Galliano controversy, Met Gala turns to everyday fashion",
-     "url": "https://www.dailysabah.com/life/fashion/after-galliano-controversy-met-gala-turns-to-everyday-fashion",
-     "domain": "dailysabah.com",
-     "seen": "20261108T130000Z"
+     "title": "France drought: Water tankers supply villages in Creuse",
+     "url": "https://www.connexionfrance.com/living-in-france/tankers-deliver-drinking-water-to-villages-in-drought-hit-nouvelle-aquitaine/827136",
+     "domain": "connexionfrance.com",
+     "seen": "20261108T163000Z",
+     "ko": "극심한 가뭄 겪는 프랑스 크뢰즈 마을에 급수차 긴급 투입",
+     "sum": "가뭄 피해를 겪고 있는 프랑스 크뢰즈 지역 마을들에 급수 차량이 물을 공급하고 있다."
     }
    ],
-   "photo": null
+   "photo": {
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/960px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%97%90%ED%8E%A0%ED%83%91",
+    "title": "에펠탑",
+    "file": "Tour_Eiffel_Wikimedia_Commons_(cropped).jpg"
+   }
   },
   "de": {
    "articles": [
     {
-     "title": "Dialogue, human-centered journalism key to understanding China: German newspaper chief",
-     "url": "http://www.shanghaisun.com/news/279419551/dialogue-human-centered-journalism-key-to-understanding-china-german-paper-chief",
-     "domain": "shanghaisun.com",
-     "seen": "20261108T133000Z"
+     "title": "German town offers historic castle for a symbolic €1",
+     "url": "https://www.azernews.az/region/267055.html",
+     "domain": "azernews.az",
+     "seen": "20261108T180000Z",
+     "ko": "독일의 한 마을, 역사적 가치 있는 고성을 단돈 1유로에 매물로",
+     "sum": "독일의 한 지자체가 역사적인 고성을 상징적인 가격인 1유로에 판매하기로 했다."
     },
     {
-     "title": "Briton killed and another injured in Poland mass shooting that left six dead",
-     "url": "https://www.burytimes.co.uk/news/national/26709421.briton-killed-another-injured-poland-mass-shooting-left-six-dead/",
-     "domain": "burytimes.co.uk",
-     "seen": "20261108T133000Z"
+     "title": "Berlin Digital Technologies Days focus on Germany's innovation transfer",
+     "url": "https://baltic-review.com/berlin-digital-technologies-days-germany-innovation-transfer/",
+     "domain": "baltic-review.com",
+     "seen": "20261108T174500Z",
+     "ko": "베를린 디지털 기술의 날 행사, 독일의 혁신 기술 이전에 초점",
+     "sum": "베를린에서 열린 디지털 기술의 날 행사에서 독일의 혁신 기술 이전에 관한 논의가 이뤄졌다."
     },
     {
-     "title": "West Ham: 'Next step' in Niclas Fullkrug permanent exit confirmed",
-     "url": "https://the72.co.uk/2026/11/08/west-ham-next-step-niclas-fullkrug-permanent-exit/",
-     "domain": "the72.co.uk",
-     "seen": "20261108T130000Z"
+     "title": "Bundesliga: Goalkeeper Neuer joins Bayern's long injury list",
+     "url": "https://punchng.com/bundesliga-goalkeeper-neuer-joins-bayerns-long-injury-list/",
+     "domain": "punchng.com",
+     "seen": "20261108T164500Z",
+     "ko": "바이에른 뮌헨 골키퍼 노이어 부상자 명단 올라",
+     "sum": "바이에른 뮌헨의 골키퍼 마누엘 노이어가 부상자 명단에 추가되었다."
     },
     {
-     "title": "COP31 begins in Antalya in year of climate disasters",
-     "url": "https://www.dailysabah.com/life/environment/cop31-begins-in-antalya-in-year-of-climate-disasters",
-     "domain": "dailysabah.com",
-     "seen": "20261108T130000Z"
+     "title": "Three arrested after Palestinian flag raised outside German parliament",
+     "url": "https://news.az/news/three-arrested-after-palestinian-flag-raised-outside-german-parliament",
+     "domain": "news.az",
+     "seen": "20261108T151500Z",
+     "ko": "독일 의사당 국기 자리에 팔레스타인기 건 3명 체포",
+     "sum": "베를린 독일 연방의회 의사당 앞 국기를 내리고 팔레스타인 국기를 게양한 활동가 3명이 체포되었다."
     },
     {
-     "title": "'My Data, My Rules' – The Right to Data Portability",
-     "url": "https://www.legallyindia.com/views/entry/my-data-my-rules-the-right-to-data-portability/",
-     "domain": "legallyindia.com",
-     "seen": "20261108T130000Z"
-    },
-    {
-     "title": "Geothermal Energy Investment 2026: Fervo's $2.2 Billion IPO, EGS Project Costs, Developers and Returns",
-     "url": "https://greentechlead.com/power/geothermal-energy-investment-2026-fervos-2-2-billion-ipo-egs-project-costs-developers-and-returns-56399",
-     "domain": "greentechlead.com",
-     "seen": "20261108T123000Z"
-    },
-    {
-     "title": "Liverpool identify Luka Vuskovic as top centre-back target, monstrous price revealed",
-     "url": "https://thehardtackle.com/transfer-news/2026/11/08/liverpool-identify-luka-vuskovic-as-top-centre-back-target-monstrous-price-revealed/",
-     "domain": "thehardtackle.com",
-     "seen": "20261108T123000Z"
-    },
-    {
-     "title": "Arsenal run rule over Antonio Nusa, face Liverpool, Tottenham battle",
-     "url": "https://thehardtackle.com/transfer-news/2026/11/08/arsenal-run-rule-over-antonio-nusa-face-liverpool-tottenham-battle/",
-     "domain": "thehardtackle.com",
-     "seen": "20261108T123000Z"
-    },
-    {
-     "title": "Can AI cut heating bills? Smart systems show promise, but costs remain a hurdle - Shafaqna English",
-     "url": "https://en.shafaqna.com/489941/ai-smart-heating-systems-reduce-energy-bills/",
-     "domain": "shafaqna.com",
-     "seen": "20261108T113000Z"
-    },
-    {
-     "title": "COP31 Host Agreement Caps Lodging Charges for Trust Fund for Participation Recipients",
-     "url": "https://econotimes.com/COP31-Host-Agreement-Caps-Lodging-Charges-for-Trust-Fund-for-Participation-Recipients-1773159",
-     "domain": "econotimes.com",
-     "seen": "20261108T111500Z"
+     "title": "Central Bank of Syria participates in investment conference in Germany",
+     "url": "https://sana.sy/en/economic/2357135/",
+     "domain": "sana.sy",
+     "seen": "20261108T144500Z",
+     "ko": "시리아 중앙은행, 독일서 열린 투자 콘퍼런스 참가",
+     "sum": "시리아 중앙은행 관계자들이 독일에서 열린 투자 콘퍼런스에 참석했다."
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin_Panorama_von_der_Siegess%C3%A4ule_2021.jpg/800px-Berlin_Panorama_von_der_Siegess%C3%A4ule_2021.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "page": "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A5%BC%EB%A6%B0",
-    "title": "베를린"
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Brandenburger_Tor_Abend.jpg/960px-Berlin_Brandenburger_Tor_Abend.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9E%80%EB%8D%B4%EB%B6%80%EB%A5%B4%ED%81%AC_%EB%AC%B8",
+    "title": "브란덴부르크 문",
+    "file": "Berlin_Brandenburger_Tor_Abend.jpg"
    }
   },
   "pl": {
    "articles": [
     {
-     "title": "Student Protests Expose A Deeper Crisis In France - DW Focus On Europe",
-     "url": "https://nhpbs.org/schedule/summary.aspx?progId=DWFocusOnEurope4446",
-     "domain": "nhpbs.org",
-     "seen": "20261108T133000Z"
+     "title": "Poland Launches Terrorism Probe Into Krakow Shooting That Left 6 Dead, 15 Injured",
+     "url": "https://article.wn.com/view/2026/11/08/Poland_Launches_Terrorism_Probe_Into_Krakow_Shooting_That_Le/",
+     "domain": "wn.com",
+     "seen": "20261108T164500Z",
+     "ko": "폴란드 크라쿠프서 6명 숨진 총격 참사 발생, 테러 수사 착수",
+     "sum": "폴란드 크라쿠프에서 6명이 사망하고 15명이 다친 총격 사건이 발생해 당국이 테러 혐의 수사에 착수했다."
     },
     {
-     "title": "Ola Jordan 'utterly devastated' following shocking new James cheating claims",
-     "url": "https://www.hellomagazine.com/celebrities/932027/exclusive-ola-jordan-speaks-for-first-time-about-marriage-split/",
-     "domain": "hellomagazine.com",
-     "seen": "20261108T133000Z"
+     "title": "Archdiocese of Krakow opens beatification process of John Paul II's parents --Aleteia",
+     "url": "https://aleteia.org/2019/10/10/archdiocese-of-krakow-opens-beatification-process-of-john-paul-iis-parents/",
+     "domain": "aleteia.org",
+     "seen": "20261108T160000Z",
+     "ko": "폴란드 크라쿠프 대교구, 교황 요한 바오로 2세 부모 시복 절차 개시",
+     "sum": "크라쿠프 대교구가 교황 요한 바오로 2세의 부모를 복자로 추대하기 위한 시복 절차를 시작했다."
     },
     {
-     "title": "Security fears heighten after mass shooting in Poland",
-     "url": "https://www.timeslive.co.za/news/world/2026-11-08-security-fears-heighten-after-mass-shooting-in-poland/",
-     "domain": "timeslive.co.za",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Poland calls Krakow shooting rampage 'terrorist' attack",
-     "url": "https://www.straitstimes.com/world/europe/poland-calls-krakow-shooting-rampage-terrorist-attack",
-     "domain": "straitstimes.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Briton killed and another injured in Poland mass shooting that left six dead",
-     "url": "https://www.southwalesguardian.co.uk/news/national/26709421.briton-killed-another-injured-poland-mass-shooting-left-six-dead/",
-     "domain": "southwalesguardian.co.uk",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Poland mourns six killed in attack as authorities launch 'terrorism' probe | Crime News",
-     "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe",
-     "domain": "aljazeera.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Defence and trade driving India-Poland partnership: Report",
-     "url": "https://ianslive.in/defence-and-trade-driving-india-poland-partnership-report--20261108173756",
-     "domain": "ianslive.in",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Poland mourns victims of Krakow mass shooting as security fears grow",
-     "url": "https://cyprus-mail.com/2026/11/08/poland-mourns-victims-of-krakow-mass-shooting-as-security-fears-grow",
-     "domain": "cyprus-mail.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Poles mourn rare mass killing as authorities say attacker had far-right views - WSVN 7News | Miami News, Weather, Sports",
-     "url": "https://wsvn.com/news/us-world/poland-massacre-krakow-terrorist-attack/",
-     "domain": "wsvn.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
-     "url": "https://isp.netscape.com:443/news/world/story/0001/20261108/69a65400657ffd0c8b3fa104bd472b97",
-     "domain": "netscape.com",
-     "seen": "20261108T133000Z"
+     "title": "Mexican Day of the Dead parade held in Warsaw, Poland-Xinhua",
+     "url": "https://english.news.cn/20261108/75b5b99ab4624034a9dfbd3af08bd6ce/c.html",
+     "domain": "english.news.cn",
+     "seen": "20261108T154500Z",
+     "ko": "폴란드 바르샤바에서 멕시코 전통 망자의 날 퍼레이드 개최",
+     "sum": "폴란드 바르샤바 시내에서 멕시코 전통 축제인 망자의 날 퍼레이드가 열렸다."
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg/800px-Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg/960px-Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "page": "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%A5%B4%EC%83%A4%EB%B0%94",
-    "title": "바르샤바"
+    "title": "바르샤바",
+    "file": "Aleja_Niepdleglosci_Warsaw_2022_aerial_(cropped).jpg"
    }
   },
   "it": {
    "articles": [
     {
-     "title": "Easy Homemade Tomato Sauce / Belkys - WSVN 7News | Miami News, Weather, Sports",
-     "url": "https://wsvn.com/entertainment/bite-with-belkys/fresh-tomato-basil-pasta-recipe/",
-     "domain": "wsvn.com",
-     "seen": "20261108T133000Z"
+     "title": "Video. Watch: Spectacular double waterspout forms off Italy's Capri island",
+     "url": "https://www.euronews.com/video/2026/11/08/watch-spectacular-double-waterspout-forms-off-italys-capri-island",
+     "domain": "euronews.com",
+     "seen": "20261108T183000Z",
+     "ko": "이탈리아 카프리섬 앞바다서 거대한 쌍둥이 용오름 발생",
+     "sum": "이탈리아 카프리섬 인근 바다에서 보기 드문 이중 용오름 현상이 관측되었다."
     },
     {
-     "title": "Lewis Hamilton vs Charles Leclerc civil war at Ferrari over? Peace in our time?",
-     "url": "https://www.grandprix247.com/f1-teams-news/lewis-hamilton-vs-charles-leclerc-civil-war-at-ferrari-over-peace-in-our-time",
-     "domain": "grandprix247.com",
-     "seen": "20261108T133000Z"
+     "title": "Italy convenes security meeting amid cyberattack fears",
+     "url": "https://article.wn.com/view/2026/11/08/Italy_convenes_security_meeting_amid_cyberattack_fears/",
+     "domain": "wn.com",
+     "seen": "20261108T164500Z",
+     "ko": "이탈리아 정부, 사이버 공격 위협 우려에 긴급 안보 회의 소집",
+     "sum": "이탈리아 당국이 사이버 공격에 대한 우려가 커지자 관련 안보 회의를 소집했다."
     },
     {
-     "title": "New wave of bomb hoaxes forces flight diversions across Europe",
-     "url": "http://www.russiaherald.com/news/279414694/new-wave-of-bomb-hoaxes-forces-flight-diversions-across-europe",
-     "domain": "russiaherald.com",
-     "seen": "20261108T130000Z"
+     "title": "Tinto Brass, Italian director known for erotic films 'Caligula' and 'Salon Kitty,' dies at 93",
+     "url": "https://www.newstribune.com/news/2026/nov/08/tinto-brass-italian-director-known-for-erotic/",
+     "domain": "newstribune.com",
+     "seen": "20261108T150000Z",
+     "ko": "영화 칼리굴라 연출한 이탈리아 거장 틴토 브라스 감독, 93세로 별세",
+     "sum": "영화 칼리굴라 등으로 유명한 이탈리아의 영화감독 틴토 브라스가 93세를 일기로 세상을 떠났다."
     },
     {
-     "title": "'Take not thy thunder from us' — The Catholic Herald",
-     "url": "https://thecatholicherald.com/article/take-not-thy-thunder-from-us",
-     "domain": "thecatholicherald.com",
-     "seen": "20261108T130000Z"
-    },
-    {
-     "title": "Vision prevention: the UICI camper in Messina for a free eye screening",
-     "url": "https://www.odnako.org/vision-prevention-the-uici-camper-in-messina-for-a-free-eye-screening/",
-     "domain": "odnako.org",
-     "seen": "20261108T130000Z"
-    },
-    {
-     "title": "Right to vote for Calabrian non-residents: «Times too short for the 2027 policies»",
-     "url": "https://www.odnako.org/right-to-vote-for-calabrian-non-residents-times-too-short-for-the-2027-policies/",
-     "domain": "odnako.org",
-     "seen": "20261108T130000Z"
-    },
-    {
-     "title": "Advanced tumor profiling uncovers hidden hereditary cancer-predisposition syndrome",
-     "url": "https://www.news-medical.net/news/20261106/Advanced-tumor-profiling-uncovers-hidden-hereditary-cancer-predisposition-syndrome.aspx",
-     "domain": "news-medical.net",
-     "seen": "20261108T124500Z"
-    },
-    {
-     "title": "Gary Neville sends Shea Lacey warning to Michael Carrick ahead of Man Utd vs Aston Villa | Football",
-     "url": "https://metro.co.uk/2026/11/08/gary-neville-sends-shea-lacey-warning-michael-carrick-ahead-man-utd-vs-aston-villa-29774789/",
-     "domain": "metro.co.uk",
-     "seen": "20261108T124500Z"
-    },
-    {
-     "title": "Meloni Blames Pro-Russia Hackers for Cyberattack",
-     "url": "https://politicalwire.com/2026/11/08/meloni-blames-pro-russia-hackers-for-cyberattack/",
-     "domain": "politicalwire.com",
-     "seen": "20261108T124500Z"
-    },
-    {
-     "title": "Chris Sutton backs Aston Villa to win at Old Trafford as Manchester United's doubts refuse to go away — Aston Villa Vs Man United",
-     "url": "https://www.el-balad.com/17065109",
-     "domain": "el-balad.com",
-     "seen": "20261108T124500Z"
+     "title": "Springboks defeat Italy 66-7 in a Nations Championship encounter",
+     "url": "https://www.channelafrica.co.za/channelafrica/news/springboks-defeat-italy-66-7-in-a-nations-championship-encounter/",
+     "domain": "channelafrica.co.za",
+     "seen": "20261108T150000Z",
+     "ko": "이탈리아 럭비 대표팀, 네이션스 챔피언십서 남아공에 7대 66 대패",
+     "sum": "이탈리아 럭비 대표팀이 네이션스 챔피언십 경기에서 남아프리카공화국에 7대 66으로 패했다."
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/RomaMontage1..jpg/800px-RomaMontage1..jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "page": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88",
-    "title": "로마"
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/960px-Colosseo_2020.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%BD%9C%EB%A1%9C%EC%84%B8%EC%9B%80",
+    "title": "콜로세움",
+    "file": "Colosseo_2020.jpg"
    }
   },
   "ru": {
    "articles": [
     {
-     "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
-     "url": "https://www.thehindubusinessline.com/news/world/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply/article71680886.ece",
-     "domain": "thehindubusinessline.com",
-     "seen": "20261108T133000Z"
+     "title": "Seismic Imaging Reveals Undetected Coal Seams at Yakutia's Chulmakan Deposit",
+     "url": "https://english.pravda.ru/news/russia/171897-chulmakan-coal-seismic-imaging/",
+     "domain": "english.pravda.ru",
+     "seen": "20261108T184500Z",
+     "ko": "러시아 사하공화국 슐마칸 광상에서 새로운 석탄층 발견",
+     "sum": "사하공화국 슐마칸 광상에서 탄성파 영상 탐사를 통해 지금까지 발견되지 않았던 석탄층이 확인되었다."
     },
     {
-     "title": "Man due back in court after being convicted of city buses sex attacks",
-     "url": "https://www.edp24.co.uk/news/26708519.man-due-back-court-convicted-city-buses-sex-attacks/",
-     "domain": "edp24.co.uk",
-     "seen": "20261108T131500Z"
+     "title": "Russia pounds power facilities around Kyiv, damages major bridge | Jefferson City News Tribune",
+     "url": "https://www.newstribune.com/news/2026/nov/08/russia-pounds-power-facilities-around-kyiv/",
+     "domain": "newstribune.com",
+     "seen": "20261108T150000Z",
+     "ko": "러시아, 키이우 주변 전력 시설 폭격하고 주요 다리 파손해",
+     "sum": "러시아군이 키이우 인근 전력 시설을 공격하고 주요 교량에 피해를 입혔다."
     },
     {
-     "title": "Strictly's Ola Jordan 'accuses ex James of having affair with dancer'",
-     "url": "https://metro.co.uk/2026/11/08/strictlys-ola-jordan-accuses-ex-james-affair-dancer-29774416/",
-     "domain": "metro.co.uk",
-     "seen": "20261108T131500Z"
+     "title": "Hackers Claim Leaked Rosstat Data Shows 450,000 Russian Deaths",
+     "url": "https://www.kyivpost.com/post/89484",
+     "domain": "kyivpost.com",
+     "seen": "20261108T144500Z",
+     "ko": "해커들, 유출된 러시아 통계청 자료서 전사자 45만 명 확인 주장",
+     "sum": "해커들은 러시아 연방통계청에서 유출된 자료를 바탕으로 러시아군 사망자가 45만 명에 달한다고 주장했다."
     },
     {
-     "title": "UK military chief says Russia threat is 'most dangerous period he's known'",
-     "url": "https://metro.co.uk/2026/11/08/uk-military-chief-says-russia-threat-most-dangerous-period-known-29774958/",
-     "domain": "metro.co.uk",
-     "seen": "20261108T131500Z"
+     "title": "Ukrainian Forces Hit 4 Russian Drone Posts in 24 Hours",
+     "url": "https://www.kyivpost.com/post/89491",
+     "domain": "kyivpost.com",
+     "seen": "20261108T144500Z",
+     "ko": "우크라이나군, 하루 동안 러시아군 드론 거점 4곳 타격",
+     "sum": "우크라이나군이 지난 24시간 동안 러시아군의 무인기 기지 4곳을 타격했다."
     },
     {
-     "title": "Briton killed and another injured in Poland mass shooting that left six dead",
-     "url": "https://www.thurrockgazette.co.uk/news/national/26709421.briton-killed-another-injured-poland-mass-shooting-left-six-dead/",
-     "domain": "thurrockgazette.co.uk",
-     "seen": "20261108T131500Z"
+     "title": "Zaporizhzhia Nuclear Plant Relying on Generators Again After Losing External Power Supply",
+     "url": "https://english.aawsat.com/world/5338860-zaporizhzhia-nuclear-plant-relying-generators-again-after-losing-external-power",
+     "domain": "aawsat.com",
+     "seen": "20261108T143000Z",
+     "ko": "러시아 점령 자포리자 원전, 외부 전력 끊겨 비상 발전기 가동",
+     "sum": "자포리자 원자력 발전소가 외부 전력 공급이 중단되면서 다시 비상 발전기에 의존하게 되었다."
     },
     {
-     "title": "Fans support Boris Johnson after emotional family update",
-     "url": "https://www.eveshamjournal.co.uk/news/26709353.fans-support-boris-johnson-emotional-family-update/",
-     "domain": "eveshamjournal.co.uk",
-     "seen": "20261108T130000Z"
+     "title": "Moscow police detain 100-200 people during nighttime operation",
+     "url": "https://www.azernews.az/region/267032.html",
+     "domain": "azernews.az",
+     "seen": "20261108T141500Z",
+     "ko": "모스크바 경찰, 야간 단속 작전 벌여 최대 200명 연행",
+     "sum": "모스크바 경찰이 밤사이 단속 작전을 벌여 100명에서 200명 사이의 인원을 체포했다."
     },
     {
-     "title": "Strictly's James Jordan 'growing close' to dancer after devastating marriage split | Celebrity News | Showbiz & TV",
-     "url": "https://www.express.co.uk/celebrity-news/2264333/james-jordan-wife-dancer-marriage-split",
-     "domain": "express.co.uk",
-     "seen": "20261108T130000Z"
-    },
-    {
-     "title": "Vietnam mulls special visa policies to attract more international tourists",
-     "url": "https://news.tuoitre.vn/vietnam-mulls-special-visa-policies-to-attract-more-international-tourists-103261108160026099.htm",
-     "domain": "news.tuoitre.vn",
-     "seen": "20261108T124500Z"
-    },
-    {
-     "title": "Arab News | Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
-     "url": "https://www.arabnews.com/world/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply-3010499",
-     "domain": "arabnews.com",
-     "seen": "20261108T123000Z"
-    },
-    {
-     "title": "Putin Backs Russia's Lab Grown Diamond Restrictions",
-     "url": "https://www.idexonline.com/FullArticle?Id=51497",
-     "domain": "idexonline.com",
-     "seen": "20261108T123000Z"
+     "title": "Chhattisgarh man allegedly forced to join Russian Army after Telegram job offer, family seeks Centre's help: Report",
+     "url": "https://www.moneycontrol.com/news/india/chhattisgarh-man-allegedly-forced-to-join-russian-army-after-telegram-job-offer-family-seeks-centre-s-help-report-14074962.html",
+     "domain": "moneycontrol.com",
+     "seen": "20261108T134500Z",
+     "ko": "텔레그램 일자리 제안에 속아 러시아군 강제 입대한 인도인, 정부에 구조 요청",
+     "sum": "텔레그램을 통한 일자리 제안에 속아 러시아군에 강제 징집당했다고 주장하는 인도인의 가족이 정부에 도움을 요청했다."
     }
    ],
-   "photo": null
+   "photo": {
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Red_Square_in_cold_winter%2C_Moscow%2C_Russia.jpg/960px-Red_Square_in_cold_winter%2C_Moscow%2C_Russia.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%B6%89%EC%9D%80_%EA%B4%91%EC%9E%A5",
+    "title": "붉은 광장",
+    "file": "Red_Square_in_cold_winter,_Moscow,_Russia.jpg"
+   }
   },
   "il": {
    "articles": [
     {
-     "title": "SERIOUS CRASH: 17 Injured In Bus And Minibus Collision On Tel Aviv Highway",
-     "url": "https://www.theyeshivaworld.com/news/israel-news/2620355/serious-crash-17-injured-in-bus-and-minibus-collision-on-tel-aviv-highway.html",
+     "title": "Israel's president officially gives Eisenkot the first chance to form the next government",
+     "url": "https://www.gulfcoastnewsnow.com/article/israels-president-eisenkot-first-chance-government-official/74367999",
+     "domain": "gulfcoastnewsnow.com",
+     "seen": "20261108T184500Z",
+     "ko": "이스라엘 대통령, 아이젠코트에게 차기 정부 구성권 공식 부여",
+     "sum": "이스라엘 대통령이 가디 아이젠코트에게 차기 정부를 구성할 첫 기회를 공식적으로 부여했다."
+    },
+    {
+     "title": "Israeli defense establishment shocked by Trump's aid cut off, details unclear",
+     "url": "http://www.jpost.com/israel-news/defense-news/article-914254",
+     "domain": "jpost.com",
+     "seen": "20261108T183000Z",
+     "ko": "이스라엘 국방 당국, 트럼프의 지원 중단 방침에 충격",
+     "sum": "이스라엘 국방 당국이 도널드 트럼프의 군사 지원 중단 방침에 충격을 받았으며 세부 사항은 불분명한 상태이다."
+    },
+    {
+     "title": "Attorney-General rejects claims of election fraud amid foreign interference probe",
+     "url": "http://www.jpost.com/israel-news/politics-and-diplomacy/article-914249",
+     "domain": "jpost.com",
+     "seen": "20261108T183000Z",
+     "ko": "이스라엘 검찰총장, 외세 개입 조사 속 부정선거 주장 일축",
+     "sum": "이스라엘 검찰총장이 외국 개입 혐의 수사가 진행되는 가운데 제기된 선거 부정 주장을 일축했다."
+    },
+    {
+     "title": "Eisenkot says Netanyahu's party welcome to join government under him as new PM – The Frontier Post",
+     "url": "https://thefrontierpost.com/eisenkot-says-netanyahus-party-welcome-to-join-government-under-him-as-new-pm/",
+     "domain": "thefrontierpost.com",
+     "seen": "20261108T183000Z",
+     "ko": "아이젠코트, 새 총리 취임 시 네타냐후 정당 연정 참여 환영",
+     "sum": "가디 아이젠코트가 자신이 새 총리가 되는 정부에 베냐민 네타냐후의 정당이 참여하는 것을 환영한다고 밝혔다."
+    },
+    {
+     "title": "Shas head Arye Deri withdraws from party list will not be in 26th Knesset",
+     "url": "http://www.jpost.com/israel-election-2026/article-914237",
+     "domain": "jpost.com",
+     "seen": "20261108T183000Z",
+     "ko": "샤스당 대표 아리에 데리, 차기 크네세트 의원직 사퇴",
+     "sum": "이스라엘 정당 샤스의 아리에 데리 대표가 명부에서 물러나 제26대 크네세트에 들어가지 않기로 했다."
+    },
+    {
+     "title": "LEBANON TALKS DENIED: Eisenkot's Party Demands Retraction of Claim He Is Discussing Israeli Withdrawal – The Yeshiva World",
+     "url": "https://www.theyeshivaworld.com/news/israel-news/2620415/lebanon-talks-denied-eisenkots-party-demands-retraction-of-claim-he-is-discussing-israeli-withdrawal.html",
      "domain": "theyeshivaworld.com",
-     "seen": "20261108T133000Z"
+     "seen": "20261108T183000Z",
+     "ko": "아이젠코트 측, 레바논 철군 논의 보도 부인하며 정정 요구",
+     "sum": "가디 아이젠코트의 정당이 이스라엘군 철수를 논의하고 있다는 주장을 부인하며 보도 철회를 요구했다."
     },
     {
-     "title": "POLITICAL DEADLOCK: Eisenkot Has Until December 6 To Form Government, New Elections Possible By May",
-     "url": "https://www.theyeshivaworld.com/news/israel-news/2620366/political-deadlock-eisenkot-has-until-december-6-to-form-government-new-elections-possible-by-may.html",
+     "title": "RETIREMENT WARNING: Israel's Savings Regulator Pushes Back Against Pension Cuts – The Yeshiva World",
+     "url": "https://www.theyeshivaworld.com/news/israel-news/2620407/retirement-warning-israels-savings-regulator-pushes-back-against-pension-cuts.html",
      "domain": "theyeshivaworld.com",
-     "seen": "20261108T133000Z"
+     "seen": "20261108T183000Z",
+     "ko": "이스라엘 연금 규제당국, 연금 삭감 움직임에 반대 입장",
+     "sum": "이스라엘 저축 규제당국이 연금 삭감 조치에 맞서 반대 입장을 표명했다."
     },
     {
-     "title": "Netanyahu rival given first chance at forming new government",
-     "url": "https://www.news4jax.com/news/world/2026/11/08/netanyahu-rival-given-first-chance-at-forming-new-government/",
-     "domain": "news4jax.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "IRAN WARNING: Defense Minister Katz Says Nuclear Threat Remains, Israel Prepared To Take Military Action",
-     "url": "https://www.theyeshivaworld.com/news/israel-news/2620360/iran-warning-defense-minister-katz-says-nuclear-threat-remains-israel-prepared-to-take-military-action.html",
+     "title": "HONKING FINES: Tel Aviv to Ticket Drivers Who Honk Without Cause Starting in 2027",
+     "url": "https://www.theyeshivaworld.com/news/israel-news/2620468/honking-fines-tel-aviv-to-ticket-drivers-who-honk-without-cause-starting-in-2027.html",
      "domain": "theyeshivaworld.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Article: The Regime Change That Came Home: How the Iran War Backfired on Trump and Netanyahu",
-     "url": "https://www.opednews.com/populum/page.php?f=The-Regime-Change-That-Cam-Iran-War_Leverage_Military_Netanyahu-Indicted-261108-89.html",
-     "domain": "opednews.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Will Eisenkot be able to form Israel's next gov't amid divided opposition? | Explainer News",
-     "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition",
-     "domain": "aljazeera.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "EXPLOSIVE ALLEGATIONS: Ben-Gvir Accuses Attorney General Of Blackmailing Police Chief Over Alleged Building Violations",
-     "url": "https://www.theyeshivaworld.com/news/israel-news/2620352/explosive-allegations-ben-gvir-accuses-attorney-general-of-blackmailing-police-chief-over-alleged-building-violations.html",
-     "domain": "theyeshivaworld.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Netanyahu rival Gadi Eisenkot's bid to form a government",
-     "url": "https://www.timeslive.co.za/news/world/2026-11-08-netanyahu-rival-gadi-eisenkots-bid-to-form-a-government/",
-     "domain": "timeslive.co.za",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "The True Story Behind 'Inglourious Basterds' Is Officially Streaming for Free",
-     "url": "https://collider.com/operation-finale-real-life-inglourious-basterds-thriller-streaming-free-pluto-tv-november-2026/",
-     "domain": "collider.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Ex-army chief Eisenkot given first chance to form government in Israel",
-     "url": "https://www.aol.co.uk/articles/ex-army-chief-eisenkot-given-124540000.html",
-     "domain": "aol.co.uk",
-     "seen": "20261108T133000Z"
+     "seen": "20261108T183000Z",
+     "ko": "텔아비브, 2027년부터 이유 없는 경적 사용에 범칙금 부과",
+     "sum": "텔아비브가 2027년부터 정당한 사유 없이 경적을 울리는 운전자에게 딱지를 발부할 예정이다."
     }
    ],
-   "photo": null
+   "photo": {
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jerusalem_infobox_image.JPG/960px-Jerusalem_infobox_image.JPG?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%98%88%EB%A3%A8%EC%82%B4%EB%A0%98",
+    "title": "예루살렘",
+    "file": "Jerusalem_infobox_image.JPG"
+   }
   },
   "ir": {
    "articles": [
     {
-     "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
-     "url": "https://www.khqa.com/news/nation-world/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/article_3cecadd1-7adb-578c-9afe-ebc34dcc1aba.html",
-     "domain": "khqa.com",
-     "seen": "20261108T133000Z"
+     "title": "Iranian foreign minister threatens US: 'Choose war, and we will rain hellfire down on you'",
+     "url": "https://www.israelnationalnews.com/flashes/697008",
+     "domain": "israelnationalnews.com",
+     "seen": "20261108T181500Z",
+     "ko": "이란 외무장관, 미국 향해 전쟁 선택하면 지옥불 쏟아질 것 위협",
+     "sum": "이란 외무장관이 미국을 향해 전쟁을 선택할 경우 지옥불을 쏟아붓겠다며 위협했다."
     },
     {
-     "title": "Explosions Reported In Southern Iran",
-     "url": "http://www.massachusettssun.com/news/279419559/explosions-reported-in-southern-iran",
-     "domain": "massachusettssun.com",
-     "seen": "20261108T133000Z"
+     "title": "Iran executes three men for 'armed unrest' after January protests",
+     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
+     "domain": "bbc.co.uk",
+     "seen": "20261108T180000Z",
+     "ko": "이란, 1월 시위 관련 무장 소요 혐의로 3명 사형 집행",
+     "sum": "이란 당국이 지난 1월 시위 이후 발생한 무장 소요 혐의로 남성 3명에 대해 사형을 집행했다."
     },
     {
-     "title": "Is Dutch Bros Stock a Buy as Shares Plunge?",
-     "url": "https://www.fool.com/investing/2026/11/08/is-dutch-bros-stock-a-buy-as-shares-plunge/",
-     "domain": "fool.com",
-     "seen": "20261108T133000Z"
+     "title": "\"Strait of Hormuz gives Iran strategic leverage,\" says Iranian official",
+     "url": "http://www.iranherald.com/news/279420509/strait-of-hormuz-gives-iran-strategic-leverage-says-iranian-official",
+     "domain": "iranherald.com",
+     "seen": "20261108T180000Z",
+     "ko": "이란 당국자, 호르무즈 해협이 이란에 전략적 지렛대 제공한다 강조",
+     "sum": "이란 당국자가 호르무즈 해협이 이란에게 전략적 지렛대를 제공한다고 발언했다."
     },
     {
-     "title": "Should You Buy VOO Before the Market Rebounds?",
-     "url": "https://www.fool.com/investing/2026/11/08/should-you-buy-voo-before-market-rebounds/",
-     "domain": "fool.com",
-     "seen": "20261108T133000Z"
+     "title": "Iran suggests ship blasts are not US attacks",
+     "url": "https://www.perthnow.com.au/news/conflict/iran-suggests-ship-blasts-are-not-us-attacks-c-23132936",
+     "domain": "perthnow.com.au",
+     "seen": "20261108T180000Z",
+     "ko": "이란, 선박 폭발 사고는 미국 공격 아니라고 시사",
+     "sum": "이란이 최근 발생한 선박 폭발 사고들이 미국의 공격이 아니라는 점을 시사했다."
     },
     {
-     "title": "Israel says Iran mission 'not complete': 'They're trying to get nuclear weapons'",
-     "url": "https://www.hindustantimes.com/world-news/israel-says-iran-mission-not-complete-they-re-trying-to-get-nuclear-weapons-101794142030671.html",
-     "domain": "hindustantimes.com",
-     "seen": "20261108T133000Z"
+     "title": "Iran says 3 tankers caught fire in Hormuz",
+     "url": "https://thefrontierpost.com/iran-says-3-tankers-caught-fire-in-hormuz/",
+     "domain": "thefrontierpost.com",
+     "seen": "20261108T171500Z",
+     "ko": "이란, 호르무즈 해협서 유조선 3척 화재 발생 발표",
+     "sum": "이란 당국이 호르무즈 해협에서 유조선 3척에 불이 났다고 밝혔다."
     },
     {
-     "title": "IRGC Says 2 Oil Tankers On Fire After Hitting Mines",
-     "url": "http://www.massachusettssun.com/news/279420331/irgc-says-2-oil-tankers-on-fire-after-hitting-mines",
-     "domain": "massachusettssun.com",
-     "seen": "20261108T133000Z"
+     "title": "Floods and severe weather kill 4, injure 11 across Iran",
+     "url": "https://www.sott.net/article/509353-Floods-and-severe-weather-kill-4-injure-11-across-Iran",
+     "domain": "sott.net",
+     "seen": "20261108T171500Z",
+     "ko": "이란 전역 폭우와 기상 악화로 4명 사망 및 11명 부상",
+     "sum": "이란 전역에서 발생한 홍수와 악천후로 인해 4명이 숨지고 11명이 다쳤다."
     },
     {
-     "title": "Trump Confirms New Strikes on Iran as U.S. and Tehran Continue Diplomatic Talks",
-     "url": "https://www.kabc.com/2026/11/08/trump-confirms-new-strikes-on-iran-as-u-s-and-tehran-continue-diplomatic-talks/",
-     "domain": "kabc.com",
-     "seen": "20261108T131500Z"
+     "title": "Argentine Congress Condemns Iran's Regime Over Wave of Political Executions",
+     "url": "https://irannewsupdate.com/news/human-rights/argentine-congress-condemns-irans-regime-over-wave-of-political-executions/",
+     "domain": "irannewsupdate.com",
+     "seen": "20261108T171500Z",
+     "ko": "아르헨티나 의회, 정치적 처형 급증 관련 이란 정권 규탄",
+     "sum": "아르헨티나 의회가 최근 급증한 정치적 사형 집행 사태를 두고 이란 정권을 규탄했다."
     },
     {
-     "title": "Mideast news: Saudi Arabia intercepts missiles",
-     "url": "https://www.cp24.com/news/world/2026/11/08/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/",
-     "domain": "cp24.com",
-     "seen": "20261108T131500Z"
-    },
-    {
-     "title": "GMC's Diesel Sierra Outclasses Its Hummer EV With A 13,300-Pound Tow Rating And 900 Miles Of Range",
-     "url": "https://carbuzz.com/diesel-sierra-versus-hummer-ev-towing-and-mileage-comparison/",
-     "domain": "carbuzz.com",
-     "seen": "20261108T131500Z"
-    },
-    {
-     "title": "Iran reports 3 tanker fires as Israel warns of unfinished mission",
-     "url": "https://www.dailysabah.com/world/mid-east/iran-reports-3-tanker-fires-as-israel-warns-of-unfinished-mission",
-     "domain": "dailysabah.com",
-     "seen": "20261108T130000Z"
+     "title": "Iran President Pezeshkian urges fuel conservation, cites impact of US-Israeli military aggression on gas production",
+     "url": "https://news.webindia123.com/news/Articles/World/20261108/4517439.html",
+     "domain": "webindia123.com",
+     "seen": "20261108T170000Z",
+     "ko": "페제시키안 이란 대통령, 미국과 이스라엘 군사 공격 속 연료 절약 촉구",
+     "sum": "페제시키안 이란 대통령이 미국과 이스라엘의 군사적 침략이 가스 생산에 미친 영향을 언급하며 연료 절약을 당부했다."
     }
    ],
-   "photo": null
+   "photo": {
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Esfahan_Logo.jpg/960px-Esfahan_Logo.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%A4%ED%8C%8C%ED%95%9C",
+    "title": "이스파한",
+    "file": "Esfahan_Logo.jpg"
+   }
   },
   "us": {
    "articles": [
     {
-     "title": "Russia, US extend Diwali wishes to people in India",
-     "url": "http://www.massachusettssun.com/news/279419663/russia-us-extend-diwali-wishes-to-people-in-india",
-     "domain": "massachusettssun.com",
-     "seen": "20261108T133000Z"
+     "title": "Trump says return to war with Iran 'highly unlikely' as sides continue negotiations",
+     "url": "https://nypost.com/2026/11/08/us-news/trump-says-return-to-war-with-iran-highly-unlikely-as-sides-continue-negotiations/",
+     "domain": "nypost.com",
+     "seen": "20261108T184500Z",
+     "ko": "트럼프, 이란과 전쟁 재개 가능성 극히 낮다며 협상 지속 강조",
+     "sum": "도널드 트럼프 전 대통령은 양측이 협상을 이어가는 가운데 이란과의 전쟁이 재개될 가능성은 극히 낮다고 밝혔다."
     },
     {
-     "title": "Quincy ditched Flock, then announced OdinEye for surveillance tech",
-     "url": "https://www.bostonglobe.com/2026/11/06/business/quincy-flock-odineye-surveillance-cameras/",
-     "domain": "bostonglobe.com",
-     "seen": "20261108T133000Z"
+     "title": "Jeffries Supports Impeachment Of Defense Secretary Hegseth",
+     "url": "https://whp580.iheart.com/content/2026-11-08-jeffries-supports-impeachment-of-defense-secretary-hegseth/",
+     "domain": "iheart.com",
+     "seen": "20261108T184500Z",
+     "ko": "민주당 제프리스 원내대표, 헤그세스 국방장관 탄핵 지지",
+     "sum": "하킴 제프리스 미국 민주당 하원 원내대표가 피트 헤그세스 국방장관에 대한 탄핵을 지지했다."
     },
     {
-     "title": "Muscadine Bloodline 'Blue Bayou': Meaning + Lyrics",
-     "url": "https://wkdq.com/ixp/204/p/muscadine-bloodline-blue-bayou-meaning-lyrics/",
-     "domain": "wkdq.com",
-     "seen": "20261108T133000Z"
+     "title": "Republicans took big hits in the U.S. midterms. Does that mean Trump's political era is over?",
+     "url": "https://www.cbc.ca/news/politics/midterms-end-of-maga-trump-republicans-9.7414220",
+     "domain": "cbc.ca",
+     "seen": "20261108T184500Z",
+     "ko": "미국 중간선거서 공화당 큰 타격, 트럼프 정치 시대 끝나나",
+     "sum": "미국 중간선거에서 공화당이 큰 타격을 입으면서 도널드 트럼프의 정치적 영향력이 끝났는지에 대한 의문이 제기되고 있다."
     },
     {
-     "title": "Financial Analysis: i-80 Gold (IAUX) versus Its Rivals",
-     "url": "https://www.themarketsdaily.com/2026/11/08/financial-analysis-i-80-gold-iaux-versus-its-rivals.html",
-     "domain": "themarketsdaily.com",
-     "seen": "20261108T133000Z"
+     "title": "Georgia election 2026: Officials investigate alleged memory card issue in rural Georgia county",
+     "url": "https://www.wsbtv.com/news/local/georgia-election-2026-officials-investigate-alleged-memory-card-issue-rural-georgia-county/3VVGOST3RZFQDJL4AWKA6GRRNE/",
+     "domain": "wsbtv.com",
+     "seen": "20261108T184500Z",
+     "ko": "미국 조지아주 선거 당국, 시골 카운티 메모리카드 문제 조사",
+     "sum": "미국 조지아주 선거 관리 당국이 조지아 외곽 카운티에서 제기된 메모리카드 관련 문제를 조사하고 있다."
     },
     {
-     "title": "Dillon Dingler's second consecutive Gold Glove win shouldn't distract from the big picture",
-     "url": "https://motorcitybengals.com/dillon-dingler-s-second-consecutive-gold-glove-win-shouldn-t-distract-from-the-big-picture",
-     "domain": "motorcitybengals.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "AP Joy Wonder Discovery SummaryBrief at 7:20 a.m. EST",
-     "url": "http://www.wdtimes.com/news/national/ap-joy-wonder-discovery-summarybrief-at-7-20-a-m-est/article_eeae1fab-3202-5714-b16e-3f65dc07f79d.html",
-     "domain": "wdtimes.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
-     "url": "https://www.ibtimes.com/jon-ossoff-leads-2028-democratic-straw-poll-3809535",
-     "domain": "ibtimes.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Why Your Support For The Dallas Express Is Needed Now More Than Ever",
-     "url": "https://www.wbap.com/2026/11/08/why-your-support-for-the-dallas-express-is-needed-now-more-than-ever/",
-     "domain": "wbap.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Two dogs die in Fort Plain Main Street structure fire; Red Cross aids displaced residents",
-     "url": "https://cbs6albany.com/news/local/two-dogs-die-in-fort-plain-main-street-structure-fire-red-cross-aids-displaced-residents",
-     "domain": "cbs6albany.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "How Gen Z voters helped fuel a blue wave for Democrats",
-     "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-6032829/how-gen-z-voters-helped-fuel-a-blue-wave-for-democrats",
-     "domain": "northcountrypublicradio.org",
-     "seen": "20261108T133000Z"
+     "title": "4 victims of deadly fire on Chicago's North Side ID'd",
+     "url": "https://www.fox32chicago.com/news/rogers-park-fire-4-dead-ids",
+     "domain": "fox32chicago.com",
+     "seen": "20261108T184500Z",
+     "ko": "시카고 북부 화재 참사로 숨진 희생자 4명 신원 확인",
+     "sum": "미국 시카고 북부 지역에서 발생한 치명적인 화재로 숨진 희생자 네 명의 신원이 확인되었다."
     }
    ],
-   "photo": null
+   "photo": {
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Lady_Liberty_under_a_blue_sky_%28cropped%29.jpg/960px-Lady_Liberty_under_a_blue_sky_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%EC%9D%98_%EC%97%AC%EC%8B%A0%EC%83%81",
+    "title": "자유의 여신상",
+    "file": "Lady_Liberty_under_a_blue_sky_(cropped).jpg"
+   }
   },
   "uy": {
    "articles": [
     {
-     "title": "Leo XIV's visit to Uruguay concludes this Sunday",
-     "url": "https://www.plenglish.com/news/2026/11/08/leo-xivs-visit-to-uruguay-concludes-this-sunday/",
-     "domain": "plenglish.com",
-     "seen": "20261108T123000Z"
-    },
-    {
-     "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei's Argentina",
-     "url": "https://www.wlky.com/article/pope-uruguay-mileis-argentina-visit/74367378",
-     "domain": "wlky.com",
-     "seen": "20261108T123000Z"
-    },
-    {
-     "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
-     "url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
-     "domain": "abcnews.com",
-     "seen": "20261108T121500Z"
-    },
-    {
-     "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
-     "url": "https://www.asiaone.com:443/world/pope-leo-heads-mileis-argentina-tensions-loom-over-austerity-iran",
-     "domain": "asiaone.com",
-     "seen": "20261108T114500Z"
-    },
-    {
-     "title": "Pope Leo urges fraternity, faith at Uruguay Mass | The Arkansas Democrat-Gazette",
-     "url": "https://www.arkansasonline.com/news/2026/nov/08/pope-leo-urges-fraternity-faith-at-uruguay-mass/",
-     "domain": "arkansasonline.com",
-     "seen": "20261108T113000Z"
-    },
-    {
-     "title": "Pope Leo celebrates his first Mass in South America",
-     "url": "https://www.wsbradio.com/news/thousands-pour-into/DJRIGPURSU2IFLJVHW4OS3KEKA/",
-     "domain": "wsbradio.com",
-     "seen": "20261108T110000Z"
-    },
-    {
-     "title": "Pope wraps up Uruguay visit and heads to Milei's Argentina",
-     "url": "https://www.wsbradio.com/news/world/pope-wraps-up/TCKXABIEYU7ABLXFMHFI5YIJR4/",
-     "domain": "wsbradio.com",
-     "seen": "20261108T110000Z"
-    },
-    {
-     "title": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour",
-     "url": "https://www.westhawaiitoday.com/2026/11/08/nation-world-news/pope-leo-urges-south-america-to-bridge-divides-on-uruguay-stop-of-12-day-tour/",
-     "domain": "westhawaiitoday.com",
-     "seen": "20261108T104500Z"
-    },
-    {
-     "title": "Pope Leo urges fraternity, faith at Uruguay Mass | Northwest Arkansas Democrat-Gazette",
-     "url": "https://www.nwaonline.com/news/2026/nov/08/pope-leo-urges-fraternity-faith-at-uruguay-mass/",
-     "domain": "nwaonline.com",
-     "seen": "20261108T103000Z"
-    },
-    {
-     "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei's Argentina – Winnipeg Free Press",
-     "url": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/11/08/pope-wraps-up-uruguay-visit-and-heads-to-most-fraught-stop-of-his-tour-in-mileis-argentina",
-     "domain": "winnipegfreepress.com",
-     "seen": "20261108T103000Z"
+     "title": "Pope ends Uruguay visit ahead of potentially fraught meeting in Argentina",
+     "url": "https://www.breakingnews.ie/world/pope-ends-uruguay-visit-ahead-of-potentially-fraught-meeting-in-argentina-1957473.html",
+     "domain": "breakingnews.ie",
+     "seen": "20261108T163000Z",
+     "ko": "교황, 우루과이 방문 마치고 갈등 예상되는 아르헨티나로 이동",
+     "sum": "교황이 우루과이 방문 일정을 마무리하고 험난한 만남이 예상되는 아르헨티나로 향했다."
     }
    ],
-   "photo": null
+   "photo": {
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Avda._Libertador%2C_Montevideo.jpg/960px-Avda._Libertador%2C_Montevideo.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%AA%AC%ED%85%8C%EB%B9%84%EB%8D%B0%EC%98%A4",
+    "title": "몬테비데오",
+    "file": "Avda._Libertador,_Montevideo.jpg"
+   }
   },
   "au": {
    "articles": [
     {
-     "title": "YouTube star Sharky arrives at airport ahead of I'm A Celebrity debut Down Under",
-     "url": "https://www.aol.co.uk/articles/youtube-star-sharky-arrives-airport-123505000.html",
-     "domain": "aol.co.uk",
-     "seen": "20261108T133000Z"
+     "title": "Killer cop's true motivations to be probed in court",
+     "url": "https://www.hepburnadvocate.com.au/story/9387834/killer-cops-true-motivations-to-be-probed-in-court/",
+     "domain": "hepburnadvocate.com.au",
+     "seen": "20261108T184500Z",
+     "ko": "법원, 살인 혐의 경찰관의 실제 범행 동기 본격 심리",
+     "sum": "법원이 살인 혐의를 받는 경찰관의 실제 범행 동기를 본격적으로 조사한다."
     },
     {
-     "title": "Benson Boone Invites 13-Year-Old Fan Onstage for Birthday Duet in Brisbane",
-     "url": "https://www.wa1a.com/2026/11/08/benson-boone-invites-13-year-old-fan-onstage-for-birthday-duet-in-brisbane/",
-     "domain": "wa1a.com",
-     "seen": "20261108T133000Z"
+     "title": "Call to claw back Medicare from gouging specialists",
+     "url": "https://www.hepburnadvocate.com.au/story/9387835/call-to-claw-back-medicare-from-gouging-specialists/",
+     "domain": "hepburnadvocate.com.au",
+     "seen": "20261108T184500Z",
+     "ko": "호주, 폭리 취한 전문의 대상 메디케어 진료비 환수 촉구",
+     "sum": "과도한 진료비를 챙긴 전문의들로부터 메디케어 지원금을 환수해야 한다는 요구가 제기되었다."
     },
     {
-     "title": "Lewis Hamilton rivals hail Formula 1 legend ahead of landmark his 400th Grand Prix start today",
-     "url": "https://www.grandprix247.com/f1-history/lewis-hamilton-rivals-hail-formula-1-legend-ahead-of-landmark-his-400th-grand-prix-start-today",
-     "domain": "grandprix247.com",
-     "seen": "20261108T133000Z"
+     "title": "Vow to toughen penalties for attacks on Good Samaritans",
+     "url": "https://www.hepburnadvocate.com.au/story/9387844/vow-to-toughen-penalties-for-attacks-on-good-samaritans/",
+     "domain": "hepburnadvocate.com.au",
+     "seen": "20261108T184500Z",
+     "ko": "호주, 위기 도운 시민 공격한 가해자 처벌 대폭 강화 방침",
+     "sum": "위험에 처한 이웃을 도운 선한 사마리아인을 공격하는 행위에 대해 처벌을 대폭 강화하기로 했다."
     },
     {
-     "title": "Minister warns UK media still has sexual abuse problem",
-     "url": "https://www.macleayargus.com.au/story/9387816/minister-warns-uk-media-still-has-sexual-abuse-problem/",
-     "domain": "macleayargus.com.au",
-     "seen": "20261108T133000Z"
+     "title": "Finance watchdog warning over super switching calls",
+     "url": "https://www.dailyadvertiser.com.au/story/9387843/finance-watchdog-warning-over-super-switching-calls/",
+     "domain": "dailyadvertiser.com.au",
+     "seen": "20261108T184500Z",
+     "ko": "호주 금융당국, 퇴직연금 변경 권유 전화 주의보 발령",
+     "sum": "호주 금융 감시 당국이 퇴직연금 계좌 전환을 유도하는 전화에 대해 경고했다."
     },
     {
-     "title": "Suspect hit with murder charge after elderly man killed in alleged violent home invasion",
-     "url": "https://www.oberonreview.com.au/story/9387815/suspect-hit-with-murder-charge-after-elderly-man-killed-in-alleged-violent-home-invasion/",
-     "domain": "oberonreview.com.au",
-     "seen": "20261108T133000Z"
+     "title": "Schools need standards to support students after harm",
+     "url": "https://www.hepburnadvocate.com.au/story/9387842/schools-need-standards-to-support-students-after-harm/",
+     "domain": "hepburnadvocate.com.au",
+     "seen": "20261108T184500Z",
+     "ko": "호주 학교, 피해 입은 학생 지원 위한 표준 기준 마련 시급",
+     "sum": "피해를 겪은 학생들을 적절히 지원하기 위해 학교 현장에 표준 기준이 필요하다는 지적이 나왔다."
     },
     {
-     "title": "Wales vow to improve as All Blacks, Aussies lie in wait",
-     "url": "https://www.easternriverinachronicle.com.au/story/9387826/wales-vow-to-improve-as-all-blacks-aussies-lie-in-wait/",
-     "domain": "easternriverinachronicle.com.au",
-     "seen": "20261108T133000Z"
+     "title": "Tamworth council eyes major overhaul to tackle housing crisis | The Northern Daily Leader",
+     "url": "https://www.northerndailyleader.com.au/story/9387072/tamworth-council-eyes-major-overhaul-to-tackle-housing-crisis/",
+     "domain": "northerndailyleader.com.au",
+     "seen": "20261108T184500Z",
+     "ko": "호주 탬워스 시의회, 주택난 해결 위한 대대적 개편 착수",
+     "sum": "탬워스 시의회가 심각한 주택 위기를 해결하기 위해 대대적인 정비에 나선다."
     },
     {
-     "title": "Giant strides, but Pacific must rise again for a title",
-     "url": "https://www.easternriverinachronicle.com.au/story/9387821/giant-strides-but-pacific-must-rise-again-for-a-title/",
-     "domain": "easternriverinachronicle.com.au",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "Akira Kurosawa's Favorite Mystery Masterpiece Is Officially Streaming for Free",
-     "url": "https://collider.com/harrison-ford-witness-streaming-free-pluto-tv-november-2026/",
-     "domain": "collider.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "The efficiency trap: why optimising everything can backfire, badly",
-     "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
-     "domain": "theguardian.com",
-     "seen": "20261108T133000Z"
-    },
-    {
-     "title": "7 Apple TV Sci-Fi Shows With No Bad Seasons, Ranked",
-     "url": "https://collider.com/apple-tv-sci-fi-shows-no-bad-seasons-ranked/",
-     "domain": "collider.com",
-     "seen": "20261108T133000Z"
+     "title": "Canva's layoff package wins praise on LinkedIn: 6 months' salary, 12 months' healthcare, free MacBook and career support",
+     "url": "https://www.livemint.com/companies/news/canvas-layoff-package-wins-praise-on-linkedin-6-months-salary-12-months-healthcare-free-macbook-and-career-support-11794144404558.html",
+     "domain": "livemint.com",
+     "seen": "20261108T183000Z",
+     "ko": "호주 캔바, 급여 6개월치와 맥북 제공하는 감원 패키지 화제",
+     "sum": "호주 기업 캔바가 6개월치 급여와 12개월 의료비, 맥북 지원을 포함한 퇴직 패키지로 호평을 받고 있다."
     }
    ],
-   "photo": null
+   "photo": {
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Sydney_Opera_House_from_Circular_Quay%2C_2023%2C_10.jpg/960px-Sydney_Opera_House_from_Circular_Quay%2C_2023%2C_10.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%93%9C%EB%8B%88_%EC%98%A4%ED%8E%98%EB%9D%BC_%ED%95%98%EC%9A%B0%EC%8A%A4",
+    "title": "시드니 오페라 하우스",
+    "file": "Sydney_Opera_House_from_Circular_Quay,_2023,_10.jpg"
+   }
   },
   "nz": {
    "articles": [
     {
-     "title": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
-     "url": "https://www.stcatharinesstandard.ca/news/world/australia/new-zealanders-won-t-know-for-weeks-who-won-the-election-as-neither-side-secures-clear-victory/article_b24c5355-e7f5-5410-9b52-e492a1276a5b.html",
-     "domain": "stcatharinesstandard.ca",
-     "seen": "20261108T131500Z"
+     "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+     "url": "https://www.ksfr.org/npr-news/2026-11-08/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+     "domain": "ksfr.org",
+     "seen": "20261108T184500Z",
+     "ko": "뉴질랜드 총선 과반 정당 부재 속 각 당 수주일 연정 협상 돌입",
+     "sum": "뉴질랜드 총선에서 확실한 승자가 나오지 않아 정당 지도자들이 수주간의 연립정부 협상에 들어간다."
     },
     {
-     "title": "What Millwall must learn from 3-0 West Brom defeat",
-     "url": "https://the72.co.uk/2026/11/08/millwall-3-takes-from-west-brom-defeat/",
-     "domain": "the72.co.uk",
-     "seen": "20261108T130000Z"
+     "title": "Auckland beach warnings after thunderstorms wash untreated wastewater into Waitematā Harbour",
+     "url": "https://www.nzherald.co.nz/nz/auckland/auckland-beach-warnings-after-thunderstorms-wash-untreated-wastewater-into-waitemata-harbour/3N7HMBDVMZBE5PVAB56OEP73UM/",
+     "domain": "nzherald.co.nz",
+     "seen": "20261108T183000Z",
+     "ko": "뉴질랜드 오클랜드 뇌우로 미처리 폐수 유입돼 해변 경보 발령",
+     "sum": "뇌우로 인해 정화되지 않은 폐수가 와이테마타 항구로 흘러들어가 오클랜드 해변에 경보가 발령되었다."
     },
     {
-     "title": "New Zealand election result said too close to call | The Arkansas Democrat-Gazette",
-     "url": "https://www.arkansasonline.com/news/2026/nov/08/new-zealand-election-result-said-too-close-to-call/",
-     "domain": "arkansasonline.com",
-     "seen": "20261108T130000Z"
+     "title": "Car crashes into block of shops on Great South Rd, Takaanini",
+     "url": "https://www.nzherald.co.nz/nz/auckland/car-crashes-into-block-of-shops-on-great-south-rd-takaanini/H5NUVXWQOFEM3KV2FXCSPJZ2FQ/",
+     "domain": "nzherald.co.nz",
+     "seen": "20261108T183000Z",
+     "ko": "뉴질랜드 타카니니 상가 건물로 차량 돌진 사고 발생",
+     "sum": "타카니니 그레이트 사우스 로드의 한 상가 건물로 차량이 돌진하는 사고가 발생했다."
     },
     {
-     "title": "KLA Corporation $KLAC Stock Sold by Uhlmann Price Securities LLC",
-     "url": "https://www.themarketsdaily.com/2026/11/08/kla-corporation-klac-stock-sold-by-uhlmann-price-securities-llc.html",
-     "domain": "themarketsdaily.com",
-     "seen": "20261108T124500Z"
+     "title": "Who will steer economic policy? Willis' departure adds extra layer of uncertainty for business – Liam Dann",
+     "url": "https://www.nzherald.co.nz/business/who-will-steer-economic-policy-willis-departure-adds-extra-layer-of-uncertainty-for-business-liam-dann/premium/XVWVA3B4SRGJPOP3VCNRRPPJWU/",
+     "domain": "nzherald.co.nz",
+     "seen": "20261108T164500Z",
+     "ko": "뉴질랜드 경제 정책 수장 윌리스 사임으로 기업 불확실성 고조",
+     "sum": "윌리스의 사임으로 향후 경제 정책의 향방이 불투명해지며 기업들의 불확실성이 커졌다."
     },
     {
-     "title": "KL Rahul gifts Game Changer award smartphone to official after 2nd ODI win against New Zealand",
-     "url": "http://www.calcuttanews.net/news/279419608/kl-rahul-gifts-game-changer-award-smartphone-to-official-after-2nd-odi-win-against-new-zealand",
-     "domain": "calcuttanews.net",
-     "seen": "20261108T124500Z"
+     "title": "Woman, 80, tricked into buying $6600 worth of The Warehouse gift cards, son lays formal complaint",
+     "url": "https://www.nzherald.co.nz/nz/auckland/woman-80-tricked-into-buying-6600-worth-of-the-warehouse-gift-cards-son-lays-formal-complaint/BFFQ763PSREHZLOJATOPOO33LE/",
+     "domain": "nzherald.co.nz",
+     "seen": "20261108T164500Z",
+     "ko": "뉴질랜드 80대 노인 기프트카드 사기 피해, 가족 공식 고소",
+     "sum": "80세 여성이 속아 6천600달러 상당의 기프트카드를 구매하는 피해를 당해 아들이 공식 고소장을 제출했다."
     },
     {
-     "title": "Vertiv Holdings Co. $VRT Stake Trimmed by Pictet Asset Management Holding SA",
-     "url": "https://www.themarketsdaily.com/2026/11/08/vertiv-holdings-co-vrt-stake-trimmed-by-pictet-asset-management-holding-sa.html",
-     "domain": "themarketsdaily.com",
-     "seen": "20261108T123000Z"
-    },
-    {
-     "title": "Hipkins' pledge can't survive Greens negotiations – LiveNews.co.nz",
-     "url": "https://livenews.co.nz/2026/11/08/hipkins-pledge-cant-survive-greens-negotiations/",
-     "domain": "livenews.co.nz",
-     "seen": "20261108T121500Z"
-    },
-    {
-     "title": "Government's books show National's plan working – LiveNews.co.nz",
-     "url": "https://livenews.co.nz/2026/11/08/governments-books-show-nationals-plan-working/",
-     "domain": "livenews.co.nz",
-     "seen": "20261108T121500Z"
-    },
-    {
-     "title": "Hinge Health Inc. $HNGE Stock Sold by Summit Creek Advisors LLC",
-     "url": "https://www.themarketsdaily.com/2026/11/08/hinge-health-inc-hnge-stock-sold-by-summit-creek-advisors-llc.html",
-     "domain": "themarketsdaily.com",
-     "seen": "20261108T121500Z"
-    },
-    {
-     "title": "Emergency services attend after vehicle collides with building on Bridgnorth Road",
-     "url": "https://www.shropshirelive.com/news/2026/11/08/emergency-services-attend-after-vehicle-collides-with-building-on-bridgnorth-road/",
-     "domain": "shropshirelive.com",
-     "seen": "20261108T120000Z"
+     "title": "Fat Boy fight: Court dismisses bid to stop Auckland Council destroying menacing pet dog",
+     "url": "https://www.nzherald.co.nz/nz/auckland/fat-boy-fight-court-dismisses-bid-to-stop-auckland-council-destroying-menacing-pet-dog/VXY5NASTPRHERIFHYWPXKANNTE/",
+     "domain": "nzherald.co.nz",
+     "seen": "20261108T164500Z",
+     "ko": "뉴질랜드 법원, 위험 반려견 안락사 처분 취소 소송 기각",
+     "sum": "법원이 위협적인 반려견을 안락사시키려는 오클랜드 시의회의 결정을 저지해 달라는 신청을 기각했다."
     }
    ],
-   "photo": null
+   "photo": {
+    "v": 2,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Milford_Sound_%28New_Zealand%29.JPG/960px-Milford_Sound_%28New_Zealand%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Milford_Sound",
+    "title": "Milford Sound",
+    "file": "Milford_Sound_(New_Zealand).JPG"
+   }
   }
+ },
+ "briefing": {
+  "updated": "2026-11-08T19:02:57.681Z",
+  "items": [
+   {
+    "cid": "jp",
+    "url": "https://www.ksl.com:443/article/news/world/strong-earthquake-shakes-central-japan-shattering-store-windows-and-injuring-at-least-22/51644477",
+    "text": "일본 중부에서 강진이 발생해 유리창이 깨지고 최소 22명이 다쳤다."
+   },
+   {
+    "cid": "cn",
+    "url": "http://www.jpost.com/business-and-innovation/article-914134",
+    "text": "엔비디아의 젠슨 황이 중국 스파이의 표적이 되었다는 보도가 나왔다."
+   },
+   {
+    "cid": "tw",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/09/2003867384",
+    "text": "대만 TSMC가 첨단 AI 메모리 반도체 제조를 검토한다는 보도가 나왔다."
+   }
+  ]
  }
 }
