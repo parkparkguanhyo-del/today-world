@@ -1,0 +1,15 @@
+{
+  "name": "오늘의 세계",
+  "short_name": "오늘의 세계",
+  "description": "세계지도에서 나라를 누르면 그 나라 오늘 소식을 바로 보는 뉴스 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F2EF",
+  "theme_color": "#F3F2EF",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
