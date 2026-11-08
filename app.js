@@ -60,7 +60,7 @@
   function articlesOf(cid) {
     var c = data.countries[cid];
     return (c && c.articles ? c.articles : []).map(function (a) {
-      return { cid: cid, title: a.title, url: a.url, domain: a.domain, ts: seenDate(a.seen) };
+      return { cid: cid, title: a.title, ko: a.ko || '', sum: a.sum || '', url: a.url, domain: a.domain, ts: seenDate(a.seen) };
     });
   }
   function allArticles() {
@@ -76,6 +76,8 @@
   }
 
   /* ---------- 조각 ---------- */
+  function head(a) { return a.ko || a.title; }
+  function langOf(a) { return a.ko ? 'ko' : 'en'; }
   function href(a) { return '#/a/' + a.cid + '/' + encodeURIComponent(a.url); }
   function thumb(cid, cls) {
     var p = photoOf(cid);
@@ -88,7 +90,8 @@
   function itemRow(a, showCountry) {
     return '<div class="item"><a href="' + href(a) + '"><span class="tx">'
       + (showCountry ? '<span class="c">' + esc(BY_ID[a.cid].name) + '</span>' : '')
-      + '<span class="t clamp2" lang="en">' + esc(a.title) + '</span></span>' + thumb(a.cid) + '</a>'
+      + '<span class="t clamp2" lang="' + langOf(a) + '">' + esc(head(a)) + '</span>'
+      + (a.sum ? '<span class="s clamp2">' + esc(a.sum) + '</span>' : '') + '</span>' + thumb(a.cid) + '</a>'
       + '<div class="meta"><span>' + esc(a.domain) + ' ' + kst(a.ts) + '</span>' + saveBtn(a) + '</div></div>';
   }
   function emptyBox() {
@@ -116,11 +119,20 @@
     if (!lead) {
       h += emptyBox();
     } else {
-      if (list[1]) h += '<a class="card live press" href="' + href(list[1]) + '"><b>실시간</b><span>' + esc(BY_ID[list[1].cid].name) + ' ' + esc(list[1].title) + '</span></a>';
+      var brief = (data.briefing && data.briefing.items || []).map(function (b) { return { b: b, a: findArticle(b.cid, b.url) }; }).filter(function (x) { return x.a && BY_ID[x.b.cid]; });
+      if (reg === '전체' && brief.length) {
+        h += '<section class="card brief"><div class="bh"><b>실시간 요약</b><small>' + kst(Date.parse(data.briefing.updated)) + ' 기준, AI 정리</small></div>'
+          + brief.map(function (x) {
+            return '<a class="bi press" href="' + href(x.a) + '"><span class="badge">' + esc(BY_ID[x.b.cid].name) + '</span><span class="clamp2">' + esc(x.b.text) + '</span></a>';
+          }).join('') + '</section>';
+      } else if (list[1]) {
+        h += '<a class="card live press" href="' + href(list[1]) + '"><b>실시간</b><span>' + esc(BY_ID[list[1].cid].name) + ' ' + esc(head(list[1])) + '</span></a>';
+      }
       var p = photoOf(lead.cid);
       h += '<a class="lead press" href="' + href(lead) + '">' + (p ? '<img src="' + esc(safeUrl(p.src)) + '" alt="">' : '')
         + '<span class="shade"></span>' + (p ? '<span class="credit">사진 위키백과</span>' : '')
-        + '<span class="txt"><span class="kick glass">' + esc(BY_ID[lead.cid].name) + '</span><span class="t clamp3" lang="en">' + esc(lead.title) + '</span>'
+        + '<span class="txt"><span class="kick glass">' + esc(BY_ID[lead.cid].name) + '</span><span class="t clamp3" lang="' + langOf(lead) + '">' + esc(head(lead)) + '</span>'
+        + (lead.sum ? '<span class="m clamp2" style="font-size:13px;opacity:.9">' + esc(lead.sum) + '</span>' : '')
         + '<span class="m">' + esc(lead.domain) + ' ' + kst(lead.ts) + '</span></span></a>';
     }
     var mine = all.filter(function (a) { return BY_ID[a.cid].region === prefs.region; }).length;
@@ -135,7 +147,7 @@
       + rail.map(function (c) {
         var a = articlesOf(c.id);
         return '<a class="card cc press" href="#/map/' + c.id + '"><span class="n">' + esc(c.name) + '<span class="badge">' + a.length + '건</span></span>'
-          + '<span class="clamp2" style="font-size:14px;font-weight:600;color:var(--sub)" lang="en">' + esc(a[0] ? a[0].title : '아직 소식이 없어요') + '</span></a>';
+          + '<span class="clamp2" style="font-size:14px;font-weight:600;color:var(--sub)">' + esc(a[0] ? head(a[0]) : '아직 소식이 없어요') + '</span></a>';
       }).join('') + '</div></section>';
     return { tab: 'home', top: top, body: h };
   }
@@ -157,7 +169,8 @@
       + '<div class="sw-row"><span style="flex:1">관심 나라로 담기</span><button type="button" class="sw" role="switch" data-act="fav" data-v="' + c.id + '" aria-checked="' + fav + '" aria-label="' + esc(c.name) + ' 관심 나라로 담기"><span></span></button></div></div>'
       + '<section class="sec"><div class="h2"><h2>' + esc(c.name) + ' 소식</h2><span class="more">' + list.length + '건</span></div>'
       + (list.length ? list.map(function (a) {
-        return '<a class="card ncard press" href="' + href(a) + '"><span class="w">' + esc(a.domain) + ' ' + kst(a.ts) + '</span><span class="t" lang="en">' + esc(a.title) + '</span></a>';
+        return '<a class="card ncard press" href="' + href(a) + '"><span class="w">' + esc(a.domain) + ' ' + kst(a.ts) + '</span><span class="t" lang="' + langOf(a) + '">' + esc(head(a)) + '</span>'
+          + (a.sum ? '<span class="d">' + esc(a.sum) + '</span>' : '') + '</a>';
       }).join('') : emptyBox()) + '</section>';
     return { tab: 'map', top: bigTop('세계지도', chipsRow(COUNTRIES, c.id, 'country', '나라 선택')), body: h, after: function () { centerPin(c); } };
   }
@@ -187,11 +200,12 @@
       + '</div></div><div class="row"><span class="l"><b>다크 모드</b></span><button type="button" class="sw" role="switch" data-act="dark" aria-checked="' + prefs.dark + '" aria-label="다크 모드"><span></span></button></div></div></section>'
       + '<section class="sec"><h2 class="lab">저장한 기사</h2><div class="card" style="overflow:hidden">'
       + (saved.length ? saved.map(function (a) {
-        return '<a class="row" href="' + href(a) + '"><span class="badge">' + esc(BY_ID[a.cid] ? BY_ID[a.cid].name : '') + '</span><span class="l"><b class="clamp2" style="font-size:15px" lang="en">' + esc(a.title) + '</b></span></a>';
+        return '<a class="row" href="' + href(a) + '"><span class="badge">' + esc(BY_ID[a.cid] ? BY_ID[a.cid].name : '') + '</span><span class="l"><b class="clamp2" style="font-size:15px">' + esc(head(a)) + '</b></span></a>';
       }).join('') : '<p style="margin:0;padding:16px;font-size:14px;color:var(--sub)">기사 옆 책갈피를 누르면 여기에 모여요.</p>') + '</div></section>'
       + '<section class="sec"><h2 class="lab">정보</h2><div class="card" style="overflow:hidden">'
       + '<a class="row" href="https://www.gdeltproject.org" target="_blank" rel="noopener"><span class="l"><b>소식 데이터</b><small>The GDELT Project</small></span></a>'
       + '<a class="row" href="https://ko.wikipedia.org" target="_blank" rel="noopener"><span class="l"><b>나라 사진</b><small>위키백과, 각 사진의 라이선스를 따름</small></span></a>'
+      + '<div class="row"><span class="l"><b>번역과 요약</b><small>구글 제미나이 AI가 기사 제목만 보고 번역하고 정리해요. 틀릴 수 있으니 중요한 내용은 원문을 확인해 주세요.</small></span></div>'
       + '<div class="row"><span class="l"><b>마지막 업데이트</b><small>' + (data.updated ? kst(Date.parse(data.updated)) : '아직 없음') + '</small></span></div>'
       + '<div class="row"><span class="l"><b>안내</b><small>기사 제목과 링크만 보여드려요. 기사 내용과 사진의 권리는 각 언론사에 있어요.</small></span></div>'
       + '</div></section>';
@@ -206,9 +220,11 @@
     var tr = 'https://translate.google.com/translate?sl=auto&tl=ko&u=' + encodeURIComponent(a.url);
     var others = articlesOf(cid).filter(function (o) { return o.url !== a.url; }).slice(0, 5);
     var h = '<article class="art"><a class="ktag" href="#/map/' + c.id + '">' + esc(c.name) + '</a>'
-      + '<h1 lang="en">' + esc(a.title) + '</h1>'
+      + '<h1 lang="' + langOf(a) + '">' + esc(head(a)) + '</h1>'
+      + (a.ko ? '<p class="orig" lang="en">원문 제목: ' + esc(a.title) + '</p>' : '')
       + '<div class="by"><span class="av">' + esc((a.domain || '?').charAt(0).toUpperCase()) + '</span><span style="display:flex;flex-direction:column;line-height:1.35"><b style="font-size:14px">' + esc(a.domain) + '</b><small style="font-size:12px;color:var(--sub)">' + kst(a.ts) + ' 수집, 현지 ' + clock(c.tz) + '</small></span></div>'
-      + (p ? '<figure><img src="' + esc(safeUrl(p.src)) + '" alt="' + esc(p.title) + ' 풍경"><figcaption>' + esc(p.title) + ' 풍경 (기사 사진 아님). 사진 <a href="' + esc(safeUrl(p.page)) + '" target="_blank" rel="noopener" style="text-decoration:underline">위키백과</a></figcaption></figure>' : '')
+      + (p ? '<figure><img src="' + esc(safeUrl(p.src)) + '" alt="' + esc(p.title) + '"><figcaption>' + esc(p.title) + ' (기사 사진 아님). 사진 <a href="' + esc(safeUrl(p.page)) + '" target="_blank" rel="noopener" style="text-decoration:underline">위키백과</a></figcaption></figure>' : '')
+      + (a.sum ? '<div class="aisum"><b>AI 한 줄 설명</b><p>' + esc(a.sum) + '</p><small>제목만 보고 AI가 쓴 설명이라 틀릴 수 있어요.</small></div>' : '')
       + '<p>' + esc(a.domain) + '에 실린 ' + esc(c.name) + ' 관련 영어 기사예요. 오늘의 세계는 제목과 링크만 보여드려요. 전체 내용은 원문에서 읽을 수 있어요.</p></article>'
       + '<div style="margin:22px 16px 0;display:flex;flex-direction:column;gap:10px">'
       + '<a class="pill main press" href="' + esc(safeUrl(a.url)) + '" target="_blank" rel="noopener">원문 보기' + I.out + '</a>'
@@ -218,7 +234,7 @@
     var top = '<div class="bar" style="padding:0 14px"><button type="button" class="ibtn" data-act="back" aria-label="뒤로">' + I.back + '</button><span style="flex:1"></span>'
       + '<button type="button" class="ibtn" data-act="bigger" aria-label="글자 크기 바꾸기" style="font-size:15px;font-weight:800">가</button>'
       + '<button type="button" class="ibtn save" data-act="save" data-cid="' + cid + '" data-url="' + esc(a.url) + '" aria-label="기사 저장" aria-pressed="' + on + '" style="margin:0">' + I.mark + '</button>'
-      + '<button type="button" class="ibtn" data-act="share" data-url="' + esc(a.url) + '" data-title="' + esc(a.title) + '" aria-label="공유">' + I.share + '</button></div>';
+      + '<button type="button" class="ibtn" data-act="share" data-url="' + esc(a.url) + '" data-title="' + esc(head(a)) + '" aria-label="공유">' + I.share + '</button></div>';
     return { tab: null, top: top, body: h };
   }
   function backTop(title) {
