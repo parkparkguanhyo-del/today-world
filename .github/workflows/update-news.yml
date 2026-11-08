@@ -1,35 +1,35 @@
-   name: 뉴스 자동 업데이트
+name: 뉴스 자동 업데이트
 
-   on:
-     schedule:
-       - cron: '17 * * * *'
-     workflow_dispatch:
-     push:
-       branches: [main]
-       paths: ['countries.js', 'scripts/**']
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
 
-   permissions:
-     contents: write
+permissions:
+  contents: write
 
-   concurrency:
-     group: update-news
-     cancel-in-progress: false
+concurrency:
+  group: update-news
+  cancel-in-progress: false
 
-   jobs:
-     update:
-       runs-on: ubuntu-latest
-       timeout-minutes: 20
-       steps:
-         - uses: actions/checkout@v4
-         - uses: actions/setup-node@v4
-           with:
-             node-version: 20
-         - run: node scripts/fetch-news.mjs
-         - name: 바뀐 뉴스 저장
-           run: |
-             git config user.name "news-bot"
-             git config user.email "news-bot@users.noreply.github.com"
-             git add data/news.json
-             git diff --cached --quiet || git commit -m "뉴스 업데이트"
-             git push
-             
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/fetch-news.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: 바뀐 뉴스 저장
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet && exit 0
+          git commit -m "뉴스 업데이트"
+          git pull --rebase origin main
+          git push
