@@ -209,7 +209,7 @@
       + '<h1 lang="en">' + esc(a.title) + '</h1>'
       + '<div class="by"><span class="av">' + esc((a.domain || '?').charAt(0).toUpperCase()) + '</span><span style="display:flex;flex-direction:column;line-height:1.35"><b style="font-size:14px">' + esc(a.domain) + '</b><small style="font-size:12px;color:var(--sub)">' + kst(a.ts) + ' 수집, 현지 ' + clock(c.tz) + '</small></span></div>'
       + (p ? '<figure><img src="' + esc(safeUrl(p.src)) + '" alt="' + esc(p.title) + ' 풍경"><figcaption>' + esc(p.title) + ' 풍경 (기사 사진 아님). 사진 <a href="' + esc(safeUrl(p.page)) + '" target="_blank" rel="noopener" style="text-decoration:underline">위키백과</a></figcaption></figure>' : '')
-      + '<p>' + esc(c.name) + ' 언론사 ' + esc(a.domain) + '에 실린 영어 기사예요. 오늘의 세계는 제목과 링크만 보여드려요. 전체 내용은 원문에서 읽을 수 있어요.</p></article>'
+      + '<p>' + esc(a.domain) + '에 실린 ' + esc(c.name) + ' 관련 영어 기사예요. 오늘의 세계는 제목과 링크만 보여드려요. 전체 내용은 원문에서 읽을 수 있어요.</p></article>'
       + '<div style="margin:22px 16px 0;display:flex;flex-direction:column;gap:10px">'
       + '<a class="pill main press" href="' + esc(safeUrl(a.url)) + '" target="_blank" rel="noopener">원문 보기' + I.out + '</a>'
       + '<a class="pill sub press" href="' + esc(tr) + '" target="_blank" rel="noopener">한국어로 번역해서 보기</a></div>'
