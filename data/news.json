@@ -1,5 +1,1093 @@
 {
- "updated": null,
+ "updated": "2026-11-08T13:29:04.387Z",
  "source": "The GDELT Project",
- "countries": {}
+ "countries": {
+  "jp": {
+   "articles": [
+    {
+     "title": "Tokyo Gas Co.,Ltd. (OTCMKTS:TKGSY) Stock Price Crosses Below 200 Day Moving Average – What's Next?",
+     "url": "https://www.dailypolitical.com/2026/11/08/tokyo-gas-co-ltd-otcmktstkgsy-stock-price-crosses-below-200-day-moving-average-whats-next.html",
+     "domain": "dailypolitical.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "PHL foreign debt grows faster than income-peer average, WB says",
+     "url": "https://bworldonline.com/economy/2026/11/08/792150/phl-foreign-debt-grows-faster-than-income-peer-average-wb-says/",
+     "domain": "bworldonline.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Comparing Recruit (OTCMKTS:RCRUY) and SS&C Technologies (NASDAQ:SSNC)",
+     "url": "https://www.themarketsdaily.com/2026/11/08/comparing-recruit-otcmktsrcruy-and-ssc-technologies-nasdaqssnc.html",
+     "domain": "themarketsdaily.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Japan's Tashima rates FIFA election chances at 20-30% in challenge to Infantino",
+     "url": "https://cyprus-mail.com/2026/11/08/japans-tashima-rates-fifa-election-chances-at-20-30-in-challenge-to-infantino",
+     "domain": "cyprus-mail.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Witch on the Holy Night Manga Adaptation to Get Simultaneous English Release",
+     "url": "https://operationrainfall.com/2026/11/08/witch-on-the-holy-night-manga-adaptation-to-get-simultaneous-english-release/",
+     "domain": "operationrainfall.com",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "In Search of the Heart of the Online Cat-Industrial Complex",
+     "url": "https://www.wired.com/2012/08/ff-cats/",
+     "domain": "wired.com",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Anna Sawai 'so terrified' of spilling Beatles biopic secrets",
+     "url": "http://www.femalefirst.co.uk/movies/movie-news/anna-sawai-terrified-spilling-beatles-biopic-secrets-1453355.html",
+     "domain": "femalefirst.co.uk",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Norwich Royal Arcade to host Christmas late-night shopping",
+     "url": "https://www.edp24.co.uk/news/26706906.norwich-royal-arcade-host-christmas-late-night-shopping/",
+     "domain": "edp24.co.uk",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Mitsubishi Heavy Industries (MHVYF) & Its Peers Critical Analysis",
+     "url": "https://www.dailypolitical.com/2026/11/08/mitsubishi-heavy-industries-mhvyf-its-peers-critical-analysis.html",
+     "domain": "dailypolitical.com",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Vietnamese Party General Secretary and State President To Lam arrives in Japan for official visit",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/08/vietnamese-party-general-secretary-and-state-president-to-lam-arrives-in-japan-for-official-visit",
+     "domain": "thestar.com.my",
+     "seen": "20261108T130000Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Tokyo_Montage_2015.jpg/800px-Tokyo_Montage_2015.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%BF%84",
+    "title": "도쿄"
+   }
+  },
+  "cn": {
+   "articles": [
+    {
+     "title": "(CIIE) CHINA-SHANGHAI-CIIE-NEW TECH PRODUCTS (CN)",
+     "url": "http://www.chinanationalnews.com/news/279420293/ciie-china-shanghai-ciie-new-tech-products-cn",
+     "domain": "chinanationalnews.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "CHINA-HUNAN-XIANGXI-CAMBRIAN CLUES-FIELD WORK-ACADEMIC DISCUSSIONS (CN)",
+     "url": "http://www.shanghaisun.com/news/279420189/china-hunan-xiangxi-cambrian-clues-field-work-academic-discussions-cn",
+     "domain": "shanghaisun.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Poster | Seeing CIIE: Wonders",
+     "url": "http://www.shanghaisun.com/news/279420295/poster-seeing-ciie-wonders",
+     "domain": "shanghaisun.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Two Apprehended With Chinese Pistol, Grenades in Kulgam",
+     "url": "https://kashmirlife.net/two-apprehended-with-chinese-pistol-grenades-in-kulgam-460276/",
+     "domain": "kashmirlife.net",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Telecom Operators' AI Spending in 2026: Bell, Ooredoo, China Mobile, China Telecom and Singtel Reveal Investments and Returns",
+     "url": "https://telecomlead.com/telecom-services/telecom-operators-ai-spending-in-2026-bell-ooredoo-china-mobile-china-telecom-and-singtel-reveal-investments-and-returns-128606",
+     "domain": "telecomlead.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "CIIE opens doors to global opportunities for Singaporean businesses: Singapore Business Federation CEO",
+     "url": "http://www.shanghaisun.com/news/279419287/ciie-opens-doors-to-global-opportunities-for-singaporean-businesses-singapore-business-federation-ceo",
+     "domain": "shanghaisun.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "#(EcoChina) CHINA-HEILONGJIANG-WINTER-DRIFT ICE (CN)",
+     "url": "http://www.shanghaisun.com/news/279419581/ecochina-china-heilongjiang-winter-drift-ice-cn",
+     "domain": "shanghaisun.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "2026 China International Intelligent Communication Forum Held in Wuxi",
+     "url": "https://www.thehindubusinessline.com/brandhub/pr-release/2026-china-international-intelligent-communication-forum-held-in-wuxi/article71680796.ece",
+     "domain": "thehindubusinessline.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Singapore business leader says CIIE opens up global opportunities",
+     "url": "http://www.laosnews.net/news/279420046/singapore-business-leader-says-ciie-opens-up-global-opportunities",
+     "domain": "laosnews.net",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "(CIIE) Economic Watch: China import expo spotlights deeper Asia-Pacific industrial cooperation",
+     "url": "http://www.laosnews.net/news/279420195/ciie-economic-watch-china-import-expo-spotlights-deeper-asia-pacific-industrial-cooperation",
+     "domain": "laosnews.net",
+     "seen": "20261108T133000Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/China_Beijing.svg/langko-330px-China_Beijing.svg.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%9D%B4%EC%A7%95%EC%8B%9C",
+    "title": "베이징시"
+   }
+  },
+  "tw": {
+   "articles": [
+    {
+     "title": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election",
+     "url": "http://www.cecildaily.com/ap/world/taiwan-detains-a-communist-party-leader-over-alleged-chinese-sponsorship-in-election/article_d791321f-91b2-538f-a4ba-d2ed3dca887e.html",
+     "domain": "cecildaily.com",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "\"The Death of a Certain Woman,\" by Yasushi Inoue",
+     "url": "https://www.newyorker.com/magazine/2026/11/16/the-death-of-a-certain-woman-fiction-yasushi-inoue",
+     "domain": "newyorker.com",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Election-related fraud causes NT$20.15 million in losses: CIB",
+     "url": "https://focustaiwan.tw:443/society/202611080009",
+     "domain": "focustaiwan.tw",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "On campaign trail, Chiang talks sports, Shen disadvantaged groups",
+     "url": "https://focustaiwan.tw/politics/202611080012",
+     "domain": "focustaiwan.tw",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Taiwan People's Communist Party chief detained in China funding probe",
+     "url": "https://focustaiwan.tw:443/society/202611080010",
+     "domain": "focustaiwan.tw",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Northeasterly winds to send temperatures lower in northern Taiwan",
+     "url": "https://focustaiwan.tw:443/society/202611080013",
+     "domain": "focustaiwan.tw",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Panamanian lawmaker urges Taiwan to establish trade office in Panama",
+     "url": "https://focustaiwan.tw:443/politics/202611080014",
+     "domain": "focustaiwan.tw",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Bought by Kornitzer Capital Management Inc. KS",
+     "url": "https://www.themarketsdaily.com/2026/11/08/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-bought-by-kornitzer-capital-management-inc-ks.html",
+     "domain": "themarketsdaily.com",
+     "seen": "20261108T113000Z"
+    },
+    {
+     "title": "Taiwan detains Communist Party leader over alleged Chinese sponsorship in election",
+     "url": "https://www.thehindu.com/news/international/taiwan-detains-communist-party-leader-over-alleged-chinese-sponsorship-in-election/article71680805.ece",
+     "domain": "thehindu.com",
+     "seen": "20261108T103000Z"
+    },
+    {
+     "title": "Taiwan People'S Communist Party: Taiwan detains communist party leader over alleged links to China ahead of local polls",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-detains-communist-party-leader-over-alleged-links-to-china-ahead-of-local-polls/articleshow/135655245.cms",
+     "domain": "indiatimes.com",
+     "seen": "20261108T100000Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/800px-Taipei_Skyline_2022.06.29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EC%8B%9C",
+    "title": "타이베이시"
+   }
+  },
+  "mm": {
+   "articles": [
+    {
+     "title": "Myanmar Junta Criticized for Adding Conscription Law Lessons to School Curriculum",
+     "url": "https://karennews.org/2026/11/myanmar-junta-criticized-for-adding-conscription-law-lessons-to-school-curriculum/",
+     "domain": "karennews.org",
+     "seen": "20261108T104500Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Yangon_montage.png/800px-Yangon_montage.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B3%A4",
+    "title": "양곤"
+   }
+  },
+  "my": {
+   "articles": [
+    {
+     "title": "Najib house arrest leaves Anwar in a bind | The Straits Times",
+     "url": "https://www.straitstimes.com/asia/se-asia/to-free-or-not-to-free-ceding-to-umno-leaves-anwar-in-a-bind-over-najibs-house-arrest",
+     "domain": "straitstimes.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Sundry shop owner slashed to death after fight over money, say Papar cops",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/08/man-slashed-to-death-after-fight-over-money-say-papar-cops",
+     "domain": "thestar.com.my",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Man drowns at Taman Suria Waterfall in Taiping",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/08/man-drowns-at-taman-suria-waterfall-in-taiping",
+     "domain": "thestar.com.my",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Taman Sri Muda among several areas hit by flash floods, Bomba on alert",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/08/selangor-sees-rising-water-levels-firefighters-on-alert",
+     "domain": "thestar.com.my",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "AADK needs more volunteers to fight drug abuse",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/08/aadk-needs-more-volunteers-to-fight-drug-abuse",
+     "domain": "thestar.com.my",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Nine remanded in fatal Sibu brawl case",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/08/nine-remanded-in-fatal-sibu-brawl-case",
+     "domain": "thestar.com.my",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Man dies in suspected fall from Bayan Lepas hotel balcony",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/08/man-dies-in-suspected-fall-from-bayan-lepas-hotel-balcony",
+     "domain": "thestar.com.my",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Preparing now for longer lives",
+     "url": "https://www.thestar.com.my/opinion/letters/2026/11/08/preparing-now-for-longer-lives",
+     "domain": "thestar.com.my",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "Why policy certainty is important in a world of hyper-flux",
+     "url": "https://www.thestar.com.my/opinion/letters/2026/11/08/why-policy-certainty-is-important-in-a-world-of-hyper-flux",
+     "domain": "thestar.com.my",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "From Viral Vomiting Claims To Expired Waffles: What Is Actually Going On With Gardenia?",
+     "url": "https://www.therakyatpost.com/news/malaysia/2026/11/08/from-viral-vomiting-claims-to-expired-waffles-what-is-actually-going-on-with-gardenia/",
+     "domain": "therakyatpost.com",
+     "seen": "20261108T123000Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bukit_Bintang_Junction_in_2023.jpg/800px-Bukit_Bintang_Junction_in_2023.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%BF%A0%EC%95%8C%EB%9D%BC%EB%A3%B8%ED%91%B8%EB%A5%B4",
+    "title": "쿠알라룸푸르"
+   }
+  },
+  "id": {
+   "articles": [
+    {
+     "title": "Australians survive fire helicopter crash in Indonesia",
+     "url": "https://www.easternriverinachronicle.com.au/story/9387825/australians-survive-fire-helicopter-crash-in-indonesia/",
+     "domain": "easternriverinachronicle.com.au",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+     "url": "https://news.tuoitre.vn/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts-103261108153002294.htm",
+     "domain": "news.tuoitre.vn",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "Indonesia: Helicopter Crashes Into River During Wildfire Operations",
+     "url": "https://www.deccanchronicle.com/world/indonesia-helicopter-crashes-into-river-during-wildfire-operations-2002769",
+     "domain": "deccanchronicle.com",
+     "seen": "20261108T123000Z"
+    },
+    {
+     "title": "Singapore President Tharman Shanmugaratnam celebrates Deepavali with idiyappam challenge, highlights multicultural spirit",
+     "url": "http://www.singaporestar.com/news/279419617/singapore-president-tharman-shanmugaratnam-celebrates-deepavali-with-idiyappam-challenge-highlights-multicultural-spirit",
+     "domain": "singaporestar.com",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Indonesian govt tightens checks on subsidized rice after fraud cases",
+     "url": "https://en.antaranews.com/news/441171/indonesian-govt-tightens-checks-on-subsidized-rice-after-fraud-cases",
+     "domain": "antaranews.com",
+     "seen": "20261108T120000Z"
+    },
+    {
+     "title": "Jimly urges police chief to implement reform recommendations",
+     "url": "https://en.antaranews.com/news/441131/jimly-urges-police-chief-to-implement-reform-recommendations",
+     "domain": "antaranews.com",
+     "seen": "20261108T120000Z"
+    },
+    {
+     "title": "International concerts boost foreign tourist arrivals: Ministry",
+     "url": "https://en.antaranews.com/news/441151/international-concerts-boost-foreign-tourist-arrivals-ministry",
+     "domain": "antaranews.com",
+     "seen": "20261108T120000Z"
+    },
+    {
+     "title": "Skouw border post enforces All Indonesia arrival declaration",
+     "url": "https://en.antaranews.com/news/441147/skouw-border-post-enforces-all-indonesia-arrival-declaration",
+     "domain": "antaranews.com",
+     "seen": "20261108T120000Z"
+    },
+    {
+     "title": "KAI offers 30 percent discount on for year-end holidays",
+     "url": "https://en.antaranews.com/news/441183/kai-offers-30-percent-discount-on-for-year-end-holidays",
+     "domain": "antaranews.com",
+     "seen": "20261108T120000Z"
+    },
+    {
+     "title": "Three survive after another firefighting chopper crashes in Kalimantan",
+     "url": "https://en.antaranews.com/news/441087/three-survive-after-another-firefighting-chopper-crashes-in-kalimantan",
+     "domain": "antaranews.com",
+     "seen": "20261108T120000Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Jakarta_Special_Capital_Region_in_Indonesia_%28special_marker%29.svg/langko-330px-Jakarta_Special_Capital_Region_in_Indonesia_%28special_marker%29.svg.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%B9%B4%EB%A5%B4%ED%83%80",
+    "title": "자카르타"
+   }
+  },
+  "fr": {
+   "articles": [
+    {
+     "title": "Back To The Future Of Science Fiction",
+     "url": "https://science20.com/quentin_r_skrabec/back_to_the_future_of_science_fiction-256126",
+     "domain": "science20.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "French bank faces €100 million loss after cyber heist",
+     "url": "http://www.laosnews.net/news/279414663/french-bank-faces-100-million-loss-after-cyber-heist",
+     "domain": "laosnews.net",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Christian Dior S.E. (OTCMKTS:CHDRY) Stock Crosses Below 200-Day Moving Average – Here's Why",
+     "url": "https://www.dailypolitical.com/2026/11/08/christian-dior-s-e-otcmktschdry-stock-crosses-below-200-day-moving-average-heres-why.html",
+     "domain": "dailypolitical.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Hackers steal €100 million from French lender Credit Mutuel Arkea",
+     "url": "http://www.chinanationalnews.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+     "domain": "chinanationalnews.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Gianni Infantino left sweating as Arsene Wenger urged to rival FIFA chief for job",
+     "url": "https://www.aol.co.uk/articles/gianni-infantino-left-sweating-arsene-124910000.html",
+     "domain": "aol.co.uk",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "I'm a 32-year-old personal trainer... and I love having affairs with my female, midlife clients. Their husbands should thank me for improving their wives (in and out of the bedroom!)",
+     "url": "https://www.dailymail.com/lifestyle/love-sex/article-16275883/personal-trainer-love-affairs-midlife-clients-husbands.html",
+     "domain": "dailymail.com",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Film Column - The Devils",
+     "url": "https://www.limerickpost.ie/2026/11/08/film-column-the-devils/",
+     "domain": "limerickpost.ie",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Filet crochet is the delicate lace technique to try this autumn",
+     "url": "https://www.prima.co.uk/craft/crochet/a74355752/how-to-filet-crochet/",
+     "domain": "prima.co.uk",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "GCHQ warns UK organisations after freezer cyber attacks",
+     "url": "https://www.northwalespioneer.co.uk/news/26709597.gchq-warns-uk-organisations-freezer-cyber-attacks/",
+     "domain": "northwalespioneer.co.uk",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "After Galliano controversy, Met Gala turns to everyday fashion",
+     "url": "https://www.dailysabah.com/life/fashion/after-galliano-controversy-met-gala-turns-to-everyday-fashion",
+     "domain": "dailysabah.com",
+     "seen": "20261108T130000Z"
+    }
+   ],
+   "photo": null
+  },
+  "de": {
+   "articles": [
+    {
+     "title": "Dialogue, human-centered journalism key to understanding China: German newspaper chief",
+     "url": "http://www.shanghaisun.com/news/279419551/dialogue-human-centered-journalism-key-to-understanding-china-german-paper-chief",
+     "domain": "shanghaisun.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Briton killed and another injured in Poland mass shooting that left six dead",
+     "url": "https://www.burytimes.co.uk/news/national/26709421.briton-killed-another-injured-poland-mass-shooting-left-six-dead/",
+     "domain": "burytimes.co.uk",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "West Ham: 'Next step' in Niclas Fullkrug permanent exit confirmed",
+     "url": "https://the72.co.uk/2026/11/08/west-ham-next-step-niclas-fullkrug-permanent-exit/",
+     "domain": "the72.co.uk",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "COP31 begins in Antalya in year of climate disasters",
+     "url": "https://www.dailysabah.com/life/environment/cop31-begins-in-antalya-in-year-of-climate-disasters",
+     "domain": "dailysabah.com",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "'My Data, My Rules' – The Right to Data Portability",
+     "url": "https://www.legallyindia.com/views/entry/my-data-my-rules-the-right-to-data-portability/",
+     "domain": "legallyindia.com",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Geothermal Energy Investment 2026: Fervo's $2.2 Billion IPO, EGS Project Costs, Developers and Returns",
+     "url": "https://greentechlead.com/power/geothermal-energy-investment-2026-fervos-2-2-billion-ipo-egs-project-costs-developers-and-returns-56399",
+     "domain": "greentechlead.com",
+     "seen": "20261108T123000Z"
+    },
+    {
+     "title": "Liverpool identify Luka Vuskovic as top centre-back target, monstrous price revealed",
+     "url": "https://thehardtackle.com/transfer-news/2026/11/08/liverpool-identify-luka-vuskovic-as-top-centre-back-target-monstrous-price-revealed/",
+     "domain": "thehardtackle.com",
+     "seen": "20261108T123000Z"
+    },
+    {
+     "title": "Arsenal run rule over Antonio Nusa, face Liverpool, Tottenham battle",
+     "url": "https://thehardtackle.com/transfer-news/2026/11/08/arsenal-run-rule-over-antonio-nusa-face-liverpool-tottenham-battle/",
+     "domain": "thehardtackle.com",
+     "seen": "20261108T123000Z"
+    },
+    {
+     "title": "Can AI cut heating bills? Smart systems show promise, but costs remain a hurdle - Shafaqna English",
+     "url": "https://en.shafaqna.com/489941/ai-smart-heating-systems-reduce-energy-bills/",
+     "domain": "shafaqna.com",
+     "seen": "20261108T113000Z"
+    },
+    {
+     "title": "COP31 Host Agreement Caps Lodging Charges for Trust Fund for Participation Recipients",
+     "url": "https://econotimes.com/COP31-Host-Agreement-Caps-Lodging-Charges-for-Trust-Fund-for-Participation-Recipients-1773159",
+     "domain": "econotimes.com",
+     "seen": "20261108T111500Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin_Panorama_von_der_Siegess%C3%A4ule_2021.jpg/800px-Berlin_Panorama_von_der_Siegess%C3%A4ule_2021.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A5%BC%EB%A6%B0",
+    "title": "베를린"
+   }
+  },
+  "pl": {
+   "articles": [
+    {
+     "title": "Student Protests Expose A Deeper Crisis In France - DW Focus On Europe",
+     "url": "https://nhpbs.org/schedule/summary.aspx?progId=DWFocusOnEurope4446",
+     "domain": "nhpbs.org",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Ola Jordan 'utterly devastated' following shocking new James cheating claims",
+     "url": "https://www.hellomagazine.com/celebrities/932027/exclusive-ola-jordan-speaks-for-first-time-about-marriage-split/",
+     "domain": "hellomagazine.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Security fears heighten after mass shooting in Poland",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-08-security-fears-heighten-after-mass-shooting-in-poland/",
+     "domain": "timeslive.co.za",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Poland calls Krakow shooting rampage 'terrorist' attack",
+     "url": "https://www.straitstimes.com/world/europe/poland-calls-krakow-shooting-rampage-terrorist-attack",
+     "domain": "straitstimes.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Briton killed and another injured in Poland mass shooting that left six dead",
+     "url": "https://www.southwalesguardian.co.uk/news/national/26709421.briton-killed-another-injured-poland-mass-shooting-left-six-dead/",
+     "domain": "southwalesguardian.co.uk",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Poland mourns six killed in attack as authorities launch 'terrorism' probe | Crime News",
+     "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe",
+     "domain": "aljazeera.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Defence and trade driving India-Poland partnership: Report",
+     "url": "https://ianslive.in/defence-and-trade-driving-india-poland-partnership-report--20261108173756",
+     "domain": "ianslive.in",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Poland mourns victims of Krakow mass shooting as security fears grow",
+     "url": "https://cyprus-mail.com/2026/11/08/poland-mourns-victims-of-krakow-mass-shooting-as-security-fears-grow",
+     "domain": "cyprus-mail.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Poles mourn rare mass killing as authorities say attacker had far-right views - WSVN 7News | Miami News, Weather, Sports",
+     "url": "https://wsvn.com/news/us-world/poland-massacre-krakow-terrorist-attack/",
+     "domain": "wsvn.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+     "url": "https://isp.netscape.com:443/news/world/story/0001/20261108/69a65400657ffd0c8b3fa104bd472b97",
+     "domain": "netscape.com",
+     "seen": "20261108T133000Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg/800px-Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%A5%B4%EC%83%A4%EB%B0%94",
+    "title": "바르샤바"
+   }
+  },
+  "it": {
+   "articles": [
+    {
+     "title": "Easy Homemade Tomato Sauce / Belkys - WSVN 7News | Miami News, Weather, Sports",
+     "url": "https://wsvn.com/entertainment/bite-with-belkys/fresh-tomato-basil-pasta-recipe/",
+     "domain": "wsvn.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Lewis Hamilton vs Charles Leclerc civil war at Ferrari over? Peace in our time?",
+     "url": "https://www.grandprix247.com/f1-teams-news/lewis-hamilton-vs-charles-leclerc-civil-war-at-ferrari-over-peace-in-our-time",
+     "domain": "grandprix247.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "New wave of bomb hoaxes forces flight diversions across Europe",
+     "url": "http://www.russiaherald.com/news/279414694/new-wave-of-bomb-hoaxes-forces-flight-diversions-across-europe",
+     "domain": "russiaherald.com",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "'Take not thy thunder from us' — The Catholic Herald",
+     "url": "https://thecatholicherald.com/article/take-not-thy-thunder-from-us",
+     "domain": "thecatholicherald.com",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Vision prevention: the UICI camper in Messina for a free eye screening",
+     "url": "https://www.odnako.org/vision-prevention-the-uici-camper-in-messina-for-a-free-eye-screening/",
+     "domain": "odnako.org",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Right to vote for Calabrian non-residents: «Times too short for the 2027 policies»",
+     "url": "https://www.odnako.org/right-to-vote-for-calabrian-non-residents-times-too-short-for-the-2027-policies/",
+     "domain": "odnako.org",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Advanced tumor profiling uncovers hidden hereditary cancer-predisposition syndrome",
+     "url": "https://www.news-medical.net/news/20261106/Advanced-tumor-profiling-uncovers-hidden-hereditary-cancer-predisposition-syndrome.aspx",
+     "domain": "news-medical.net",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "Gary Neville sends Shea Lacey warning to Michael Carrick ahead of Man Utd vs Aston Villa | Football",
+     "url": "https://metro.co.uk/2026/11/08/gary-neville-sends-shea-lacey-warning-michael-carrick-ahead-man-utd-vs-aston-villa-29774789/",
+     "domain": "metro.co.uk",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "Meloni Blames Pro-Russia Hackers for Cyberattack",
+     "url": "https://politicalwire.com/2026/11/08/meloni-blames-pro-russia-hackers-for-cyberattack/",
+     "domain": "politicalwire.com",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "Chris Sutton backs Aston Villa to win at Old Trafford as Manchester United's doubts refuse to go away — Aston Villa Vs Man United",
+     "url": "https://www.el-balad.com/17065109",
+     "domain": "el-balad.com",
+     "seen": "20261108T124500Z"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/RomaMontage1..jpg/800px-RomaMontage1..jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88",
+    "title": "로마"
+   }
+  },
+  "ru": {
+   "articles": [
+    {
+     "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
+     "url": "https://www.thehindubusinessline.com/news/world/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply/article71680886.ece",
+     "domain": "thehindubusinessline.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Man due back in court after being convicted of city buses sex attacks",
+     "url": "https://www.edp24.co.uk/news/26708519.man-due-back-court-convicted-city-buses-sex-attacks/",
+     "domain": "edp24.co.uk",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Strictly's Ola Jordan 'accuses ex James of having affair with dancer'",
+     "url": "https://metro.co.uk/2026/11/08/strictlys-ola-jordan-accuses-ex-james-affair-dancer-29774416/",
+     "domain": "metro.co.uk",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "UK military chief says Russia threat is 'most dangerous period he's known'",
+     "url": "https://metro.co.uk/2026/11/08/uk-military-chief-says-russia-threat-most-dangerous-period-known-29774958/",
+     "domain": "metro.co.uk",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Briton killed and another injured in Poland mass shooting that left six dead",
+     "url": "https://www.thurrockgazette.co.uk/news/national/26709421.briton-killed-another-injured-poland-mass-shooting-left-six-dead/",
+     "domain": "thurrockgazette.co.uk",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Fans support Boris Johnson after emotional family update",
+     "url": "https://www.eveshamjournal.co.uk/news/26709353.fans-support-boris-johnson-emotional-family-update/",
+     "domain": "eveshamjournal.co.uk",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Strictly's James Jordan 'growing close' to dancer after devastating marriage split | Celebrity News | Showbiz & TV",
+     "url": "https://www.express.co.uk/celebrity-news/2264333/james-jordan-wife-dancer-marriage-split",
+     "domain": "express.co.uk",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "Vietnam mulls special visa policies to attract more international tourists",
+     "url": "https://news.tuoitre.vn/vietnam-mulls-special-visa-policies-to-attract-more-international-tourists-103261108160026099.htm",
+     "domain": "news.tuoitre.vn",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "Arab News | Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
+     "url": "https://www.arabnews.com/world/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply-3010499",
+     "domain": "arabnews.com",
+     "seen": "20261108T123000Z"
+    },
+    {
+     "title": "Putin Backs Russia's Lab Grown Diamond Restrictions",
+     "url": "https://www.idexonline.com/FullArticle?Id=51497",
+     "domain": "idexonline.com",
+     "seen": "20261108T123000Z"
+    }
+   ],
+   "photo": null
+  },
+  "il": {
+   "articles": [
+    {
+     "title": "SERIOUS CRASH: 17 Injured In Bus And Minibus Collision On Tel Aviv Highway",
+     "url": "https://www.theyeshivaworld.com/news/israel-news/2620355/serious-crash-17-injured-in-bus-and-minibus-collision-on-tel-aviv-highway.html",
+     "domain": "theyeshivaworld.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "POLITICAL DEADLOCK: Eisenkot Has Until December 6 To Form Government, New Elections Possible By May",
+     "url": "https://www.theyeshivaworld.com/news/israel-news/2620366/political-deadlock-eisenkot-has-until-december-6-to-form-government-new-elections-possible-by-may.html",
+     "domain": "theyeshivaworld.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Netanyahu rival given first chance at forming new government",
+     "url": "https://www.news4jax.com/news/world/2026/11/08/netanyahu-rival-given-first-chance-at-forming-new-government/",
+     "domain": "news4jax.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "IRAN WARNING: Defense Minister Katz Says Nuclear Threat Remains, Israel Prepared To Take Military Action",
+     "url": "https://www.theyeshivaworld.com/news/israel-news/2620360/iran-warning-defense-minister-katz-says-nuclear-threat-remains-israel-prepared-to-take-military-action.html",
+     "domain": "theyeshivaworld.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Article: The Regime Change That Came Home: How the Iran War Backfired on Trump and Netanyahu",
+     "url": "https://www.opednews.com/populum/page.php?f=The-Regime-Change-That-Cam-Iran-War_Leverage_Military_Netanyahu-Indicted-261108-89.html",
+     "domain": "opednews.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Will Eisenkot be able to form Israel's next gov't amid divided opposition? | Explainer News",
+     "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition",
+     "domain": "aljazeera.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "EXPLOSIVE ALLEGATIONS: Ben-Gvir Accuses Attorney General Of Blackmailing Police Chief Over Alleged Building Violations",
+     "url": "https://www.theyeshivaworld.com/news/israel-news/2620352/explosive-allegations-ben-gvir-accuses-attorney-general-of-blackmailing-police-chief-over-alleged-building-violations.html",
+     "domain": "theyeshivaworld.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Netanyahu rival Gadi Eisenkot's bid to form a government",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-08-netanyahu-rival-gadi-eisenkots-bid-to-form-a-government/",
+     "domain": "timeslive.co.za",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "The True Story Behind 'Inglourious Basterds' Is Officially Streaming for Free",
+     "url": "https://collider.com/operation-finale-real-life-inglourious-basterds-thriller-streaming-free-pluto-tv-november-2026/",
+     "domain": "collider.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Ex-army chief Eisenkot given first chance to form government in Israel",
+     "url": "https://www.aol.co.uk/articles/ex-army-chief-eisenkot-given-124540000.html",
+     "domain": "aol.co.uk",
+     "seen": "20261108T133000Z"
+    }
+   ],
+   "photo": null
+  },
+  "ir": {
+   "articles": [
+    {
+     "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+     "url": "https://www.khqa.com/news/nation-world/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/article_3cecadd1-7adb-578c-9afe-ebc34dcc1aba.html",
+     "domain": "khqa.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Explosions Reported In Southern Iran",
+     "url": "http://www.massachusettssun.com/news/279419559/explosions-reported-in-southern-iran",
+     "domain": "massachusettssun.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Is Dutch Bros Stock a Buy as Shares Plunge?",
+     "url": "https://www.fool.com/investing/2026/11/08/is-dutch-bros-stock-a-buy-as-shares-plunge/",
+     "domain": "fool.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Should You Buy VOO Before the Market Rebounds?",
+     "url": "https://www.fool.com/investing/2026/11/08/should-you-buy-voo-before-market-rebounds/",
+     "domain": "fool.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Israel says Iran mission 'not complete': 'They're trying to get nuclear weapons'",
+     "url": "https://www.hindustantimes.com/world-news/israel-says-iran-mission-not-complete-they-re-trying-to-get-nuclear-weapons-101794142030671.html",
+     "domain": "hindustantimes.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "IRGC Says 2 Oil Tankers On Fire After Hitting Mines",
+     "url": "http://www.massachusettssun.com/news/279420331/irgc-says-2-oil-tankers-on-fire-after-hitting-mines",
+     "domain": "massachusettssun.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Trump Confirms New Strikes on Iran as U.S. and Tehran Continue Diplomatic Talks",
+     "url": "https://www.kabc.com/2026/11/08/trump-confirms-new-strikes-on-iran-as-u-s-and-tehran-continue-diplomatic-talks/",
+     "domain": "kabc.com",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Mideast news: Saudi Arabia intercepts missiles",
+     "url": "https://www.cp24.com/news/world/2026/11/08/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/",
+     "domain": "cp24.com",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "GMC's Diesel Sierra Outclasses Its Hummer EV With A 13,300-Pound Tow Rating And 900 Miles Of Range",
+     "url": "https://carbuzz.com/diesel-sierra-versus-hummer-ev-towing-and-mileage-comparison/",
+     "domain": "carbuzz.com",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "Iran reports 3 tanker fires as Israel warns of unfinished mission",
+     "url": "https://www.dailysabah.com/world/mid-east/iran-reports-3-tanker-fires-as-israel-warns-of-unfinished-mission",
+     "domain": "dailysabah.com",
+     "seen": "20261108T130000Z"
+    }
+   ],
+   "photo": null
+  },
+  "us": {
+   "articles": [
+    {
+     "title": "Russia, US extend Diwali wishes to people in India",
+     "url": "http://www.massachusettssun.com/news/279419663/russia-us-extend-diwali-wishes-to-people-in-india",
+     "domain": "massachusettssun.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Quincy ditched Flock, then announced OdinEye for surveillance tech",
+     "url": "https://www.bostonglobe.com/2026/11/06/business/quincy-flock-odineye-surveillance-cameras/",
+     "domain": "bostonglobe.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Muscadine Bloodline 'Blue Bayou': Meaning + Lyrics",
+     "url": "https://wkdq.com/ixp/204/p/muscadine-bloodline-blue-bayou-meaning-lyrics/",
+     "domain": "wkdq.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Financial Analysis: i-80 Gold (IAUX) versus Its Rivals",
+     "url": "https://www.themarketsdaily.com/2026/11/08/financial-analysis-i-80-gold-iaux-versus-its-rivals.html",
+     "domain": "themarketsdaily.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Dillon Dingler's second consecutive Gold Glove win shouldn't distract from the big picture",
+     "url": "https://motorcitybengals.com/dillon-dingler-s-second-consecutive-gold-glove-win-shouldn-t-distract-from-the-big-picture",
+     "domain": "motorcitybengals.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "AP Joy Wonder Discovery SummaryBrief at 7:20 a.m. EST",
+     "url": "http://www.wdtimes.com/news/national/ap-joy-wonder-discovery-summarybrief-at-7-20-a-m-est/article_eeae1fab-3202-5714-b16e-3f65dc07f79d.html",
+     "domain": "wdtimes.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Ossoff And AOC Tipped As Favorites For The 2028 Democratic Presidential Nomination At Progressive Convention",
+     "url": "https://www.ibtimes.com/jon-ossoff-leads-2028-democratic-straw-poll-3809535",
+     "domain": "ibtimes.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Why Your Support For The Dallas Express Is Needed Now More Than Ever",
+     "url": "https://www.wbap.com/2026/11/08/why-your-support-for-the-dallas-express-is-needed-now-more-than-ever/",
+     "domain": "wbap.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Two dogs die in Fort Plain Main Street structure fire; Red Cross aids displaced residents",
+     "url": "https://cbs6albany.com/news/local/two-dogs-die-in-fort-plain-main-street-structure-fire-red-cross-aids-displaced-residents",
+     "domain": "cbs6albany.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+     "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-6032829/how-gen-z-voters-helped-fuel-a-blue-wave-for-democrats",
+     "domain": "northcountrypublicradio.org",
+     "seen": "20261108T133000Z"
+    }
+   ],
+   "photo": null
+  },
+  "uy": {
+   "articles": [
+    {
+     "title": "Leo XIV's visit to Uruguay concludes this Sunday",
+     "url": "https://www.plenglish.com/news/2026/11/08/leo-xivs-visit-to-uruguay-concludes-this-sunday/",
+     "domain": "plenglish.com",
+     "seen": "20261108T123000Z"
+    },
+    {
+     "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei's Argentina",
+     "url": "https://www.wlky.com/article/pope-uruguay-mileis-argentina-visit/74367378",
+     "domain": "wlky.com",
+     "seen": "20261108T123000Z"
+    },
+    {
+     "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
+     "url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
+     "domain": "abcnews.com",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+     "url": "https://www.asiaone.com:443/world/pope-leo-heads-mileis-argentina-tensions-loom-over-austerity-iran",
+     "domain": "asiaone.com",
+     "seen": "20261108T114500Z"
+    },
+    {
+     "title": "Pope Leo urges fraternity, faith at Uruguay Mass | The Arkansas Democrat-Gazette",
+     "url": "https://www.arkansasonline.com/news/2026/nov/08/pope-leo-urges-fraternity-faith-at-uruguay-mass/",
+     "domain": "arkansasonline.com",
+     "seen": "20261108T113000Z"
+    },
+    {
+     "title": "Pope Leo celebrates his first Mass in South America",
+     "url": "https://www.wsbradio.com/news/thousands-pour-into/DJRIGPURSU2IFLJVHW4OS3KEKA/",
+     "domain": "wsbradio.com",
+     "seen": "20261108T110000Z"
+    },
+    {
+     "title": "Pope wraps up Uruguay visit and heads to Milei's Argentina",
+     "url": "https://www.wsbradio.com/news/world/pope-wraps-up/TCKXABIEYU7ABLXFMHFI5YIJR4/",
+     "domain": "wsbradio.com",
+     "seen": "20261108T110000Z"
+    },
+    {
+     "title": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour",
+     "url": "https://www.westhawaiitoday.com/2026/11/08/nation-world-news/pope-leo-urges-south-america-to-bridge-divides-on-uruguay-stop-of-12-day-tour/",
+     "domain": "westhawaiitoday.com",
+     "seen": "20261108T104500Z"
+    },
+    {
+     "title": "Pope Leo urges fraternity, faith at Uruguay Mass | Northwest Arkansas Democrat-Gazette",
+     "url": "https://www.nwaonline.com/news/2026/nov/08/pope-leo-urges-fraternity-faith-at-uruguay-mass/",
+     "domain": "nwaonline.com",
+     "seen": "20261108T103000Z"
+    },
+    {
+     "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei's Argentina – Winnipeg Free Press",
+     "url": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/11/08/pope-wraps-up-uruguay-visit-and-heads-to-most-fraught-stop-of-his-tour-in-mileis-argentina",
+     "domain": "winnipegfreepress.com",
+     "seen": "20261108T103000Z"
+    }
+   ],
+   "photo": null
+  },
+  "au": {
+   "articles": [
+    {
+     "title": "YouTube star Sharky arrives at airport ahead of I'm A Celebrity debut Down Under",
+     "url": "https://www.aol.co.uk/articles/youtube-star-sharky-arrives-airport-123505000.html",
+     "domain": "aol.co.uk",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Benson Boone Invites 13-Year-Old Fan Onstage for Birthday Duet in Brisbane",
+     "url": "https://www.wa1a.com/2026/11/08/benson-boone-invites-13-year-old-fan-onstage-for-birthday-duet-in-brisbane/",
+     "domain": "wa1a.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Lewis Hamilton rivals hail Formula 1 legend ahead of landmark his 400th Grand Prix start today",
+     "url": "https://www.grandprix247.com/f1-history/lewis-hamilton-rivals-hail-formula-1-legend-ahead-of-landmark-his-400th-grand-prix-start-today",
+     "domain": "grandprix247.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Minister warns UK media still has sexual abuse problem",
+     "url": "https://www.macleayargus.com.au/story/9387816/minister-warns-uk-media-still-has-sexual-abuse-problem/",
+     "domain": "macleayargus.com.au",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Suspect hit with murder charge after elderly man killed in alleged violent home invasion",
+     "url": "https://www.oberonreview.com.au/story/9387815/suspect-hit-with-murder-charge-after-elderly-man-killed-in-alleged-violent-home-invasion/",
+     "domain": "oberonreview.com.au",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Wales vow to improve as All Blacks, Aussies lie in wait",
+     "url": "https://www.easternriverinachronicle.com.au/story/9387826/wales-vow-to-improve-as-all-blacks-aussies-lie-in-wait/",
+     "domain": "easternriverinachronicle.com.au",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Giant strides, but Pacific must rise again for a title",
+     "url": "https://www.easternriverinachronicle.com.au/story/9387821/giant-strides-but-pacific-must-rise-again-for-a-title/",
+     "domain": "easternriverinachronicle.com.au",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "Akira Kurosawa's Favorite Mystery Masterpiece Is Officially Streaming for Free",
+     "url": "https://collider.com/harrison-ford-witness-streaming-free-pluto-tv-november-2026/",
+     "domain": "collider.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "The efficiency trap: why optimising everything can backfire, badly",
+     "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+     "domain": "theguardian.com",
+     "seen": "20261108T133000Z"
+    },
+    {
+     "title": "7 Apple TV Sci-Fi Shows With No Bad Seasons, Ranked",
+     "url": "https://collider.com/apple-tv-sci-fi-shows-no-bad-seasons-ranked/",
+     "domain": "collider.com",
+     "seen": "20261108T133000Z"
+    }
+   ],
+   "photo": null
+  },
+  "nz": {
+   "articles": [
+    {
+     "title": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
+     "url": "https://www.stcatharinesstandard.ca/news/world/australia/new-zealanders-won-t-know-for-weeks-who-won-the-election-as-neither-side-secures-clear-victory/article_b24c5355-e7f5-5410-9b52-e492a1276a5b.html",
+     "domain": "stcatharinesstandard.ca",
+     "seen": "20261108T131500Z"
+    },
+    {
+     "title": "What Millwall must learn from 3-0 West Brom defeat",
+     "url": "https://the72.co.uk/2026/11/08/millwall-3-takes-from-west-brom-defeat/",
+     "domain": "the72.co.uk",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "New Zealand election result said too close to call | The Arkansas Democrat-Gazette",
+     "url": "https://www.arkansasonline.com/news/2026/nov/08/new-zealand-election-result-said-too-close-to-call/",
+     "domain": "arkansasonline.com",
+     "seen": "20261108T130000Z"
+    },
+    {
+     "title": "KLA Corporation $KLAC Stock Sold by Uhlmann Price Securities LLC",
+     "url": "https://www.themarketsdaily.com/2026/11/08/kla-corporation-klac-stock-sold-by-uhlmann-price-securities-llc.html",
+     "domain": "themarketsdaily.com",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "KL Rahul gifts Game Changer award smartphone to official after 2nd ODI win against New Zealand",
+     "url": "http://www.calcuttanews.net/news/279419608/kl-rahul-gifts-game-changer-award-smartphone-to-official-after-2nd-odi-win-against-new-zealand",
+     "domain": "calcuttanews.net",
+     "seen": "20261108T124500Z"
+    },
+    {
+     "title": "Vertiv Holdings Co. $VRT Stake Trimmed by Pictet Asset Management Holding SA",
+     "url": "https://www.themarketsdaily.com/2026/11/08/vertiv-holdings-co-vrt-stake-trimmed-by-pictet-asset-management-holding-sa.html",
+     "domain": "themarketsdaily.com",
+     "seen": "20261108T123000Z"
+    },
+    {
+     "title": "Hipkins' pledge can't survive Greens negotiations – LiveNews.co.nz",
+     "url": "https://livenews.co.nz/2026/11/08/hipkins-pledge-cant-survive-greens-negotiations/",
+     "domain": "livenews.co.nz",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Government's books show National's plan working – LiveNews.co.nz",
+     "url": "https://livenews.co.nz/2026/11/08/governments-books-show-nationals-plan-working/",
+     "domain": "livenews.co.nz",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Hinge Health Inc. $HNGE Stock Sold by Summit Creek Advisors LLC",
+     "url": "https://www.themarketsdaily.com/2026/11/08/hinge-health-inc-hnge-stock-sold-by-summit-creek-advisors-llc.html",
+     "domain": "themarketsdaily.com",
+     "seen": "20261108T121500Z"
+    },
+    {
+     "title": "Emergency services attend after vehicle collides with building on Bridgnorth Road",
+     "url": "https://www.shropshirelive.com/news/2026/11/08/emergency-services-attend-after-vehicle-collides-with-building-on-bridgnorth-road/",
+     "domain": "shropshirelive.com",
+     "seen": "20261108T120000Z"
+    }
+   ],
+   "photo": null
+  }
+ }
 }
