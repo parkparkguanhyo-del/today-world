@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-13T17:56:00.394Z",
+ "updated": "2026-11-13T23:51:10.221Z",
  "source": "The GDELT Project",
- "ai": "gemini-failed",
+ "ai": "gemini",
  "countries": {
   "jp": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Japan to consider tax cut-linked benefits covering half of workers: PM Takaichi",
+     "url": "https://japantoday.com/category/politics/japan-to-mull-tax-cut-linked-benefits-covering-half-of-workers-pm-takaichi",
+     "domain": "japantoday.com",
+     "seen": "20261113T214500Z",
+     "ko": "일본 정부, 근로자 절반 대상 감세 연계 지원금 검토",
+     "sum": "다카이치 총리는 전체 근로자의 절반을 대상으로 하는 감세 연계 지원금 지급을 검토하겠다고 밝혔다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/080103_hakkai_fuji.jpg/960px-080103_hakkai_fuji.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -14,7 +23,40 @@
    }
   },
   "cn": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "GLP-1 weight-loss pills expand to China as US firm wins approval",
+     "url": "https://www.the-independent.com/life-style/health-and-families/glp1-weight-loss-pill-eli-lilly-china-b3084057.html",
+     "domain": "the-independent.com",
+     "seen": "20261113T223000Z",
+     "ko": "미국산 알약형 비만 치료제, 중국 규제 당국 승인 획득",
+     "sum": "미국 제약회사의 GLP-1 비만 치료용 알약이 중국 당국의 승인을 받아 시장 진출을 확대했다."
+    },
+    {
+     "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
+     "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
+     "domain": "theregister.com",
+     "seen": "20261113T221500Z",
+     "ko": "중국 AI 연구소, 수출 규제에도 엔비디아 최신 칩으로 모델 훈련",
+     "sum": "미국의 수출 통제 조치에도 불구하고 중국 AI 연구소들이 엔비디아의 블랙웰 칩을 사용해 모델을 훈련하고 있다는 주장이 나왔다."
+    },
+    {
+     "title": "China Collects Billions in Offshore Trust Tax as It Tightens Grip on Wealth",
+     "url": "https://www.theepochtimes.com/china/china-collects-billions-in-offshore-trust-tax-as-it-tightens-grip-on-wealth-6124418",
+     "domain": "theepochtimes.com",
+     "seen": "20261113T220000Z",
+     "ko": "중국, 부유층 통제 강화 속 역외 신탁 세금 수십억 달러 징수",
+     "sum": "중국 정부가 부유층에 대한 자산 통제를 강화하며 역외 신탁을 통해 거액의 세금을 거둬들였다."
+    },
+    {
+     "title": "BYD And Geely Have Approached Formula 1 About Additional Teams",
+     "url": "https://www.autospies.com/news/index.aspx?submissionid=132706",
+     "domain": "autospies.com",
+     "seen": "20261113T220000Z",
+     "ko": "중국 비야디와 지리차, F1 진출 위해 신규 팀 구성 타진",
+     "sum": "중국 완성차 업체인 비야디와 지리자동차가 포뮬러 원에 추가 팀을 창단하는 방안을 두고 접촉했다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hall_of_Supreme_Harmony_%2820241127120000%29.jpg/960px-Hall_of_Supreme_Harmony_%2820241127120000%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -24,7 +66,40 @@
    }
   },
   "tw": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "《TAIPEI TIMES》 Legislature passes parental leave increase - 焦點",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5640172",
+     "domain": "ltn.com.tw",
+     "seen": "20261113T201500Z",
+     "ko": "대만 입법원, 육아휴직 확대 법안 통과",
+     "sum": "대만 입법원이 근로자의 육아휴직 혜택을 늘리는 내용의 법안을 통과시켰다."
+    },
+    {
+     "title": "《TAIPEI TIMES》 ASE investing NT$100 billion in Kaohsiung - 焦點",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5640175",
+     "domain": "ltn.com.tw",
+     "seen": "20261113T201500Z",
+     "ko": "대만 ASE, 가오슝에 1000억 대만달러 규모 투자",
+     "sum": "반도체 패키징 기업 ASE가 대만 가오슝에 천억 대만달러를 투자하기로 결정했다."
+    },
+    {
+     "title": "《TAIPEI TIMES》 Nvidia Taipei headquarters unaffected - 焦點",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5640173",
+     "domain": "ltn.com.tw",
+     "seen": "20261113T201500Z",
+     "ko": "엔비디아 타이베이 본부, 미국 본사 혼란에도 정상 운영",
+     "sum": "미국 본사의 사태에도 불구하고 대만 타이베이에 위치한 엔비디아 본부는 영향을 받지 않았다."
+    },
+    {
+     "title": "《TAIPEI TIMES》 New golden pear scion to bolster produce resilience - 焦點",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5640174",
+     "domain": "ltn.com.tw",
+     "seen": "20261113T201500Z",
+     "ko": "대만, 농작물 기후 대응력 높일 신품종 황금배 접수 개발",
+     "sum": "대만이 농산물의 기후 복원력을 강화하기 위해 새로운 황금배 접수를 선보였다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/960px-Taipei_Skyline_2022.06.29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -34,7 +109,24 @@
    }
   },
   "mm": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Clashes Intensify Along Myanmar's Kachin-Sagaing Border, Blocking Key Highway",
+     "url": "https://www.bnionline.net/en/news/clashes-intensify-along-myanmars-kachin-sagaing-border-blocking-key-highway",
+     "domain": "bnionline.net",
+     "seen": "20261113T190000Z",
+     "ko": "미얀마 카친과 사가잉 경계 충돌 격화로 주요 고속도로 차단",
+     "sum": "미얀마 카친주와 사가잉 관구 경계 지역에서 무력 충돌이 심화되면서 주요 고속도로가 차단되었다."
+    },
+    {
+     "title": "Seed Shortages, Soaring Input Costs Hit Western Myanmar's Winter Crop Farmers",
+     "url": "https://www.bnionline.net/en/news/seed-shortages-soaring-input-costs-hit-western-myanmars-winter-crop-farmers",
+     "domain": "bnionline.net",
+     "seen": "20261113T190000Z",
+     "ko": "미얀마 서부 농가, 종자 부족과 생산비 급등으로 큰 타격",
+     "sum": "미얀마 서부 지역의 겨울 작물 농가들이 심각한 종자 부족과 투입 비용 급등으로 어려움을 겪고 있다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Shwedagon_Pagoda_2017.jpg/960px-Shwedagon_Pagoda_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -44,7 +136,24 @@
    }
   },
   "my": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Masdar, Citaglobal and TIZA Global Mark Start of Construction for Floating Solar Projects",
+     "url": "https://www.renewableenergymagazine.com/pv_solar/masdar-citaglobal-and-tiza-global-mark-start-20261113",
+     "domain": "renewableenergymagazine.com",
+     "seen": "20261113T193000Z",
+     "ko": "말레이시아, 대규모 수상 태양광 발전 프로젝트 착공",
+     "sum": "마스다르와 시타글로벌 등이 협력하는 수상 태양광 프로젝트의 본격적인 건설이 시작되었다."
+    },
+    {
+     "title": "Man arrested after allegedly strangling mother to death in Banting",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/13/man-arrested-after-allegedly-strangling-mother-to-death-in-banting",
+     "domain": "thestar.com.my",
+     "seen": "20261113T180000Z",
+     "ko": "말레이시아 반팅서 모친 목 졸라 살해한 남성 체포",
+     "sum": "말레이시아 반팅에서 어머니를 목 졸라 살해한 혐의를 받는 남성이 경찰에 체포되었다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bukit_Bintang_Junction_in_2023.jpg/960px-Bukit_Bintang_Junction_in_2023.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -54,7 +163,48 @@
    }
   },
   "id": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Arab News | Indonesia's upper house to pick new vice president on December 2, its speaker says",
+     "url": "https://www.arabnews.com/world/indonesias-upper-house-to-pick-new-vice-president-on-december-2-its-speaker-says-3011745",
+     "domain": "arabnews.com",
+     "seen": "20261113T221500Z",
+     "ko": "인도네시아 상원, 오는 12월 2일 신임 부통령 선출 예정",
+     "sum": "인도네시아 상원의장이 다음 달 2일 새로운 부통령을 선출할 예정이라고 밝혔다."
+    },
+    {
+     "title": "Islamic opposition to church buildings erupts in Indonesia",
+     "url": "https://www.christiandaily.com/news/islamic-opposition-to-church-buildings-erupts-in-indonesia",
+     "domain": "christiandaily.com",
+     "seen": "20261113T194500Z",
+     "ko": "인도네시아에서 교회 건물 신축 반대하는 이슬람계 반발 발생",
+     "sum": "인도네시아에서 교회 건축을 반대하는 이슬람계 주민들의 거센 반발이 일어났다."
+    },
+    {
+     "title": "Indonesia seeks stronger protection for media industry",
+     "url": "https://en.antaranews.com/news/442515/indonesia-seeks-stronger-protection-for-media-industry",
+     "domain": "antaranews.com",
+     "seen": "20261113T184500Z",
+     "ko": "인도네시아 정부, 언론 산업에 대한 보호 강화 추진",
+     "sum": "인도네시아 정부가 자국 미디어 산업을 더욱 강력하게 보호하기 위한 방안을 추진하고 있다."
+    },
+    {
+     "title": "Muhaimin calls for economic reform to strengthen small businesses",
+     "url": "https://en.antaranews.com/news/442511/muhaimin-calls-for-economic-reform-to-strengthen-small-businesses",
+     "domain": "antaranews.com",
+     "seen": "20261113T184500Z",
+     "ko": "무하이민 장관, 소상공인 역량 강화 위한 경제 개혁 촉구",
+     "sum": "무하이민 장관이 영세 자영업자와 소상공인을 강화하기 위해 경제 개혁이 필요하다고 촉구했다."
+    },
+    {
+     "title": "Airlangga upbeat about Indonesia's 2027 economic outlook",
+     "url": "https://en.antaranews.com/news/442519/airlangga-upbeat-about-indonesias-2027-economic-outlook",
+     "domain": "antaranews.com",
+     "seen": "20261113T184500Z",
+     "ko": "아일랑가 장관, 인도네시아 2027년 경제 전망 낙관",
+     "sum": "아일랑가 장관이 인도네시아의 2027년 경제 전망을 긍정적으로 평가하며 자신감을 드러냈다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/960px-Borobudur-Nothwest-view.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -64,7 +214,16 @@
    }
   },
   "fr": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Big French Union Joins Public-Sector Strike",
+     "url": "https://www.riotimesonline.com/cfdt-joins-17-november-french-public-sector-strike/",
+     "domain": "riotimesonline.com",
+     "seen": "20261113T224500Z",
+     "ko": "프랑스 주요 노조, 정부 긴축안 반대하며 공공부문 파업 동참",
+     "sum": "프랑스의 주요 노동조합이 정부에 맞서 공공부문 총파업에 합류하기로 결정했다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/960px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -74,7 +233,40 @@
    }
   },
   "de": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Germany's 2027 Budget Advances With Near-Record Borrowing After Coalition Deal",
+     "url": "https://finchannel.com/germanys-2027-budget-advances-with-near-record-borrowing-after-coalition-deal/141569/world-2/2026/11/",
+     "domain": "finchannel.com",
+     "seen": "20261113T224500Z",
+     "ko": "독일 연립정부, 기록적 부채 승인하며 2027년 예산안 합의 진전",
+     "sum": "독일 연립정부가 역대급 규모의 차입을 포함한 2027년도 예산안 처리에 진전을 이뤘다."
+    },
+    {
+     "title": "Arab News | German MPs vote to expand spy agency powers for covert operations",
+     "url": "https://www.arabnews.com/world/german-mps-vote-to-expand-spy-agency-powers-for-covert-operations-3011743",
+     "domain": "arabnews.com",
+     "seen": "20261113T221500Z",
+     "ko": "독일 의회, 비밀 정보 활동 권한 확대 법안 통과",
+     "sum": "독일 의회가 정보기관의 비밀 공작과 첩보 권한을 강화하는 법안을 가결했다."
+    },
+    {
+     "title": "Mercedes-Benz halts new investments in Germany as factory closures come under consideration",
+     "url": "https://www.azernews.az/region/267390.html",
+     "domain": "azernews.az",
+     "seen": "20261113T204500Z",
+     "ko": "메르세데스 벤츠, 공장 폐쇄 검토 속 독일 내 신규 투자 중단",
+     "sum": "메르세데스 벤츠가 공장 폐쇄를 고려하면서 독일 현지 신규 투자를 전면 중단했다."
+    },
+    {
+     "title": "Army puts drone swarms and robotic missile launchers to the test in Germany",
+     "url": "https://www.stripes.com/branches/army/2026-11-13/containers-drones-munitions-test-germany-23453535.html",
+     "domain": "stripes.com",
+     "seen": "20261113T204500Z",
+     "ko": "미 육군, 독일서 드론 편대와 로봇 미사일 발사대 시험 운용",
+     "sum": "미 육군이 독일 훈련장에서 군집 드론과 무인 로봇 미사일 발사 장비를 시험했다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Brandenburger_Tor_Abend.jpg/960px-Berlin_Brandenburger_Tor_Abend.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -94,7 +286,24 @@
    }
   },
   "it": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Vatican to Mark 10th World Day of the Poor With Mass, Lunch, and Donated Hygiene Kits",
+     "url": "https://www.ncregister.com/cna/vatican-to-mark-10th-world-day-of-the-poor-with-mass-lunch-and-donated-hygiene-kits",
+     "domain": "ncregister.com",
+     "seen": "20261113T223000Z",
+     "ko": "바티칸, 미사와 생필품 기부로 제10회 세계 가난한 이의 날 기념",
+     "sum": "바티칸이 미사 집전과 위생용품 지원 등을 통해 제10회 세계 가난한 이의 날을 기린다."
+    },
+    {
+     "title": "Enel and Leonardo Sign Memorandum of Understanding on Energy Technology and Security At the Service of Italy and its... - Energy / Hydrogen - Leonardo S.p.a.",
+     "url": "https://www.newswiretoday.com/news/187252/Enel-and-Leonardo-Sign-Memorandum-of-Understanding-on-Energy-Technology-and-Security-At-the-Service-of-Italy-and-its-Businesses/",
+     "domain": "newswiretoday.com",
+     "seen": "20261113T220000Z",
+     "ko": "에넬과 레오나르도, 국가 안보 및 에너지 기술 협력 업무협약 체결",
+     "sum": "이탈리아 기업 에넬과 레오나르도가 국가 에너지 기술과 안보 역량 강화를 위한 양해각서를 맺었다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/960px-Colosseo_2020.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -104,7 +313,48 @@
    }
   },
   "ru": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
+     "domain": "nytimes.com",
+     "seen": "20261113T214500Z",
+     "ko": "러시아, 우크라이나 종전 협상 조건으로 나토 철수 요구 재점화",
+     "sum": "러시아가 우크라이나와의 합의를 담보하기 위해 나토 병력 감축을 거듭 요구했다."
+    },
+    {
+     "title": "Ukraine says it struck major Russian oil refinery in Volgograd-Xinhua",
+     "url": "https://english.news.cn/20261114/d858b169304a43bb93a4527dbb8f261d/c.html",
+     "domain": "english.news.cn",
+     "seen": "20261113T213000Z",
+     "ko": "우크라이나군, 러시아 볼고그라드 주요 정유공장 타격 발표",
+     "sum": "우크라이나가 러시아 볼고그라드에 위치한 핵심 정유 시설을 성공적으로 공습했다고 밝혔다."
+    },
+    {
+     "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser - Grenada Chronicle – Daily Grenada And Caribbean News",
+     "url": "https://grenadachronicle.com/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser/",
+     "domain": "grenadachronicle.com",
+     "seen": "20261113T210000Z",
+     "ko": "러시아 연쇄 차량 폭탄 폭발로 군 장교 사망 및 전 우크라이나 보좌관 부상",
+     "sum": "러시아 내 차량 폭발 사건으로 군 장교 한 명이 숨지고 전 우크라이나 총리 보좌관이 다쳤다."
+    },
+    {
+     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+     "url": "https://www.bbc.com/news/articles/cq39glwprknjo",
+     "domain": "bbc.com",
+     "seen": "20261113T201500Z",
+     "ko": "푸틴 러시아 대통령, 우크라이나 평화 협상 조건 수위 상향",
+     "sum": "푸틴 러시아 대통령이 강경한 입장을 고수하며 우크라이나 종전 요구 조건을 높였다."
+    },
+    {
+     "title": "Russia's GDP growth slows to 1% year-on-year in Q3",
+     "url": "https://aa.com.tr/en/eurasia/russias-gdp-growth-slows-to-1-year-on-year-in-q3/4124685",
+     "domain": "aa.com.tr",
+     "seen": "20261113T194500Z",
+     "ko": "러시아 3분기 GDP 성장률 1%로 둔화",
+     "sum": "러시아의 올해 3분기 국내총생산 성장률이 전년 동기 대비 1%로 크게 감소했다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Red_Square_in_cold_winter%2C_Moscow%2C_Russia.jpg/960px-Red_Square_in_cold_winter%2C_Moscow%2C_Russia.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
