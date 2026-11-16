@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:05:36.604Z",
+ "updated": "2026-11-16T18:46:23.499Z",
  "source": "The GDELT Project",
  "ai": "gemini",
  "countries": {
@@ -798,6 +798,70 @@
   "il": {
    "articles": [
     {
+     "title": "Two wounded in alleged car-ramming at West Bank checkpoint: Israeli report",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-wounded-alleged-car-ramming-military-checkpoint-occupied-west-bank",
+     "domain": "middleeasteye.net",
+     "seen": "20261116T184500Z",
+     "ko": "서안지구 검문소 차량 돌진 공격 의혹으로 2명 부상",
+     "sum": "서안지구의 한 검문소에서 차량 돌진으로 추정되는 사건이 발생해 두 명이 부상을 입었다."
+    },
+    {
+     "title": "Arab Party Leaders Seek Probe Into PM Office's Role in Election Day Arrests",
+     "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-16/ty-article/.premium/arab-leaders-urge-probe-into-netanyahu-offices-role-in-election-related-arrests/000001a1-e4ca-d294-a7bd-fdff55660000",
+     "domain": "haaretz.com",
+     "seen": "20261116T184500Z",
+     "ko": "아랍계 정당 지도부, 선거일 체포 관련 총리실 개입 조사 촉구",
+     "sum": "아랍계 정당 지도자들이 선거 당일 체포 사건에 총리실이 개입했는지 조사할 것을 요구했다."
+    },
+    {
+     "title": "Arab-Israeli Journalist Convicted Over Interview With Hamas TV Channel",
+     "url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-16/ty-article/.premium/arab-israeli-journalist-convicted-over-interview-with-hamas-tv-channel/000001a1-e40b-df82-adeb-fc5fc5450000",
+     "domain": "haaretz.com",
+     "seen": "20261116T184500Z",
+     "ko": "아랍계 이스라엘 언론인, 하마스 방송 인터뷰 혐의로 유죄 판결",
+     "sum": "하마스 TV 채널과 인터뷰를 진행한 아랍계 이스라엘 언론인이 유죄 판결을 받았다."
+    },
+    {
+     "title": "Israeli Minister Seeks to Revoke Andrey X's Citizenship Over Online Criticism of Israel",
+     "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-16/ty-article/.premium/israeli-minister-calls-to-strip-activist-of-citizenship-over-anti-israel-remarks/000001a1-e4ae-d8ed-a3ad-fcbedaab0000",
+     "domain": "haaretz.com",
+     "seen": "20261116T184500Z",
+     "ko": "이스라엘 장관, 정부 비판 활동가의 국적 박탈 추진",
+     "sum": "이스라엘 장관이 온라인에서 자국을 비판한 인물의 시민권 박탈을 추진하고 나섰다."
+    },
+    {
+     "title": "Israeli army uploads 3.5M Palestinian photos to Amazon for facial recognition: Report",
+     "url": "https://aa.com.tr/en/middle-east/israeli-army-uploads-35m-palestinian-photos-to-amazon-for-facial-recognition-report/4126980",
+     "domain": "aa.com.tr",
+     "seen": "20261116T183000Z",
+     "ko": "이스라엘군, 안면 인식 위해 팔레스타인인 사진 350만 장 업로드 논란",
+     "sum": "이스라엘군이 안면 인식 기술 활용을 위해 팔레스타인인 사진 350만 장을 아마존에 업로드했다는 보도가 나왔다."
+    },
+    {
+     "title": "Israel's new kingmaker: Lieberman takes charge of key Knesset defense panel - AL-MONITOR: The Middle Eastʼs leading independent news source since 2012",
+     "url": "https://www.al-monitor.com/originals/2026/11/israels-new-kingmaker-lieberman-takes-charge-key-knesset-defense-panel",
+     "domain": "al-monitor.com",
+     "seen": "20261116T180000Z",
+     "ko": "리베르만 전 장관, 이스라엘 크네세트 주요 국방위원회 맡아",
+     "sum": "새로운 킹메이커로 떠오른 리베르만 전 장관이 이스라엘 의회의 핵심 국방위원회를 이끌게 되었다."
+    },
+    {
+     "title": "Head of Arab list appointed temporary deputy speaker of Israel's parliament",
+     "url": "https://www.middleeasteye.net/news/arab-list-ahmad-tibi-appointed-deputy-speaker-israel-parliament",
+     "domain": "middleeasteye.net",
+     "seen": "20261116T174500Z",
+     "ko": "이스라엘 의회, 아랍계 정당 대표를 임시 부의장에 임명",
+     "sum": "아랍계 정당 명부의 대표가 이스라엘 의회의 임시 부의장으로 임명되었다."
+    },
+    {
+     "title": "Israeli Opposition Leaders Slam Netanyahu Over 'Attempted Coup' Claims",
+     "url": "https://www.deccanchronicle.com/world/israeli-opposition-leaders-slam-netanyahu-over-attempted-coup-claims-2004968",
+     "domain": "deccanchronicle.com",
+     "seen": "20261116T173000Z",
+     "ko": "이스라엘 야당 지도부, 네타냐후 총리의 '쿠데타 시도' 발언 맹비난",
+     "sum": "이스라엘 야당 지도자들이 쿠데타 시도를 언급한 네타냐후 총리의 주장을 거세게 비판했다."
+    },
+    {
      "title": "Ex-Netanyahu Aide Behind Election Day Tip That Led to Arab Activists' Arrests, Report Says",
      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-15/ty-article/report-source-for-arab-parties-election-fraud-claims-was-ex-netanyahu-employee/000001a1-e09b-dfb8-adfd-ecbf384c0000",
      "domain": "haaretz.com",
@@ -812,70 +876,6 @@
      "seen": "20261115T224500Z",
      "ko": "이스라엘, 가자지구 지원 트럭 약속 물량 절반만 허용",
      "sum": "이스라엘의 자체 자료에 따르면 가자지구 진입을 허용한 구호 트럭 수가 약속한 물량의 절반에 불과한 것으로 드러났다."
-    },
-    {
-     "title": "Eisenkot says Netanyahu cannot stay in office 'a minute longer'",
-     "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/16/eisenkot-says-netanyahu-cannot-stay-in-office-a-minute-longer",
-     "domain": "freemalaysiatoday.com",
-     "seen": "20261115T223000Z",
-     "ko": "아이젠코트 \"네타냐후 총리직 1분도 더 유지해선 안 돼\"",
-     "sum": "아이젠코트 의원이 네타냐후 총리가 더 이상 총리직에 머물러서는 안 된다고 주장했다."
-    },
-    {
-     "title": "'Iran is looming over us': Herzog warns UN diplomats of regional threat",
-     "url": "https://www.israelnationalnews.com/news/436256",
-     "domain": "israelnationalnews.com",
-     "seen": "20261115T220000Z",
-     "ko": "헤르초그 이스라엘 대통령 \"이란의 위협 눈앞에 다가와\"",
-     "sum": "헤르초그 이스라엘 대통령이 유엔 외교관들에게 이란이 제기하는 역내 위협에 대해 경고했다."
-    },
-    {
-     "title": "Palestinians bury bodies of 70 people killed during Israel's genocide in Gaza",
-     "url": "https://www.presstv.co.uk/Detail/2026/11/15/780814/palestinians-recover-bodies-of-70-people-killed-in-early-days-of-israels-genocidal-war-on-gaza",
-     "domain": "presstv.co.uk",
-     "seen": "20261115T220000Z",
-     "ko": "가자지구서 팔레스타인인 70명 시신 매장",
-     "sum": "가자지구에서 이스라엘의 공격으로 사망한 팔레스타인인 70명의 시신이 매장됐다."
-    },
-    {
-     "title": "Israel kills senior Hamas commander two months after killing his predecessor",
-     "url": "https://www.kxxv.com/world/israel-at-war/israel-kills-senior-hamas-commander-in-gaza-two-months-after-killing-his-predecessor-as-ceasefire-stagnates",
-     "domain": "kxxv.com",
-     "seen": "20261115T214500Z",
-     "ko": "이스라엘군, 하마스 고위 지휘관 또다시 사살",
-     "sum": "이스라엘이 이전 지휘관을 제거한 지 두 달 만에 하마스 고위 지휘관을 추가로 사살했다."
-    },
-    {
-     "title": "SPYING OUT OF HATRED: Israeli Arab Charged With Filming IDF Base And Police Station For Iran, Asked For Nothing In Return",
-     "url": "https://www.theyeshivaworld.com/news/israel-news/2623400/spying-out-of-hatred-israeli-arab-charged-with-filming-idf-base-and-police-station-for-iran-asked-for-nothing-in-return.html",
-     "domain": "theyeshivaworld.com",
-     "seen": "20261115T214500Z",
-     "ko": "이란 위해 군 기지 촬영한 아랍계 이스라엘인 기소",
-     "sum": "대가 없이 이란을 위해 군 기지와 경찰서를 촬영한 혐의로 아랍계 이스라엘인이 기소됐다."
-    },
-    {
-     "title": "Two Palestinians injured after being run over by Israeli military vehicle in Jenin",
-     "url": "https://english.wafa.ps/Pages/Details/176966",
-     "domain": "english.wafa.ps",
-     "seen": "20261115T214500Z",
-     "ko": "제닌서 이스라엘 군용차에 치여 팔레스타인인 2명 부상",
-     "sum": "제닌에서 팔레스타인인 두 명이 이스라엘 군용차량에 치여 다쳤다."
-    },
-    {
-     "title": "Netanyahu, Eisenkot remain at odds after first unity talks as Bennett sends envoy",
-     "url": "https://www.ynetnews.com/article/bjijg8wrfl",
-     "domain": "ynetnews.com",
-     "seen": "20261115T170000Z",
-     "ko": "네타냐후와 아이젠코트, 첫 연정 협상 후에도 이견 지속",
-     "sum": "이스라엘 네타냐후 총리와 아이젠코트 의원이 첫 연정 구성을 위한 회담을 열었으나 합의점을 찾지 못했다."
-    },
-    {
-     "title": "Court orders former ICC prosecutor Karim Khan to pay millions to hostage families",
-     "url": "https://www.ynetnews.com/article/ryrajmvrzl",
-     "domain": "ynetnews.com",
-     "seen": "20261115T170000Z",
-     "ko": "이스라엘 법원, 전 ICC 검사장에게 인질 가족 배상금 지급 명령",
-     "sum": "이스라엘 법원이 카림 칸 전 국제형사재판소 검사장에게 인질 가족들에게 수백만 달러를 지급하라고 명령했다."
     }
    ],
    "photo": {
@@ -889,20 +889,60 @@
   "ir": {
    "articles": [
     {
+     "title": "Iranian media: Air defence systems activated in Isfahan",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-air-defence-systems-activated-isfahan",
+     "domain": "middleeasteye.net",
+     "seen": "20261116T184500Z",
+     "ko": "이란 이스파한 상공서 방공 시스템 전격 가동",
+     "sum": "이란 이스파한 지역에서 방공 시스템이 가동되었다고 현지 언론이 전했다."
+    },
+    {
+     "title": "EU preparing further sanctions on Iran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-preparing-further-sanctions-iran",
+     "domain": "middleeasteye.net",
+     "seen": "20261116T184500Z",
+     "ko": "유럽연합, 이란 대상 추가 제재 부과 준비",
+     "sum": "유럽연합이 이란에 대한 추가 제재 조치를 준비하고 있다."
+    },
+    {
+     "title": "Iran claims capture of another US drone near Strait of Hormuz",
+     "url": "https://dunyanews.tv/en/World/983227-iran-claims-capture-of-another-us-drone-near-strait-of-hormuz",
+     "domain": "dunyanews.tv",
+     "seen": "20261116T183000Z",
+     "ko": "이란 \"호르무즈 해협 인근서 미국 무인기 또 나포\"",
+     "sum": "이란은 호르무즈 해협 부근에서 또 다른 미국 무인기를 포획했다고 주장했다."
+    },
+    {
+     "title": "Iranian leaders fret over public mood as gas shortages add to war ills",
+     "url": "https://www.al-monitor.com/originals/2026/11/iranian-leaders-fret-over-public-mood-gas-shortages-add-war-ills",
+     "domain": "al-monitor.com",
+     "seen": "20261116T180000Z",
+     "ko": "가스 부족과 전쟁 여파로 이란 지도부 민심 악화 우려",
+     "sum": "이란 지도부가 전쟁 부담에 가스 부족까지 겹치자 여론 악화를 경계하고 있다."
+    },
+    {
+     "title": "Fuel Unrest and Nationwide Protests Challenge Iran's Regime as Parliament Tightens Repression",
+     "url": "https://www.ncr-iran.org/en/news/economy/fuel-unrest-and-nationwide-protests-challenge-irans-regime-as-parliament-tightens-repression/",
+     "domain": "ncr-iran.org",
+     "seen": "20261116T170000Z",
+     "ko": "연료난 항의 전국 시위 확산 속 이란 의회 탄압 강화",
+     "sum": "이란 전역에서 연료 부족에 항의하는 시위가 정권을 압박하자 의회가 탄압을 강화했다."
+    },
+    {
+     "title": "Iran says 3 oil tankers hit mines, catch fire in Strait of Hormuz",
+     "url": "https://en.apa.az/asia/iran-says-3-oil-tankers-hit-mines-catch-fire-in-strait-of-hormuz-536452",
+     "domain": "en.apa.az",
+     "seen": "20261116T163000Z",
+     "ko": "이란 \"호르무즈 해협서 유조선 3척 기뢰 피격으로 화재\"",
+     "sum": "이란 당국은 호르무즈 해협에서 유조선 3척이 기뢰와 충돌해 불이 났다고 밝혔다."
+    },
+    {
      "title": "Iran's Pezeshkian warns against wartime misinformation",
      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-pezeshkian-warns-against-wartime-misinformation",
      "domain": "middleeasteye.net",
      "seen": "20261115T224500Z",
      "ko": "페제시키안 이란 대통령, 전시 허위 정보 경계 촉구",
      "sum": "이란의 페제시키안 대통령이 전시 상황에서 퍼지는 허위 정보에 주의해야 한다고 경고했다."
-    },
-    {
-     "title": "Fuel Unrest and Nationwide Protests Challenge Iran's Regime as Parliament Tightens Repression",
-     "url": "https://www.ncr-iran.org/en/news/fuel-unrest-and-nationwide-protests-challenge-irans-regime-as-parliament-tightens-repression/",
-     "domain": "ncr-iran.org",
-     "seen": "20261115T223000Z",
-     "ko": "이란, 연료난 시위 확산 속 의회 탄압 강화",
-     "sum": "이란 전역에서 연료난으로 시위가 번져 정권이 도전에 직면한 가운데 의회가 탄압을 강화했다."
     },
     {
      "title": "Media: Iran has 1,500–2,500 ballistic missiles in its arsenal",
@@ -927,46 +967,6 @@
      "seen": "20261115T200000Z",
      "ko": "이란 \"전쟁도 평화도 아닌 상태로 남아있지 않을 것\"",
      "sum": "이란 정부는 현재의 전쟁도 평화도 아닌 교착 상태에 계속 머물러 있지 않겠다고 선언했다."
-    },
-    {
-     "title": "Iran launches drone attack on US base in Bahrain - Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
-     "url": "https://www.nigerianeye.com/2026/11/iran-launches-drone-attack-on-us-base.html",
-     "domain": "nigerianeye.com",
-     "seen": "20261115T194500Z",
-     "ko": "이란, 바레인 주재 미군 기지에 드론 공격 감행",
-     "sum": "이란이 바레인에 위치한 미군 기지를 겨냥해 드론 공격을 단행했다."
-    },
-    {
-     "title": "Iran targets US military base in Bahrain with drone attack",
-     "url": "https://www.the-star.co.ke/news/world/2026-11-15-iran-targets-us-military-base-in-bahrain",
-     "domain": "the-star.co.ke",
-     "seen": "20261115T171500Z",
-     "ko": "이란, 바레인 주둔 미군 기지에 드론 공격 감행",
-     "sum": "이란이 바레인에 위치한 미군 군사 기지를 목표로 드론 공격을 감행했다."
-    },
-    {
-     "title": "Iran's first women-only military training centre opens in Tehran",
-     "url": "https://www.africanews.com/2026/11/15/irans-first-women-only-military-training-centre-opens-in-tehran/",
-     "domain": "africanews.com",
-     "seen": "20261115T171500Z",
-     "ko": "이란 테헤란에 최초의 여성 전용 군사 훈련소 개소",
-     "sum": "이란 수도 테헤란에 사상 처음으로 여성만을 위한 군사 훈련소가 문을 열었다."
-    },
-    {
-     "title": "Iran Air Defense Shoots Down Enemy Orbiter 4 Drone in the West - Islamic Invitation Turkey",
-     "url": "https://www.islamicinvitationturkey.com/iran-air-defense-shoots-down-enemy-orbiter-4-drone-in-the-west/",
-     "domain": "islamicinvitationturkey.com",
-     "seen": "20261115T171500Z",
-     "ko": "이란 방공망, 서부 상공서 적 무인기 격추 주장",
-     "sum": "이란 방공 부대가 국가 서부 지역에서 침범한 적의 오비터 4 무인기를 격추했다고 밝혔다."
-    },
-    {
-     "title": "Qalibaf warns US as Iran signals new military posture",
-     "url": "https://dunyanews.tv/en/World/983064-qalibaf-warns-us-as-iran-signals-new-military-posture",
-     "domain": "dunyanews.tv",
-     "seen": "20261115T164500Z",
-     "ko": "칼리바프 이란 의회의장, 새 군사 태세 알리며 미국에 경고",
-     "sum": "이란의 칼리바프 의회의장이 새로운 군사적 태세를 시사하며 미국을 향해 경고를 보냈다."
     }
    ],
    "photo": {
@@ -979,6 +979,70 @@
   },
   "us": {
    "articles": [
+    {
+     "title": "Trump Blames Biden For FAA Ground Stop, Calls For Overhaul | NewsTalk WMEQ",
+     "url": "https://wmeq.iheart.com/content/2026-11-16-trump-blames-biden-for-faa-ground-stop-calls-for-overhaul/",
+     "domain": "iheart.com",
+     "seen": "20261116T184500Z",
+     "ko": "트럼프, 연방항공청 운항 중단에 바이든 탓 공세 개편 촉구",
+     "sum": "도널드 트럼프 전 대통령은 연방항공청의 항공기 운항 중단 사태를 조 바이든 대통령의 탓으로 돌리며 전면적인 개편을 요구했다."
+    },
+    {
+     "title": "Utah records 289 earthquakes in just two weeks",
+     "url": "https://www.aol.com/articles/utah-records-289-earthquakes-just-002954000.html",
+     "domain": "aol.com",
+     "seen": "20261116T184500Z",
+     "ko": "미국 유타주에서 2주 만에 지진 289차례 발생",
+     "sum": "미국 유타주에서 불과 2주 사이에 289건의 지진이 발생해 기록되었다."
+    },
+    {
+     "title": "Warsh outlines 3 possible SI futures for US economy, from growth boom to job losses",
+     "url": "https://wchstv.com/news/nation-world/federal-reserve-chair-kevin-warsh-to-hear-from-tech-leaders-on-super-intelligence-impact-on-jobs-economy-san-francisco-jobs-task-force-economic-impact",
+     "domain": "wchstv.com",
+     "seen": "20261116T184500Z",
+     "ko": "워시, 성장 호황부터 일자리 감소까지 미 경제 3대 전망 제시",
+     "sum": "케빈 워시가 성장 호황부터 일자리 감소에 이르기까지 미국 경제가 마주할 세 가지 미래 시나리오를 제시했다."
+    },
+    {
+     "title": "Weekly Restaurant Dining Falls To Record Low",
+     "url": "https://k99fm.iheart.com/content/2026-11-16-weekly-restaurant-dining-falls-to-record-low/",
+     "domain": "iheart.com",
+     "seen": "20261116T184500Z",
+     "ko": "미국 주간 외식 비율 역대 최저치로 떨어져",
+     "sum": "미국 내 주간 레스토랑 외식 비율이 역대 최저 수준으로 떨어졌다."
+    },
+    {
+     "title": "Nearly two million people are behind bars in the US. How did we get here?",
+     "url": "https://www.wfae.org/united-states-world/2026-11-16/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+     "domain": "wfae.org",
+     "seen": "20261116T184500Z",
+     "ko": "미국 교도소 수감자 200만 명 육박 실태 조명",
+     "sum": "미국에서 감옥에 갇힌 수감자 수가 약 200만 명에 달하고 있다."
+    },
+    {
+     "title": "Rare North Atlantic right whale population drops, alarming scientists",
+     "url": "https://www.eptrail.com/2026/11/16/north-atlantic-right-whale-population-drops/",
+     "domain": "eptrail.com",
+     "seen": "20261116T184500Z",
+     "ko": "멸종위기 북대서양 참고래 개체수 감소 과학계 경고",
+     "sum": "희귀종인 북대서양 참고래의 개체수가 줄어들며 과학자들 사이에 경각심을 불러일으키고 있다."
+    },
+    {
+     "title": "Immigration enforcement continues to impact local families",
+     "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/11/immigration-enforcement-continues-to-impact-local-families/",
+     "domain": "cascadepbs.org",
+     "seen": "20261116T184500Z",
+     "ko": "미국 강도 높은 이민 단속, 지역 가정에 지속적 영향",
+     "sum": "미국의 지속적인 이민 단속 조치가 지역 사회의 여러 가족들에게 영향을 미치고 있다."
+    },
+    {
+     "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+     "url": "https://kansaspublicradio.org/npr-news/2026-11-16/lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing",
+     "domain": "kansaspublicradio.org",
+     "seen": "20261116T184500Z",
+     "ko": "자녀 살해 혐의 린지 클랜시, 2027년 봄 새 재판 예정",
+     "sum": "자녀들을 살해한 혐의를 받는 린지 클랜시가 2027년 봄에 새로운 재판을 받게 되었다."
+    },
     {
      "title": "US aviation shutdown blamed on L3 Harris installed router",
      "url": "https://www.inforum.com/news/national/us-aviation-shutdown-blamed-on-l3-harris-installed-router",
@@ -994,70 +1058,6 @@
      "seen": "20261115T230000Z",
      "ko": "트럼프 지명 공화당 의장, 선거 패배 후 당내 반발 직면",
      "sum": "도널드 트럼프 전 대통령이 발탁한 공화당 의장이 선거 패배 이후 당내 거센 반발에 직면했다."
-    },
-    {
-     "title": "Duffy Seeks Funding After Nationwide Ground Stop | Newstalk 1400, 104.5, and 105.9 WJMX",
-     "url": "https://newstalk1400online.iheart.com/content/2026-11-15-duffy-seeks-funding-after-nationwide-ground-stop/",
-     "domain": "iheart.com",
-     "seen": "20261115T230000Z",
-     "ko": "더피, 전미 항공기 운항 중단 사태 후 예산 지원 모색",
-     "sum": "미국 전역의 항공기 운항 중단 사태가 일어난 뒤 더피가 자금 지원 확보에 나섰다."
-    },
-    {
-     "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
-     "url": "https://www.ktre.com/2026/11/15/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/",
-     "domain": "ktre.com",
-     "seen": "20261115T230000Z",
-     "ko": "항공기 결항과 MS 장애 속 시스템 마비 우려 확산",
-     "sum": "항공기 결항과 마이크로소프트 시스템 장애, 인공지능 혼란 등이 겹치면서 전반적인 시스템 마비에 대한 우려가 커지고 있다."
-    },
-    {
-     "title": "Democratic US senator probes CoreCivic sale of ICE facility in Minnesota",
-     "url": "https://www.inforum.com/news/national/democratic-us-senator-probes-corecivic-sale-of-ice-facility-in-minnesota",
-     "domain": "inforum.com",
-     "seen": "20261115T230000Z",
-     "ko": "미 상원의원, 미네소타 이민단속국 수용시설 매각 조사",
-     "sum": "미국 민주당 상원의원이 미네소타주에 위치한 이민세관단속국 수용시설의 매각 건에 대해 조사에 착수했다."
-    },
-    {
-     "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
-     "url": "https://www.ketr.org/2026-11-15/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
-     "domain": "ketr.org",
-     "seen": "20261115T230000Z",
-     "ko": "미국 광부 유독 분진 노출 제한 법안 후퇴 위기",
-     "sum": "석탄 광부의 유독성 분진 노출을 제한하는 법적 규제가 후퇴할 위기에 처했다."
-    },
-    {
-     "title": "US missionary charged with child exploitation crimes in Haiti",
-     "url": "https://jamaica-gleaner.com/article/world-news/20261115/us-missionary-charged-child-exploitation-crimes-haiti",
-     "domain": "jamaica-gleaner.com",
-     "seen": "20261115T230000Z",
-     "ko": "아이티서 아동 착취 범죄 저지른 미국 선교사 기소",
-     "sum": "아이티에서 아동 착취 범죄를 저지른 혐의를 받는 미국인 선교사가 재판에 넘겨졌다."
-    },
-    {
-     "title": "ICE agents came to meatpacking country in Kansas. Then voters went to the polls",
-     "url": "https://salinapost.com/posts/13dd2a16-551c-4088-92e8-114eaf00bc99",
-     "domain": "salinapost.com",
-     "seen": "20261115T230000Z",
-     "ko": "캔자스 육가공 지역 이민 단속 후 유권자 투표 진행",
-     "sum": "캔자스주 육가공 지역에 이민세관단속국 요원들이 투입된 이후 유권자들이 투표장으로 향했다."
-    },
-    {
-     "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
-     "url": "https://www.dailygazette.com/ap/national/trumps-handpicked-party-chair-faces-a-rebellion-as-midterm-losses-challenge-presidents-grip-on-gop/article_bedbb595-c025-547f-8a15-8c1bec5d0df4.html",
-     "domain": "dailygazette.com",
-     "seen": "20261115T171500Z",
-     "ko": "중간선거 패배 여파에 트럼프 지명 공화당 의장 반발 직면",
-     "sum": "중간선거 패배로 도널드 트럼프 전 대통령의 당 장악력이 시험대에 오르며 그가 지명한 공화당 의장이 거센 반발에 직면했다."
-    },
-    {
-     "title": "Media Monitor: White House Touts Veterans Day Honors, Border Warning and $57.7 Billion in New Investment",
-     "url": "https://newsroomamerica.com/a/1WpH0wUIF9ZYilA3VOhc4Udmfms/the_white_house_is_reporting_that_president_trump_honored_veterans_at_arlington_warned_mexico_over_migrant_caravans_and_announced_57_7_billion_in_new_u_s_investment_in_its_weekly_briefing.html",
-     "domain": "newsroomamerica.com",
-     "seen": "20261115T171500Z",
-     "ko": "백악관 참전용사의 날 기념과 577억 달러 신규 투자 홍보",
-     "sum": "백악관이 참전용사의 날 기념행사와 국경 관련 경고를 발표하며 577억 달러 규모의 신규 투자 유치를 홍보했다."
     }
    ],
    "photo": {
@@ -1262,22 +1262,22 @@
   }
  },
  "briefing": {
-  "updated": "2026-11-15T23:06:54.457Z",
+  "updated": "2026-11-16T18:47:31.587Z",
   "items": [
    {
     "cid": "cn",
     "url": "http://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
-    "text": "엔비디아 사태 여파로 트럼프와 시진핑 정상회담에 그림자가 드리웠다."
-   },
-   {
-    "cid": "it",
-    "url": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/",
-    "text": "이탈리아 당국이 이용자 사진을 무단 활용한 메타에 대규모 과징금을 물렸다."
+    "text": "엔비디아 사태의 여파가 트럼프와 시진핑의 정상회담에 그림자를 드리웠다."
    },
    {
     "cid": "ru",
     "url": "https://www.hellenicshippingnews.com/uk-expands-sanctions-on-russian-oil-production-shadow-fleet/",
-    "text": "영국이 러시아 원유 생산과 그림자 선단을 겨냥한 제재를 전격 확대했다."
+    "text": "영국이 러시아 원유 생산과 그림자 선단을 대상으로 제재를 전격 확대했다."
+   },
+   {
+    "cid": "it",
+    "url": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/",
+    "text": "이탈리아가 이용자 사진을 무단 활용한 메타에 거액의 과징금을 부과했다."
    }
   ]
  }
