@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T07:40:41.254Z",
+ "updated": "2026-11-19T00:41:08.555Z",
  "source": "The GDELT Project",
- "ai": "gemini",
+ "ai": "gemini-failed",
  "countries": {
   "jp": {
    "articles": [
@@ -729,22 +729,22 @@
   }
  },
  "briefing": {
-  "updated": "2026-11-18T07:40:51.466Z",
+  "updated": "2026-11-19T00:44:54.719Z",
   "items": [
    {
     "cid": "cn",
     "url": "https://akipress.com/news:932016:Xi_and_Putin_hail__unshakable__Russia-China_ties_at_APEC_Summit_in_Shenzhen/",
-    "text": "시진핑과 푸틴이 선전 에이펙에서 흔들림 없는 중러 관계를 강조했다."
+    "text": "시진핑과 푸틴이 선전 APEC에서 흔들림 없는 중러 관계를 강조했다."
    },
    {
     "cid": "us",
     "url": "https://pragativadi.com/pakistani-national-asif-merchant-sentenced-to-over-27-years-in-us-prison-over-iran-backed-plot-to-assassinate-donald-trump/",
-    "text": "트럼프 암살을 모의한 파키스탄인이 미국 법원에서 징역 27년여를 선고받았다."
+    "text": "트럼프 암살을 모의한 파키스탄인이 미국 법원에서 27년여 징역형을 선고받았다."
    },
    {
     "cid": "ir",
     "url": "http://www.bignewsnetwork.com/news/279440137/1st-ld-writethru-iranian-army-says-it-targeted-us-military-base-in-kuwait-with-drones",
-    "text": "이란군은 쿠웨이트 내 미군 기지를 드론으로 타격했다고 발표했다."
+    "text": "이란군이 쿠웨이트 내 미군 기지를 드론으로 타격했다고 발표했다."
    }
   ]
  }
