@@ -1,10 +1,58 @@
 {
- "updated": "2026-11-22T02:23:01.174Z",
+ "updated": "2026-11-22T18:04:19.669Z",
  "source": "The GDELT Project",
  "ai": "gemini",
  "countries": {
   "jp": {
    "articles": [
+    {
+     "title": "MHI and SAKURA internet to form Strategic Alliance to Build Japan's Sovereign AI Infrastructure",
+     "url": "https://www.jcnnewswire.com/pressrelease/111765/3/MHI-and-SAKURA-internet-to-form-Strategic-Alliance-to-Build-Japans-Sovereign-AI-Infrastructure",
+     "domain": "jcnnewswire.com",
+     "seen": "20261122T180000Z",
+     "ko": "MHI와 사쿠라 인터넷, 일본 소버린 AI 인프라 구축 동맹 체결",
+     "sum": "미쓰비시중공업과 사쿠라 인터넷이 일본의 독자적인 AI 인프라 구축을 위한 전략적 제휴를 맺었다."
+    },
+    {
+     "title": "NEC and IBM Japan Successfully Demonstrate Japan's First PQC and QKD Integrated Method for Quantum-Safe Communication Technology",
+     "url": "https://www.jcnnewswire.com/pressrelease/111762/3/NEC-and-IBM-Japan-Successfully-Demonstrate-Japans-First-PQC-and-QKD-Integrated-Method-for-Quantum-Sa",
+     "domain": "jcnnewswire.com",
+     "seen": "20261122T180000Z",
+     "ko": "NEC와 IBM재팬, 양자 안전 통신 복합 기술 시연 성공",
+     "sum": "NEC와 IBM재팬이 일본 최초로 PQC와 QKD를 통합한 양자 안전 통신 기술 시연에 성공했다."
+    },
+    {
+     "title": "Okinawa celebrates restored Shuri Castle hall 7 years after fire",
+     "url": "https://www.thesunchronicle.com/news/odd/okinawa-celebrates-restored-shuri-castle-hall-7-years-after-fire/article_1555f9d5-578b-5feb-bd7a-52403b2c940e.html",
+     "domain": "thesunchronicle.com",
+     "seen": "20261122T173000Z",
+     "ko": "오키나와 슈리성 정전, 화재 7년 만에 복원",
+     "sum": "화재로 소실되었던 일본 오키나와 슈리성의 정전이 7년 만에 복원되었다."
+    },
+    {
+     "title": "Japan-Europe joint probe enters Mercury's orbit",
+     "url": "https://tribune.com.pk/story/2641694/japan-europe-joint-probe-enters-mercurys-orbit",
+     "domain": "tribune.com.pk",
+     "seen": "20261122T153000Z",
+     "ko": "일본 유럽 합작 우주탐사선, 수성 궤도 진입 성공",
+     "sum": "일본과 유럽이 공동으로 개발한 우주탐사선이 수성 궤도 진입에 성공했다."
+    },
+    {
+     "title": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
+     "url": "https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs",
+     "domain": "nikkei.com",
+     "seen": "20261122T144500Z",
+     "ko": "중국 규제 맞서 희토류 공급망 복원 나선 일본 기업들",
+     "sum": "중국의 규제 조치에 대응해 일본 기업들이 희토류 공급망 복원에 속도를 내고 있다."
+    },
+    {
+     "title": "One seriously injured in work accident at central Japan nuclear power plant",
+     "url": "http://thepeninsulaqatar.com/article/22/11/2026/one-seriously-injured-in-work-accident-at-central-japan-nuclear-power-plant",
+     "domain": "thepeninsulaqatar.com",
+     "seen": "20261122T130000Z",
+     "ko": "일본 중부 원자력발전소 작업 중 사고로 1명 중상",
+     "sum": "일본 중부의 한 원자력발전소에서 작업 중 사고가 발생해 1명이 크게 다쳤다."
+    },
     {
      "title": "AI good for business but may sap joy of creation: game creator Hideo Kojima",
      "url": "https://asia.nikkei.com/business/media-entertainment/ai-good-for-business-but-may-sap-joy-of-creation-game-creator-hideo-kojima",
@@ -36,30 +84,6 @@
      "seen": "20261121T233000Z",
      "ko": "일본 정부, 국가 비축유용 사우디 원유 최대 800만 배럴 구매 추진",
      "sum": "일본 정부가 국가 비축유 확보를 위해 사우디아라비아산 원유를 최대 800만 배럴 구매할 계획이다."
-    },
-    {
-     "title": "1,000 tiles from A-bombed Hiroshima building to be given away",
-     "url": "https://japantoday.com/category/national/1-000-tiles-from-a-bombed-hiroshima-building-to-be-given-away",
-     "domain": "japantoday.com",
-     "seen": "20261121T231500Z",
-     "ko": "피폭된 히로시마 건물 기와 1000장, 시민들에게 무료 배포 예정",
-     "sum": "원자폭탄 피해를 입은 히로시마 건물의 기와 1000장이 사람들에게 배포될 예정이다."
-    },
-    {
-     "title": "Mascot-mad fans flock to meetup of 200 characters in Japan",
-     "url": "https://japantoday.com/category/national/mascot-mad-fans-flock-to-meetup-of-200-characters-in-japan",
-     "domain": "japantoday.com",
-     "seen": "20261121T231500Z",
-     "ko": "캐릭터 200종 집결에 일본 마스코트 팬들 대거 몰려",
-     "sum": "일본에서 200개의 캐릭터가 모인 행사에 열광적인 마스코트 팬들이 대거 방문했다."
-    },
-    {
-     "title": "\"Eternal Memory\": Higashino Keigo's Final Galileo Mystery",
-     "url": "https://www.nippon.com/en/articles/-/57640",
-     "domain": "nippon.com",
-     "seen": "20261121T223000Z",
-     "ko": "히가시노 게이고, 갈릴레오 시리즈 완결작 '영원한 기억' 선보여",
-     "sum": "작가 히가시노 게이고의 마지막 갈릴레오 추리 소설인 '영원한 기억'이 소개되었다."
     }
    ],
    "photo": {
@@ -72,6 +96,46 @@
   },
   "cn": {
    "articles": [
+    {
+     "title": "China announces measures to stabilize stock market-Xinhua",
+     "url": "https://english.news.cn/20261122/6268ad3df42b4ae2971a379c472e4fbf/c.html",
+     "domain": "english.news.cn",
+     "seen": "20261122T180000Z",
+     "ko": "중국 정부, 주식시장 안정화 대책 발표",
+     "sum": "중국 당국이 주식시장을 안정화하기 위한 대책을 공식 발표했다."
+    },
+    {
+     "title": "Chinese vice premier says China ready to strengthen AI, green development cooperation with Singapore-Xinhua",
+     "url": "https://english.news.cn/20261123/6f6186383b14490e8630bff6f1dfbc6f/c.html",
+     "domain": "english.news.cn",
+     "seen": "20261122T180000Z",
+     "ko": "중국 부총리, 싱가포르와 AI 및 친환경 협력 강화 의지 밝혀",
+     "sum": "중국 부총리가 싱가포르와의 인공지능 및 친환경 개발 분야 협력을 강화할 준비가 되어 있다고 밝혔다."
+    },
+    {
+     "title": "China slams US ban on telecom companies | The Manila Times",
+     "url": "https://www.manilatimes.net/2026/11/23/world/asia-oceania/china-slams-us-ban-on-telecom-companies/2475680",
+     "domain": "manilatimes.net",
+     "seen": "20261122T173000Z",
+     "ko": "중국, 미국의 자국 통신사 제재에 강력 반발",
+     "sum": "중국이 자국 통신 기업들을 겨냥한 미국의 제재 조치를 강력히 비판했다."
+    },
+    {
+     "title": "China expands nuclear heating as clean energy transition speeds up",
+     "url": "https://www.globaltimes.cn/page/202611/1374827.shtml",
+     "domain": "globaltimes.cn",
+     "seen": "20261122T170000Z",
+     "ko": "중국, 청정에너지 전환 속 원자력 난방 확대",
+     "sum": "중국이 청정에너지 전환을 가속화하며 원자력 에너지를 활용한 난방 공급을 확대하고 있다."
+    },
+    {
+     "title": "China's emerging industries grow strongly in first three quarters, led by AI, aerospace",
+     "url": "https://www.globaltimes.cn/page/202611/1374825.shtml",
+     "domain": "globaltimes.cn",
+     "seen": "20261122T170000Z",
+     "ko": "중국 1~3분기 신흥 산업, AI와 항공우주 주도로 강력 성장",
+     "sum": "중국의 신흥 산업이 인공지능과 항공우주 분야의 견인에 힘입어 1~3분기 동안 높은 성장세를 보였다."
+    },
     {
      "title": "A 168m sky ladder in Zhangjiajie draws thrill seekers from around the world",
      "url": "http://www.bignewsnetwork.com/news/279448126/a-168m-sky-ladder-in-zhangjiajie-draws-thrill-seekers-from-around-the-world",
@@ -111,14 +175,6 @@
      "seen": "20261122T004500Z",
      "ko": "AI 거품 붕괴, 중국 경제 위협하며 시진핑 주석에 큰 위험 요인 부상",
      "sum": "AI 거품 붕괴가 중국 경제를 위협하며 시진핑 국가주석에게 심각한 위험 요인이 되고 있다."
-    },
-    {
-     "title": "Step into future on a \"tech walk\" in Shenzhen-Xinhua",
-     "url": "https://english.news.cn/20261121/318ba1d614374b439c32d5cae07d7f17/c.html",
-     "domain": "english.news.cn",
-     "seen": "20261122T000000Z",
-     "ko": "중국 선전서 미래 기술 둘러보는 '테크 워크' 진행돼",
-     "sum": "중국 선전에서 미래 기술을 직접 체험할 수 있는 테크 워크 행사가 열렸다."
     }
    ],
    "photo": {
@@ -131,6 +187,54 @@
   },
   "tw": {
    "articles": [
+    {
+     "title": "MND detects 10 Chinese balloons over three days",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/23/2003868234",
+     "domain": "taipeitimes.com",
+     "seen": "20261122T173000Z",
+     "ko": "대만 국방부, 사흘간 중국 풍선 10개 탐지",
+     "sum": "대만 국방부가 최근 3일 동안 중국의 풍선 10개를 포착해 탐지했다고 밝혔다."
+    },
+    {
+     "title": "2026 Elections: Parties hold 'Super Sunday' events ahead of elections",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/23/2003868217",
+     "domain": "taipeitimes.com",
+     "seen": "20261122T173000Z",
+     "ko": "대만 여야 정당, 2026년 선거 앞두고 '슈퍼 선데이' 유세전 돌입",
+     "sum": "대만의 주요 정당들이 2026년 선거를 앞두고 일제히 슈퍼 선데이 행사를 열어 세 결집에 나섰다."
+    },
+    {
+     "title": "Two killed in multi-vehicle collision",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/23/2003868228",
+     "domain": "taipeitimes.com",
+     "seen": "20261122T173000Z",
+     "ko": "대만서 다중 추돌 사고 발생해 2명 사망",
+     "sum": "대만에서 여러 대의 차량이 얽힌 추돌 사고가 발생해 2명이 목숨을 잃었다."
+    },
+    {
+     "title": "Dasyueshan forest road closed after black bear sighting",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/23/2003868230",
+     "domain": "taipeitimes.com",
+     "seen": "20261122T173000Z",
+     "ko": "대만 다쉐산 임도, 흑곰 출몰로 전면 폐쇄",
+     "sum": "대만 다쉐산 산림 도로에서 흑곰이 목격되면서 해당 도로의 출입이 통제되었다."
+    },
+    {
+     "title": "'We Are Born Good' takes top prize at Golden Horse Awards",
+     "url": "https://focustaiwan.tw/culture/202611220016",
+     "domain": "focustaiwan.tw",
+     "seen": "20261122T163000Z",
+     "ko": "영화 '생위원선', 대만 금마장 시상식서 최우수작품상 수상",
+     "sum": "영화 '생위원선'이 대만 금마장 시상식에서 최고 영예인 최우수작품상을 받았다."
+    },
+    {
+     "title": "Unlicensed medical service providers could face legal action: Minister",
+     "url": "https://focustaiwan.tw/society/202611220009",
+     "domain": "focustaiwan.tw",
+     "seen": "20261122T150000Z",
+     "ko": "대만 위생복리부 장관, 무면허 의료 서비스 제공자 법적 대응 경고",
+     "sum": "대만 위생복리부 장관이 무면허로 의료 행위를 제공하는 이들에 대해 법적 조치를 취할 수 있다고 밝혔다."
+    },
     {
      "title": "The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
      "url": "https://www.aol.com/articles/ai-sell-off-now-taiwan-220252000.html",
@@ -151,6 +255,14 @@
   "mm": {
    "articles": [
     {
+     "title": "Myanmar to eliminate graft in military recruitment",
+     "url": "https://www.manilatimes.net/2026/11/23/world/asia-oceania/myanmar-to-eliminate-graft-in-military-recruitment/2475681",
+     "domain": "manilatimes.net",
+     "seen": "20261122T173000Z",
+     "ko": "미얀마 군부, 신병 모집 과정의 부패 척결 착수",
+     "sum": "미얀마 군 당국이 군 징집 및 신병 모집 과정에 만연한 비리를 척결하겠다고 밝혔다."
+    },
+    {
      "title": "The Rohingya | Vindication for a persecuted people",
      "url": "https://www.thehindu.com/news/international/the-rohingya-vindication-for-a-persecuted-people/article71729370.ece",
      "domain": "thehindu.com",
@@ -169,6 +281,38 @@
   },
   "my": {
    "articles": [
+    {
+     "title": "Former Senate deputy speaker passes away",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/22/ex-deputy-speaker-of-senate-passes-away",
+     "domain": "thestar.com.my",
+     "seen": "20261122T171500Z",
+     "ko": "전 말레이시아 상원 부의장 별세",
+     "sum": "전직 말레이시아 상원 부의장이 세상을 떠났다."
+    },
+    {
+     "title": "Malaysia Ends Visa-Free Entry For Indians On 31 Dec—While Chinese Tourists Keep Theirs",
+     "url": "https://www.therakyatpost.com/news/malaysia/2026/11/22/malaysia-ends-visa-free-entry-for-indians-on-31-dec-while-chinese-tourists-keep-theirs/",
+     "domain": "therakyatpost.com",
+     "seen": "20261122T164500Z",
+     "ko": "말레이시아, 12월 31일 인도인 무비자 입국 종료",
+     "sum": "말레이시아 정부가 중국인 대상 무비자는 유지하면서 인도인에 대한 무비자 입국 혜택은 12월 31일 종료하기로 했다."
+    },
+    {
+     "title": "Penang police probing claims of extortion, bribery against traffic cops",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/22/penang-police-probing-claims-of-extortion-bribery-against-traffic-cops",
+     "domain": "thestar.com.my",
+     "seen": "20261122T150000Z",
+     "ko": "페낭 경찰, 교통경찰 갈취 및 뇌물 수수 혐의 조사",
+     "sum": "말레이시아 페낭 경찰이 소속 교통경찰관들의 금품 갈취와 뇌물 수수 의혹에 대해 수사에 나섰다."
+    },
+    {
+     "title": "Bomba warns of increased flood risk in Sabak, Pengkalan Chepa from high tide phenomenon",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/22/bomba-warns-of-increased-flood-risk-in-sabak-pengkalan-chepa-from-high-tide-phenomenon",
+     "domain": "thestar.com.my",
+     "seen": "20261122T130000Z",
+     "ko": "말레이시아 소방당국, 대조기 현상으로 사박 일대 침수 위험 경고",
+     "sum": "말레이시아 소방구조국이 만조 현상으로 인해 사박과 펭칼란 체파 지역의 홍수 위험이 높아졌다고 경고했다."
+    },
     {
      "title": "Sarawak not seeking to take over from Petronas, says Fadillah",
      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/sarawak-not-seeking-to-take-over-from-petronas-says-fadillah",
@@ -220,6 +364,46 @@
   },
   "id": {
    "articles": [
+    {
+     "title": "Indonesia, Vietnam pledge concrete action to boost strategic ties",
+     "url": "https://en.antaranews.com/news/444539/indonesia-vietnam-pledge-concrete-action-to-boost-strategic-ties",
+     "domain": "antaranews.com",
+     "seen": "20261122T170000Z",
+     "ko": "인도네시아와 베트남, 전략적 협력 강화 위한 구체적 행동 다짐",
+     "sum": "인도네시아와 베트남이 양국 간 전략적 관계를 격상하고 협력을 증진하기 위한 구체적 조치를 약속했다."
+    },
+    {
+     "title": "Indonesia joins global cancer research agency to boost medical studies",
+     "url": "https://en.antaranews.com/news/444535/indonesia-joins-global-cancer-research-agency-to-boost-medical-studies",
+     "domain": "antaranews.com",
+     "seen": "20261122T170000Z",
+     "ko": "인도네시아, 암 연구 역량 강화 위해 국제암연구기관 가입",
+     "sum": "인도네시아가 의학 연구 수준을 높이기 위해 세계보건기구 산하 국제암연구기관에 합류했다."
+    },
+    {
+     "title": "Indonesia taps private firms to restore 13,500 ha of blue carbon",
+     "url": "https://en.antaranews.com/news/444555/indonesia-taps-private-firms-to-restore-13500-ha-of-blue-carbon",
+     "domain": "antaranews.com",
+     "seen": "20261122T170000Z",
+     "ko": "인도네시아, 1만3500헥타르 블루카본 복원에 민간 기업 유치",
+     "sum": "인도네시아가 1만 3500헥타르 규모의 블루카본 해양 생태계를 복원하기 위해 민간 기업들과 손을 잡았다."
+    },
+    {
+     "title": "24 body bags recovered after Indonesia factory fire as search for dozens missing continues",
+     "url": "https://aa.com.tr/en/asia-pacific/24-body-bags-recovered-after-indonesia-factory-fire-as-search-for-dozens-missing-continues/4133625",
+     "domain": "aa.com.tr",
+     "seen": "20261122T163000Z",
+     "ko": "인도네시아 사탕공장 화재로 시신 가방 24개 수습, 실종자 수색 지속",
+     "sum": "인도네시아의 한 사탕공장에서 화재가 발생해 시신 가방 24개가 수습되었으며 수십 명의 실종자에 대한 수색이 이어지고 있다."
+    },
+    {
+     "title": "A 7.2 magnitude earthquake has occurred in Indonesia.",
+     "url": "https://nt.am/en/news/363559/",
+     "domain": "nt.am",
+     "seen": "20261122T154500Z",
+     "ko": "인도네시아 규모 7.2 강진 발생",
+     "sum": "인도네시아에서 규모 7.2의 강진이 발생했다."
+    },
     {
      "title": "Indonesia must utilize existing laws as it waits national AI framework: Expert - Politics",
      "url": "http://www.thejakartapost.com/indonesia/2026/11/22/indonesia-must-utilize-existing-laws-as-it-waits-national-ai-framework-expert",
@@ -508,22 +692,6 @@
      "seen": "20261121T151500Z",
      "ko": "EU 집행위, 폴란드에 경기회복기금 마지막 지원금 지급 승인",
      "sum": "유럽연합 집행위원회가 폴란드에 부여되는 차세대 경기회복기금의 마지막 분할금 지급을 승인했다."
-    },
-    {
-     "title": "Poland approves draft EUDI Wallet law, building on mObywatel",
-     "url": "https://www.biometricupdate.com/202611/poland-approves-draft-eudi-wallet-law-building-on-mobywatel",
-     "domain": "biometricupdate.com",
-     "seen": "20261120T200000Z",
-     "ko": "폴란드, 모바일 신분증 바탕으로 EU 디지털 지갑 법안 승인",
-     "sum": "폴란드 정부가 기존 디지털 신분증 시스템을 활용해 유럽연합 디지털 지갑 법안 초안을 승인했다."
-    },
-    {
-     "title": "Poles Would Prove They Are 15 or Older With mObywatel or the EU Wallet Under Poland's Planned Social Media Age Limit",
-     "url": "http://mobileidworld.com/poles-would-prove-they-are-15-or-older-with-mobywatel-or-the-eu-wallet-under-polands-planned-social-media-age-limit/",
-     "domain": "mobileidworld.com",
-     "seen": "20261120T190000Z",
-     "ko": "폴란드, SNS 연령 제한 위해 15세 이상 모바일 인증 추진",
-     "sum": "폴란드가 계획 중인 소셜 미디어 이용 연령 제한 조치에 따라 이용자들은 모바일 신분증 등으로 15세 이상임을 증명하게 된다."
     }
    ],
    "photo": {
@@ -575,30 +743,6 @@
      "seen": "20261121T181500Z",
      "ko": "로마 역사 건축물 6곳, 고급 힐튼 호텔로 변신",
      "sum": "이탈리아 로마의 유서 깊은 건물 6곳이 객실 147개를 갖춘 고급 힐튼 호텔로 개조된다."
-    },
-    {
-     "title": "Workers, students protest across Europe as strike in Italy disrupts",
-     "url": "https://www.bostonherald.com/2026/11/20/europe-protests-italy-strike/",
-     "domain": "bostonherald.com",
-     "seen": "20261120T220000Z",
-     "ko": "이탈리아 총파업 여파, 유럽 전역서 노동자와 학생 시위 확산",
-     "sum": "이탈리아에서 파업으로 일상 운영에 차질이 빚어지는 가운데 유럽 전역에서 노동자와 학생들이 거리 시위에 나섰다."
-    },
-    {
-     "title": "The ANCE in government: resources are needed to maneuver expensive materials. Risk of blockage for 13 thousand construction sites",
-     "url": "https://www.odnako.org/the-ance-in-government-resources-are-needed-to-maneuver-expensive-materials-risk-of-blockage-for-13-thousand-construction-sites/",
-     "domain": "odnako.org",
-     "seen": "20261120T220000Z",
-     "ko": "이탈리아 건설업계, 자재비 폭등으로 1만 3천 개 현장 중단 위기",
-     "sum": "이탈리아 전국건설협회는 원자재 가격 급등에 대응할 정부 재정이 부족해 1만 3000개 건설 현장이 멈춰 설 위험이 있다고 경고했다."
-    },
-    {
-     "title": "Rome court rules for first time on return of child to Ukraine under martial law – Lubinets",
-     "url": "https://en.interfax.com.ua/news/general/1240075.html",
-     "domain": "interfax.com.ua",
-     "seen": "20261120T193000Z",
-     "ko": "로마 법원, 계엄령 상황 속 우크라이나 아동 송환 첫 판결",
-     "sum": "로마 법원이 전시 계엄령 체제하에 있는 우크라이나로 아동을 돌려보내도록 하는 결정을 처음으로 내렸다."
     }
    ],
    "photo": {
@@ -682,14 +826,6 @@
      "seen": "20261121T144500Z",
      "ko": "러시아 화물선, 핀란드만에서 드론 공격 받아",
      "sum": "러시아 화물선이 핀란드만에서 드론 공격을 받아 선박에 화재가 발생했다."
-    },
-    {
-     "title": "Russia Accuses EU of Pressuring Serbia to Join Russia Sanctions",
-     "url": "https://econotimes.com/Russia-Accuses-EU-of-Pressuring-Serbia-to-Join-Russia-Sanctions-1780497",
-     "domain": "econotimes.com",
-     "seen": "20261120T204500Z",
-     "ko": "러시아, 대러 제재 참여 압박하는 유럽연합 맹비난",
-     "sum": "러시아는 유럽연합이 세르비아를 향해 러시아 제재에 동참하라고 압력을 가하고 있다며 이를 비난했다."
     }
    ],
    "photo": {
@@ -1167,22 +1303,22 @@
   }
  },
  "briefing": {
-  "updated": "2026-11-22T02:23:57.037Z",
+  "updated": "2026-11-22T18:06:30.102Z",
   "items": [
    {
-    "cid": "tw",
-    "url": "https://www.aol.com/articles/ai-sell-off-now-taiwan-220252000.html",
-    "text": "대만이 AI주 매도세 확산에 대응해 반도체 중심 시장 안정 조치에 나섰다."
-   },
-   {
-    "cid": "us",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/22/trump-vows-to-make-permanent-deal-with-iran-prevent-future-nuclear-ambitions",
-    "text": "트럼프는 이란의 미래 핵 야망을 막기 위해 영구적 합의를 추진하겠다고 공언했다."
+    "cid": "cn",
+    "url": "https://english.news.cn/20261122/6268ad3df42b4ae2971a379c472e4fbf/c.html",
+    "text": "중국 정부가 주식시장을 안정화하기 위한 대책을 발표했다."
    },
    {
     "cid": "pl",
     "url": "https://albeu.com/english/tension-in-poland-after-russian-missiles-and-drone-violated-airspace-nato-chief-visits-warsaw-on-saturday/1109031/",
-    "text": "러시아의 미사일과 드론이 영공을 침범하면서 폴란드의 긴장이 크게 고조되었다."
+    "text": "러시아 미사일과 드론의 영공 침범으로 폴란드의 긴장이 높아졌다."
+   },
+   {
+    "cid": "us",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/22/trump-vows-to-make-permanent-deal-with-iran-prevent-future-nuclear-ambitions",
+    "text": "트럼프는 이란과 영구 합의를 추진해 미래 핵 야망을 막겠다고 공언했다."
    }
   ]
  }
