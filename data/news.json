@@ -1,10 +1,67 @@
 {
- "updated": "2026-11-21T20:40:56.084Z",
+ "updated": "2026-11-22T02:23:01.174Z",
  "source": "The GDELT Project",
  "ai": "gemini",
  "countries": {
   "jp": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "AI good for business but may sap joy of creation: game creator Hideo Kojima",
+     "url": "https://asia.nikkei.com/business/media-entertainment/ai-good-for-business-but-may-sap-joy-of-creation-game-creator-hideo-kojima",
+     "domain": "nikkei.com",
+     "seen": "20261122T011500Z",
+     "ko": "코지마 히데오 \"AI는 사업에 유용하지만 창작의 기쁨 뺏을 수도\"",
+     "sum": "게임 제작자 코지마 히데오가 AI가 비즈니스에는 좋지만 창작의 즐거움을 앗아갈 수 있다고 밝혔다."
+    },
+    {
+     "title": "Tens of thousands of Japanese sign petition opposing nuclear-powered submarines--China Economic Net",
+     "url": "http://en.ce.cn/main/latest/202611/t20261122_3301749.shtml",
+     "domain": "en.ce.cn",
+     "seen": "20261122T010000Z",
+     "ko": "일본 시민 수만 명, 원자력 추진 잠수함 도입 반대 서명 참여",
+     "sum": "일본에서 수만 명의 시민이 원자력 추진 잠수함 도입에 반대하는 청원서에 서명했다."
+    },
+    {
+     "title": "Man indicted for murder and arson in killing of 74-year-old father in Akita",
+     "url": "https://japantoday.com/category/crime/man-indicted-for-murder-and-arson-in-killing-of-74-year-old-father-in-akita",
+     "domain": "japantoday.com",
+     "seen": "20261121T234500Z",
+     "ko": "아키타서 74세 부친 살해 및 방화 혐의로 남성 기소돼",
+     "sum": "일본 아키타에서 74세 아버지를 살해하고 불을 지른 혐의로 한 남성이 기소되었다."
+    },
+    {
+     "title": "Japan plans to buy up to 8m barrels of Saudi crude oil for national reserves",
+     "url": "https://tradearabia.com:443/News/489999/Japan-plans-to-buy-up-to-8m-barrels-of-Saudi-crude-oil-for-national-reserves/OGN",
+     "domain": "tradearabia.com",
+     "seen": "20261121T233000Z",
+     "ko": "일본 정부, 국가 비축유용 사우디 원유 최대 800만 배럴 구매 추진",
+     "sum": "일본 정부가 국가 비축유 확보를 위해 사우디아라비아산 원유를 최대 800만 배럴 구매할 계획이다."
+    },
+    {
+     "title": "1,000 tiles from A-bombed Hiroshima building to be given away",
+     "url": "https://japantoday.com/category/national/1-000-tiles-from-a-bombed-hiroshima-building-to-be-given-away",
+     "domain": "japantoday.com",
+     "seen": "20261121T231500Z",
+     "ko": "피폭된 히로시마 건물 기와 1000장, 시민들에게 무료 배포 예정",
+     "sum": "원자폭탄 피해를 입은 히로시마 건물의 기와 1000장이 사람들에게 배포될 예정이다."
+    },
+    {
+     "title": "Mascot-mad fans flock to meetup of 200 characters in Japan",
+     "url": "https://japantoday.com/category/national/mascot-mad-fans-flock-to-meetup-of-200-characters-in-japan",
+     "domain": "japantoday.com",
+     "seen": "20261121T231500Z",
+     "ko": "캐릭터 200종 집결에 일본 마스코트 팬들 대거 몰려",
+     "sum": "일본에서 200개의 캐릭터가 모인 행사에 열광적인 마스코트 팬들이 대거 방문했다."
+    },
+    {
+     "title": "\"Eternal Memory\": Higashino Keigo's Final Galileo Mystery",
+     "url": "https://www.nippon.com/en/articles/-/57640",
+     "domain": "nippon.com",
+     "seen": "20261121T223000Z",
+     "ko": "히가시노 게이고, 갈릴레오 시리즈 완결작 '영원한 기억' 선보여",
+     "sum": "작가 히가시노 게이고의 마지막 갈릴레오 추리 소설인 '영원한 기억'이 소개되었다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/080103_hakkai_fuji.jpg/960px-080103_hakkai_fuji.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -14,7 +71,56 @@
    }
   },
   "cn": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "A 168m sky ladder in Zhangjiajie draws thrill seekers from around the world",
+     "url": "http://www.bignewsnetwork.com/news/279448126/a-168m-sky-ladder-in-zhangjiajie-draws-thrill-seekers-from-around-the-world",
+     "domain": "bignewsnetwork.com",
+     "seen": "20261122T014500Z",
+     "ko": "장자제 168m 하늘 사다리, 전 세계 스릴 마니아들 끌어모아",
+     "sum": "장자제에 위치한 168미터 높이의 하늘 사다리가 전 세계 스릴을 즐기는 사람들을 모으고 있다."
+    },
+    {
+     "title": "Launch site ready for China's Shenzhou-24 spaceflight mission--China Economic Net",
+     "url": "http://en.ce.cn/main/latest/202611/t20261122_3301759.shtml",
+     "domain": "en.ce.cn",
+     "seen": "20261122T010000Z",
+     "ko": "중국 선저우 24호 우주비행 임무, 발사장 준비 완료",
+     "sum": "중국의 선저우 24호 우주비행 임무를 위한 발사장 준비가 완료되었다."
+    },
+    {
+     "title": "China turns waste into wealth through growing recycling industry--China Economic Net",
+     "url": "http://en.ce.cn/main/latest/202611/t20261122_3301745.shtml",
+     "domain": "en.ce.cn",
+     "seen": "20261122T010000Z",
+     "ko": "중국, 재활용 산업 육성으로 폐기물 자원화 추진",
+     "sum": "중국이 성장하는 재활용 산업을 통해 폐기물을 자원으로 탈바꿈시키고 있다."
+    },
+    {
+     "title": "Hainan gibbon population recovery highlights China's progress in tropical rainforest conservation--China Economic Net",
+     "url": "http://en.ce.cn/main/latest/202611/t20261122_3301760.shtml",
+     "domain": "en.ce.cn",
+     "seen": "20261122T010000Z",
+     "ko": "하이난 긴팔원숭이 개체수 회복, 중국 열대우림 보존 진전 입증",
+     "sum": "하이난 긴팔원숭이의 개체수 회복은 중국의 열대우림 보존 성과를 보여준다."
+    },
+    {
+     "title": "The AI bust is a growing threat to China's economy and a 'moment of real danger' for President Xi",
+     "url": "https://fortune.com/2026/11/21/ai-bust-china-economy-xi-jinping-property-crash-stock-market/",
+     "domain": "fortune.com",
+     "seen": "20261122T004500Z",
+     "ko": "AI 거품 붕괴, 중국 경제 위협하며 시진핑 주석에 큰 위험 요인 부상",
+     "sum": "AI 거품 붕괴가 중국 경제를 위협하며 시진핑 국가주석에게 심각한 위험 요인이 되고 있다."
+    },
+    {
+     "title": "Step into future on a \"tech walk\" in Shenzhen-Xinhua",
+     "url": "https://english.news.cn/20261121/318ba1d614374b439c32d5cae07d7f17/c.html",
+     "domain": "english.news.cn",
+     "seen": "20261122T000000Z",
+     "ko": "중국 선전서 미래 기술 둘러보는 '테크 워크' 진행돼",
+     "sum": "중국 선전에서 미래 기술을 직접 체험할 수 있는 테크 워크 행사가 열렸다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hall_of_Supreme_Harmony_%2820241127120000%29.jpg/960px-Hall_of_Supreme_Harmony_%2820241127120000%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -24,7 +130,16 @@
    }
   },
   "tw": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+     "url": "https://www.aol.com/articles/ai-sell-off-now-taiwan-220252000.html",
+     "domain": "aol.com",
+     "seen": "20261122T000000Z",
+     "ko": "AI주 매도세 확산에 대만, 반도체 중심 시장 안정 긴급 조치",
+     "sum": "AI 관련주 매도세가 이어지자 대만이 반도체 중심의 주식시장을 진정시키기 위한 긴급 조치를 취했다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/960px-Taipei_Skyline_2022.06.29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -34,7 +149,16 @@
    }
   },
   "mm": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "The Rohingya | Vindication for a persecuted people",
+     "url": "https://www.thehindu.com/news/international/the-rohingya-vindication-for-a-persecuted-people/article71729370.ece",
+     "domain": "thehindu.com",
+     "seen": "20261121T213000Z",
+     "ko": "박해받던 로힝야족, 오랜 고난 속 권리와 명예 회복 나서",
+     "sum": "박해를 받아온 로힝야족에 대한 권리와 명예 회복 필요성이 다루어졌다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Shwedagon_Pagoda_2017.jpg/960px-Shwedagon_Pagoda_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -44,7 +168,48 @@
    }
   },
   "my": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Sarawak not seeking to take over from Petronas, says Fadillah",
+     "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/sarawak-not-seeking-to-take-over-from-petronas-says-fadillah",
+     "domain": "freemalaysiatoday.com",
+     "seen": "20261122T021500Z",
+     "ko": "말레이 사라왁주 \"국영 페트로나스 인수 추진하지 않아\"",
+     "sum": "말레이시아 사라왁주가 국영 석유기업 페트로나스의 자리를 대신 차지하려는 것이 아니라고 밝혔다."
+    },
+    {
+     "title": "Turkey dismisses Malaysia's Rohingya resettlement plan",
+     "url": "https://www.straitstimes.com/world/europe/turkey-dismisses-malaysias-announcement-of-rohingya-resettlement",
+     "domain": "straitstimes.com",
+     "seen": "20261122T020000Z",
+     "ko": "튀르키예, 말레이시아의 로힝야족 재정착 계획 공식 일축",
+     "sum": "튀르키예 정부가 말레이시아의 로힝야족 재정착 계획을 일축했다."
+    },
+    {
+     "title": "Home Ministry mulls tighter security at security force bases after RMAF drug bust",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/22/home-ministry-mulls-tighter-security-at-security-force-bases-after-rmaf-drug-bust",
+     "domain": "thestar.com.my",
+     "seen": "20261122T014500Z",
+     "ko": "말레이 내무부, 공군 기지 마약 적발 후 군사 기지 보안 강화 검토",
+     "sum": "말레이시아 내무부가 공군 기지에서 마약이 적발된 후 보안 부대 기지의 경비 강화를 검토하고 있다."
+    },
+    {
+     "title": "Govt urged to clarify Rohingya resettlement plan after Zahid deletes post",
+     "url": "https://www.malaysiakini.com/news/889577-putrajaya-urged-to-clarify-rohingya-resettlement-plan-after-zahid-deletes-post",
+     "domain": "malaysiakini.com",
+     "seen": "20261122T003000Z",
+     "ko": "말레이 정부, 부총리 글 삭제 후 로힝야 재정착 계획 해명 요구받아",
+     "sum": "부총리의 소셜미디어 게시물이 삭제된 뒤 말레이시아 정부에 로힝야족 재정착 계획을 명확히 설명하라는 요구가 제기되었다."
+    },
+    {
+     "title": "Tourism Selangor spotlights Selangor's cruise tourism potential at Seatrade Cruise Asia 2026",
+     "url": "https://balticbusinessnews.com/tourism-selangor-spotlights-selangors-cruise-tourism-potential-at-seatrade-cruise-asia-2026/",
+     "domain": "balticbusinessnews.com",
+     "seen": "20261121T223000Z",
+     "ko": "슬랑오르주, 아시아 크루즈 박람회서 해양 관광 잠재력 집중 홍보",
+     "sum": "슬랑오르주 관광청이 아시아 크루즈 박람회에서 지역 크루즈 관광의 잠재력을 알렸다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bukit_Bintang_Junction_in_2023.jpg/960px-Bukit_Bintang_Junction_in_2023.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -54,7 +219,40 @@
    }
   },
   "id": {
-   "articles": [],
+   "articles": [
+    {
+     "title": "Indonesia must utilize existing laws as it waits national AI framework: Expert - Politics",
+     "url": "http://www.thejakartapost.com/indonesia/2026/11/22/indonesia-must-utilize-existing-laws-as-it-waits-national-ai-framework-expert",
+     "domain": "thejakartapost.com",
+     "seen": "20261122T003000Z",
+     "ko": "전문가 \"인도네시아, AI 프레임워크 마련 전 기존 법률 활용해야\"",
+     "sum": "전문가가 인도네시아는 국가 AI 프레임워크가 마련되기 전까지 기존 법률을 적극 활용해야 한다고 제언했다."
+    },
+    {
+     "title": "Ministry of Trade Enhances Risk-Based Post-Border Supervision to Protect Domestic Market – Indonesia Tribune",
+     "url": "https://indonesiatribune.com/ministry-of-trade-enhances-risk-based-post-border-supervision-to-protect-domestic-market/",
+     "domain": "indonesiatribune.com",
+     "seen": "20261121T220000Z",
+     "ko": "인도네시아 무역부, 국내 시장 보호 위한 통관 후 감시 강화",
+     "sum": "인도네시아 무역부가 국내 시장을 지키기 위해 위험 기반의 통관 후 감시 감독을 강화한다."
+    },
+    {
+     "title": "Ministry of Trade Highlights Compliance for Drinking Water Depot Businesses – Indonesia Tribune",
+     "url": "https://indonesiatribune.com/ministry-of-trade-highlights-compliance-for-drinking-water-depot-businesses/",
+     "domain": "indonesiatribune.com",
+     "seen": "20261121T220000Z",
+     "ko": "인도네시아 무역부, 식수 공급업소에 규정 준수 강력 촉구",
+     "sum": "인도네시아 무역부가 식수 공급업체들을 대상으로 규정 준수를 강조했다."
+    },
+    {
+     "title": "EU and Indonesia Sign Free Trade Deal: Multi-Source Coverage — One News Page",
+     "url": "https://www.onenewspage.com/story/eu-indonesia-free-trade-deal-bb2311e0/",
+     "domain": "onenewspage.com",
+     "seen": "20261121T213000Z",
+     "ko": "유럽연합과 인도네시아, 자유무역협정 체결 완료",
+     "sum": "유럽연합과 인도네시아가 자유무역협정을 체결했다."
+    }
+   ],
    "photo": {
     "v": 2,
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/960px-Borobudur-Nothwest-view.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -65,6 +263,54 @@
   },
   "fr": {
    "articles": [
+    {
+     "title": "Salvage operation under way after cargo ship runs aground off French coast — One News Page",
+     "url": "https://www.onenewspage.com/story/salvage-operation-under-way-after-cargo-ship-runs-aground-off-french-coast-126439dc/",
+     "domain": "onenewspage.com",
+     "seen": "20261122T021500Z",
+     "ko": "화물선 프랑스 해안 좌초 후 인양 작업 진행",
+     "sum": "프랑스 해안 인근에서 화물선 한 척이 좌초되어 긴급 인양 작업이 진행 중이다."
+    },
+    {
+     "title": "French cops convicted over racist assault on Michel Zecler",
+     "url": "https://punchng.com/french-cops-convicted-in-black-producer-assault/",
+     "domain": "punchng.com",
+     "seen": "20261122T013000Z",
+     "ko": "미셸 제클레르 인종차별 폭행 혐의 프랑스 경찰 유죄 판결",
+     "sum": "흑인 음악 프로듀서 미셸 제클레르를 인종차별적으로 폭행한 혐의를 받는 프랑스 경찰관들이 유죄 판결을 받았다."
+    },
+    {
+     "title": "French protesters rally for sixth weekend over living costs, public services",
+     "url": "https://www.channelnewsasia.com/world/france-protests-rising-costs-living-public-services-6571961",
+     "domain": "channelnewsasia.com",
+     "seen": "20261122T010000Z",
+     "ko": "프랑스 시민들 물가와 공공서비스 문제로 6주째 집회",
+     "sum": "프랑스 시민들이 치솟는 생활비와 공공서비스 문제를 규탄하며 6주 연속 주말 시위를 이어갔다."
+    },
+    {
+     "title": "World News: France seeks UN help as Myanmar refutes ICJ order",
+     "url": "https://www.gdnonline.com:443/Details/1413519",
+     "domain": "gdnonline.com",
+     "seen": "20261122T004500Z",
+     "ko": "프랑스, 미얀마의 국제사법재판소 명령 거부에 유엔 지원 요청",
+     "sum": "프랑스가 미얀마의 국제사법재판소 명령 거부 대응을 위해 유엔에 지원을 요청했다."
+    },
+    {
+     "title": "France Rejects Costa's Budget Plan — €204bn Cuts, a 3% Tech Levy and a Fight Over Farm Support - France Rejects Costa's Budget Plan — €204bn Cuts, a 3% Tech Levy and a Fight Over Farm Support",
+     "url": "https://www.inewsgr.com/330/France-Rejects-Costas-Budget-Plan--204bn-Cuts-a-3-Tech-Levy-and-a-Fight-Over-Farm-Support.htm",
+     "domain": "inewsgr.com",
+     "seen": "20261121T224500Z",
+     "ko": "프랑스, 2040억 유로 예산 삭감안 거부",
+     "sum": "프랑스가 대규모 예산 삭감과 IT 기업 과세 및 농업 보조금 관련 갈등이 담긴 예산안을 거부했다."
+    },
+    {
+     "title": "At least 144 detained across France during protests against rising prices — ministry",
+     "url": "https://en.apa.az/europe/at-least-144-detained-across-france-during-protests-against-rising-prices-ministry-537740",
+     "domain": "en.apa.az",
+     "seen": "20261121T221500Z",
+     "ko": "프랑스 물가 상승 항의 시위서 최소 144명 체포",
+     "sum": "프랑스 전역에서 일어난 물가 상승 항의 시위 도중 최소 144명이 경찰에 체포되었다."
+    },
     {
      "title": "French police officers sentenced to prison for racist violence against Black man in landmark ruling",
      "url": "https://www.baltimoresun.com/2026/11/21/french-police-officers-sentenced-to-prison-for-racist-violence-against-black-man-in-landmark-ruling/",
@@ -96,54 +342,6 @@
      "seen": "20261121T183000Z",
      "ko": "프랑스 마을 공사 현장서 1200년 된 석관 발견",
      "sum": "프랑스의 한 마을 교회 인근 공사장에서 1200년 이상 된 석관이 발견되어 작업이 중단되었다."
-    },
-    {
-     "title": "France Train Crash Investigation Reveals Second Train Almost Hit Passengers",
-     "url": "https://www.rustourismnews.com/2026/11/21/france-train-crash-investigation-reveals-second-train-almost-hit-passengers/",
-     "domain": "rustourismnews.com",
-     "seen": "20261121T181500Z",
-     "ko": "프랑스 열차 충돌 사고 당시 승객 2차 참사 날 뻔해",
-     "sum": "프랑스 열차 충돌 사고 조사 결과 다른 열차가 승객들을 칠 뻔했던 것으로 드러났다."
-    },
-    {
-     "title": "French Atlantic Beach Closed After Cargo Ship Runs Aground Near Cap de l'Homy",
-     "url": "https://www.rustourismnews.com/2026/11/21/french-atlantic-beach-closed-after-cargo-ship-runs-aground-near-cap-de-lhomy/",
-     "domain": "rustourismnews.com",
-     "seen": "20261121T181500Z",
-     "ko": "프랑스 해안서 화물선 좌초로 해변 폐쇄",
-     "sum": "프랑스 대서양 연안의 캅드롬 인근에서 화물선이 좌초되어 해변이 폐쇄되었다."
-    },
-    {
-     "title": "Actor Gerard Depardieu and author Michel Houellebecq under investigation for sexual assault",
-     "url": "https://www.thenews.com.pk/latest/1424529-actor-gerard-depardieu-and-author-michel-houellebecq-under-investigation-for-sexual-assault",
-     "domain": "thenews.com.pk",
-     "seen": "20261121T173000Z",
-     "ko": "프랑스 배우 드파르디외와 작가 우엘베크 성폭행 혐의 조사",
-     "sum": "프랑스 배우 제라르 드파르디외와 소설가 미셸 우엘베크가 성폭행 혐의로 조사를 받고 있다."
-    },
-    {
-     "title": "French Senate approves police shootings law dubbed 'licence to kill' by critics",
-     "url": "https://www.straitstimes.com/world/europe/french-senate-approves-police-shootings-law-dubbed-licence-to-kill-by-critics",
-     "domain": "straitstimes.com",
-     "seen": "20261120T210000Z",
-     "ko": "프랑스 상원, 살인 면허 논란 부른 경찰 발포법 승인",
-     "sum": "프랑스 상원이 비판론자들로부터 살인 면허라는 비판을 받는 경찰 발포 관련 법안을 통과시켰다."
-    },
-    {
-     "title": "Former French PM Dominique de Villepin announces presidential bid",
-     "url": "http://www.brazilsun.com/news/279445841/former-french-pm-dominique-de-villepin-announces-presidential-bid",
-     "domain": "brazilsun.com",
-     "seen": "20261120T210000Z",
-     "ko": "도미니크 드빌팽 전 프랑스 총리 대선 출마 선언",
-     "sum": "도미니크 드빌팽 전 프랑스 총리가 차기 대통령 선거 출마를 공식 발표했다."
-    },
-    {
-     "title": "Damage from Protests and Riots in France Could Reach €207 Million",
-     "url": "http://www.bgnes.com/economy/damage-from-protests-and-riots-in-france-could-reach-207-million",
-     "domain": "bgnes.com",
-     "seen": "20261120T210000Z",
-     "ko": "프랑스 시위와 폭동 피해액 최대 2억 700만 유로 달할 전망",
-     "sum": "프랑스에서 발생한 시위와 폭동으로 인한 경제적 피해 규모가 2억 700만 유로에 이를 수 있다는 집계가 나왔다."
     }
    ],
    "photo": {
@@ -156,6 +354,54 @@
   },
   "de": {
    "articles": [
+    {
+     "title": "Qatar, Germany open economic dialogue in Bonn",
+     "url": "https://www.gulf-times.com/article/738726/qatar/qatar-germany-open-economic-dialogue-in-bonn",
+     "domain": "gulf-times.com",
+     "seen": "20261122T013000Z",
+     "ko": "카타르와 독일, 본에서 경제 대화 개최",
+     "sum": "카타르와 독일이 양국 간 경제 협력을 논의하기 위해 독일 본에서 경제 대화를 시작했다."
+    },
+    {
+     "title": "German car and shipyard workers set to strike as IG Metall union extends walkout",
+     "url": "https://www.933thedrive.com/2026/11/21/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout/",
+     "domain": "933thedrive.com",
+     "seen": "20261122T003000Z",
+     "ko": "독일 금속노조 파업 확대에 자동차, 조선소 노동자 파업 돌입",
+     "sum": "독일 IG 메탈 노조가 파업을 확대하면서 독일의 자동차 및 조선소 노동자들이 파업에 나설 예정이다."
+    },
+    {
+     "title": "Pro-Israel German politician kicked to ground at Berlin protest",
+     "url": "https://www.ynetnews.com/article/hjo4q9yyme",
+     "domain": "ynetnews.com",
+     "seen": "20261121T230000Z",
+     "ko": "베를린 시위 현장서 친이스라엘 성향 독일 정치인 피습",
+     "sum": "독일 베를린에서 열린 시위 현장에서 친이스라엘 성향의 정치인이 발길질을 당해 바닥에 쓰러졌다."
+    },
+    {
+     "title": "62% of Germans concerned about rising public debt",
+     "url": "https://en.apa.az/europe/62-of-germans-concerned-about-rising-public-debt-537733",
+     "domain": "en.apa.az",
+     "seen": "20261121T221500Z",
+     "ko": "독일인 62% 국가 부채 증가에 우려 표명",
+     "sum": "설문조사 결과 독일인의 62%가 늘어나는 국가 채무에 대해 깊은 우려를 느끼고 있는 것으로 나타났다."
+    },
+    {
+     "title": "76% of Germans dissatisfied with Merz's performance",
+     "url": "https://en.apa.az/europe/76-of-germans-dissatisfied-with-merzs-performance-537735",
+     "domain": "en.apa.az",
+     "seen": "20261121T221500Z",
+     "ko": "독일 국민 76% 메르츠 행보에 불만족",
+     "sum": "독일 국민의 76%가 프리드리히 메르츠의 직무 수행과 행보에 만족하지 않는다고 응답했다."
+    },
+    {
+     "title": "Germany increases funding for training courses for the unemployed by 113%",
+     "url": "https://en.apa.az/europe/germany-increases-funding-for-training-courses-for-the-unemployed-by-113-537719",
+     "domain": "en.apa.az",
+     "seen": "20261121T221500Z",
+     "ko": "독일, 실업자 직업 훈련 지원 예산 113% 확대",
+     "sum": "독일 정부가 실업자 대상 직업 훈련 프로그램 지원 예산을 기존 대비 113% 대폭 늘렸다."
+    },
     {
      "title": "Germany to hand Ukraine two standard-gauge locomotives, 30 more sought",
      "url": "https://article.wn.com/view/2026/11/21/Germany_to_hand_Ukraine_two_standardgauge_locomotives_30_mor/",
@@ -187,46 +433,6 @@
      "seen": "20261121T183000Z",
      "ko": "바이에른 뮌헨, 연례 총회서 역대 최대 매출 발표",
      "sum": "독일 바이에른 뮌헨 구단이 연례 총회에서 사상 최대 매출과 회원 수를 기록했다고 발표했다."
-    },
-    {
-     "title": "Mercedes-Benz Wins German Approval For Point-To-Point Driving Assistance",
-     "url": "https://www.rttnews.com/3716884/mercedes-benz-wins-german-approval-for-point-to-point-driving-assistance.aspx",
-     "domain": "rttnews.com",
-     "seen": "20261120T214500Z",
-     "ko": "메르세데스 벤츠, 독일서 구간 주행 보조 시스템 승인 획득",
-     "sum": "메르세데스 벤츠가 독일 당국으로부터 특정 지점 간 주행을 지원하는 운전자 보조 시스템 승인을 받았다."
-    },
-    {
-     "title": "Germany Seems To Be Serious About A TikTok Europe Takeover",
-     "url": "https://www.engadget.com/2323606/germany-seems-to-be-serious-about-a-tiktok-europe-takeover/",
-     "domain": "engadget.com",
-     "seen": "20261120T214500Z",
-     "ko": "독일, 유럽 내 틱톡 사업 인수 적극 추진 분위기",
-     "sum": "독일이 유럽 지역의 틱톡 사업을 인수하는 방안을 진지하게 고려하고 있는 것으로 알려졌다."
-    },
-    {
-     "title": "Nordex Group Signs Framework Agreements With Vattenfall For Onshore Wind Projects In Germany And The UK",
-     "url": "https://www.poweronline.com/doc/nordex-group-signs-framework-agreements-with-vattenfall-for-onshore-wind-projects-in-germany-and-the-uk-0001",
-     "domain": "poweronline.com",
-     "seen": "20261120T214500Z",
-     "ko": "노르덱스, 바텐팔과 독일 및 영국 육상 풍력 프로젝트 계약 체결",
-     "sum": "풍력 터빈 기업 노르덱스 그룹이 바텐팔과 함께 독일과 영국 내 육상 풍력 사업을 추진하는 기본 협약을 체결했다."
-    },
-    {
-     "title": "Quantum Systems Expands Industrial Commitment to Ukraine as Joint Venture Scales Drone Production",
-     "url": "https://www.suasnews.com/2026/11/quantum-systems-expands-industrial-commitment-to-ukraine-as-joint-venture-scales-drone-production/",
-     "domain": "suasnews.com",
-     "seen": "20261120T210000Z",
-     "ko": "독일 퀀텀 시스템즈, 우크라이나서 드론 생산 확대",
-     "sum": "독일 무인기 기업 퀀텀 시스템즈가 합작 투자를 통해 우크라이나 현지 드론 생산을 확장하며 산업 협력을 넓히고 있다."
-    },
-    {
-     "title": "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Lufthansa-to-Slash-1000-Jobs-as-Airlines-Reel-from-High-Fuel-Costs.html",
-     "domain": "oilprice.com",
-     "seen": "20261120T204500Z",
-     "ko": "루프트한자, 높은 연료비 부담에 1000명 감원 계획",
-     "sum": "항공사 루프트한자가 고유가로 인한 타격을 극복하기 위해 일자리 1000개를 감축하기로 했다."
     }
    ],
    "photo": {
@@ -239,6 +445,22 @@
   },
   "pl": {
    "articles": [
+    {
+     "title": "Polish bishops begin novena for national unity | News Headlines",
+     "url": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=71334",
+     "domain": "catholicculture.org",
+     "seen": "20261121T214500Z",
+     "ko": "폴란드 주교단, 국가 화합 위한 9일 기도 시작",
+     "sum": "폴란드 가톨릭 주교단이 국민적 일치와 화합을 기원하는 9일 기도에 들어갔다."
+    },
+    {
+     "title": "Tension in Poland after Russian missiles and drone violated airspace, NATO chief visits Warsaw on Saturday",
+     "url": "https://albeu.com/english/tension-in-poland-after-russian-missiles-and-drone-violated-airspace-nato-chief-visits-warsaw-on-saturday/1109031/",
+     "domain": "albeu.com",
+     "seen": "20261121T204500Z",
+     "ko": "러시아 미사일, 드론 영공 침범에 폴란드 긴장 고조",
+     "sum": "러시아의 미사일과 드론이 폴란드 영공을 침범한 뒤 긴장이 고조되자 나토 사무총장이 바르샤바를 방문했다."
+    },
     {
      "title": "Poland Pursues Nuclear Renaissance Leadership With CfD Price Guarantees Extended To Small Modular Reactors",
      "url": "https://www.foreignpolicyjournal.com/2026/11/21/poland-pursues-nuclear-renaissance-leadership-with-cfd-price-guarantees-extended-to-small-modular-reactors/",
@@ -302,22 +524,6 @@
      "seen": "20261120T190000Z",
      "ko": "폴란드, SNS 연령 제한 위해 15세 이상 모바일 인증 추진",
      "sum": "폴란드가 계획 중인 소셜 미디어 이용 연령 제한 조치에 따라 이용자들은 모바일 신분증 등으로 15세 이상임을 증명하게 된다."
-    },
-    {
-     "title": "Partners prepare to procure next batch of equipment for Polish plant",
-     "url": "https://www.world-nuclear-news.org/articles/partners-prepare-to-procure-next-batch-of-equipment-for-polish-plant",
-     "domain": "world-nuclear-news.org",
-     "seen": "20261120T184500Z",
-     "ko": "폴란드 원전 협력사들, 차기 설비 조달 준비 본격화",
-     "sum": "폴란드 원자력 발전소 프로젝트 협력 기업들이 다음 단계 주요 설비 조달을 준비하고 있다."
-    },
-    {
-     "title": "Russian missile's crash in Poland was likely an intentional provocation, Polish prime minister says",
-     "url": "https://mymotherlode.com/news/world/11326174/russian-missiles-crash-in-poland-was-likely-an-intentional-provocation-polish-prime-minister-says.html",
-     "domain": "mymotherlode.com",
-     "seen": "20261120T181500Z",
-     "ko": "폴란드 총리, 러시아 미사일의 영공 추락은 의도적 도발 가능성",
-     "sum": "폴란드 총리는 자국 내에 추락한 러시아 미사일 사건이 의도적인 도발일 가능성이 높다고 밝혔다."
     }
    ],
    "photo": {
@@ -330,6 +536,22 @@
   },
   "it": {
    "articles": [
+    {
+     "title": "Former Italian police chief De Gennaro takes own life amid mafia probe",
+     "url": "https://japantoday.com/category/world/former-italian-police-chief-de-gennaro-takes-own-life-amid-mafia-probe3",
+     "domain": "japantoday.com",
+     "seen": "20261122T013000Z",
+     "ko": "마피아 수사 받던 데 젠나로 전 이탈리아 경찰청장 극단 선택",
+     "sum": "마피아 연루 혐의로 조사를 받던 잔니 데 젠나로 전 이탈리아 경찰청장이 스스로 목숨을 끊었다."
+    },
+    {
+     "title": "Meloni expresses shock as Italian ex-police chief found dead as he faced inquiry over 1992 bombing",
+     "url": "https://www.the-messenger.com/news/world/article_873d2a1c-3243-55ac-8d01-c289ac82afe8.html",
+     "domain": "the-messenger.com",
+     "seen": "20261121T231500Z",
+     "ko": "멜로니 총리, 1992년 폭탄 테러 연루 수사받던 전 경찰청장 사망에 충격 표명",
+     "sum": "조르자 멜로니 총리가 1992년 폭탄 테러 관련 조사를 받던 전 경찰청장의 사망 소식에 깊은 충격을 표했다."
+    },
     {
      "title": "Paolo Bulgari, Chairman on the Roman Jewelry House, Dies in Rome",
      "url": "https://wwd.com/accessories-news/jewelry/paolo-bulgari-chairman-jewelry-roman-house-dies-rome-1239461393/",
@@ -345,14 +567,6 @@
      "seen": "20261121T201500Z",
      "ko": "미확인 드론 출몰로 이탈리아 제노바 공항 2시간 폐쇄",
      "sum": "드론 출현 경보로 인해 이탈리아 제노바 공항이 2시간 동안 폐쇄되었다."
-    },
-    {
-     "title": "Meloni expresses shock as Italian ex-police chief found dead as he faced inquiry over 1992 bombing",
-     "url": "https://www.clickorlando.com/news/world/2026/11/21/meloni-expresses-shock-as-italian-ex-police-chief-found-dead-as-he-faced-inquiry-over-1992-bombing/",
-     "domain": "clickorlando.com",
-     "seen": "20261121T194500Z",
-     "ko": "마피아 테러 조사받던 전 이탈리아 경찰청장 사망에 멜로니 충격",
-     "sum": "1992년 마피아 폭탄 테러 혐의로 조사를 받던 전직 경찰청장이 숨진 채 발견되자 멜로니 총리가 충격을 표했다."
     },
     {
      "title": "Six Historic Rome Buildings to Become 147-Room Luxury Hilton Hotel",
@@ -398,6 +612,46 @@
   "ru": {
    "articles": [
     {
+     "title": "Russian cargo ship catches fire after Ukrainian strike in Baltic",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/22/russian-cargo-ship-catches-fire-after-ukrainian-strike-in-baltic",
+     "domain": "freemalaysiatoday.com",
+     "seen": "20261122T021500Z",
+     "ko": "발트해서 우크라이나 공격받은 러시아 화물선 화재",
+     "sum": "발트해 해상에서 러시아 화물선이 우크라이나의 공격을 받아 불길에 휩싸였다."
+    },
+    {
+     "title": "Drones hit Russian cargo ship in Baltic, Finland tightens security",
+     "url": "https://timesofindia.indiatimes.com/world/europe/drones-hit-russian-cargo-ship-in-baltic-finland-tightens-security/articleshow/136065032.cms",
+     "domain": "indiatimes.com",
+     "seen": "20261122T003000Z",
+     "ko": "발트해 러시아 화물선 드론 피격 후 핀란드 경계 강화",
+     "sum": "발트해에서 러시아 화물선이 드론에 피격되자 인접국 핀란드가 해상 안보 경계를 강화했다."
+    },
+    {
+     "title": "Evacuation of 16 crew members underway on damaged Russian ship: Finnish authorities-Xinhua",
+     "url": "https://english.news.cn/europe/20261122/31714966a1fa46e2a9c729db699ecf18/c.html",
+     "domain": "english.news.cn",
+     "seen": "20261121T234500Z",
+     "ko": "발트해서 피격된 러시아 선박 선원 16명 대피 진행",
+     "sum": "발트해에서 파손된 러시아 선박에 타고 있던 선원 16명을 대피시키는 작전이 진행 중이다."
+    },
+    {
+     "title": "At least two killed in Russian strikes across Ukraine",
+     "url": "https://www.channel4.com/news/at-least-two-killed-in-russian-strikes-across-ukraine",
+     "domain": "channel4.com",
+     "seen": "20261121T221500Z",
+     "ko": "러시아군 우크라이나 전역 공습으로 최소 2명 사망",
+     "sum": "러시아군이 우크라이나 전역에 대대적인 공습을 가해 최소 2명이 목숨을 잃었다."
+    },
+    {
+     "title": "Kenya, Russia agree to stop recruitment of Kenyans into Russian military",
+     "url": "https://garoweonline.com/en/world/africa/kenya-russia-agree-to-stop-recruitment-of-kenyans-into-russian-military",
+     "domain": "garoweonline.com",
+     "seen": "20261121T210000Z",
+     "ko": "케냐와 러시아, 케냐인 러시아군 모병 중단 합의",
+     "sum": "케냐와 러시아 양국이 케냐 국적자를 러시아군에 모병하는 행위를 중단하기로 합의했다."
+    },
+    {
      "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report – The Frontier Post",
      "url": "https://thefrontierpost.com/russias-wildberries-ceo-steps-down-days-after-eu-sanctions-media-report/",
      "domain": "thefrontierpost.com",
@@ -436,30 +690,6 @@
      "seen": "20261120T204500Z",
      "ko": "러시아, 대러 제재 참여 압박하는 유럽연합 맹비난",
      "sum": "러시아는 유럽연합이 세르비아를 향해 러시아 제재에 동참하라고 압력을 가하고 있다며 이를 비난했다."
-    },
-    {
-     "title": "Parliamentarians of Russia and Turkmenistan Hold First Joint Meeting of Friendship Groups",
-     "url": "https://www.newscentralasia.net/2026/11/20/parliamentarians-of-russia-and-turkmenistan-hold-first-joint-meeting-of-friendship-groups/",
-     "domain": "newscentralasia.net",
-     "seen": "20261120T191500Z",
-     "ko": "러시아와 투르크메니스탄 의회, 우호 단체 첫 합동 회의 개최",
-     "sum": "러시아와 투르크메니스탄의 의회 대표단이 양국 우호 단체 간 첫 합동 회의를 열었다."
-    },
-    {
-     "title": "Russia Fast-Tracks Crimea Road Funds After Bridge Strikes",
-     "url": "https://www.kyivpost.com/post/90737",
-     "domain": "kyivpost.com",
-     "seen": "20261120T184500Z",
-     "ko": "러시아, 크림대교 피격 후 크림반도 도로 복구 예산 조기 투입",
-     "sum": "러시아가 크림대교 공격을 받은 뒤 크림반도 지역의 도로 인프라 자금을 신속하게 집행하기로 했다."
-    },
-    {
-     "title": "Russia permits retail cryptocurrency purchases under regulated framework",
-     "url": "https://thearabianpost.com/russia-permits-retail-cryptocurrency-purchases-under-regulated-framework/",
-     "domain": "thearabianpost.com",
-     "seen": "20261120T183000Z",
-     "ko": "러시아, 규제 프레임워크 도입해 개인 암호화폐 구매 허용",
-     "sum": "러시아 정부가 정해진 규제 체계 안에서 일반 개인의 암호화폐 구매를 공식 허용했다."
     }
    ],
    "photo": {
@@ -472,6 +702,62 @@
   },
   "il": {
    "articles": [
+    {
+     "title": "Israel: Eisenkot invites Likud for marathon coalition talks in bid to break coalition deadlock",
+     "url": "http://www.batonrougepost.com/news/279447723/israel-eisenkot-invites-likud-for-marathon-coalition-talks-in-bid-to-break-coalition-deadlock",
+     "domain": "batonrougepost.com",
+     "seen": "20261122T011500Z",
+     "ko": "아이젠코트, 연정 교착 타개 위해 리쿠드당에 마라톤 회담 제안",
+     "sum": "아이젠코트 의원이 연정 교착 상태를 해소하기 위해 네타냐후 총리가 이끄는 리쿠드당에 마라톤 회담을 제안했다."
+    },
+    {
+     "title": "IFJ Scrubs 40 Gaza Journalist Names Amid Hamas Ties",
+     "url": "https://legalinsurrection.com/2026/11/ifj-gaza-journalist-list-hamas-ties/",
+     "domain": "legalinsurrection.com",
+     "seen": "20261122T011500Z",
+     "ko": "국제기자연맹, 하마스 연계 논란에 가자 기자 40명 명단서 삭제",
+     "sum": "국제기자연맹이 하마스와의 연계 의혹이 제기된 가자지구 언론인 40명의 이름을 명단에서 제외했다."
+    },
+    {
+     "title": "Israeli settlers raid Hebron's Old City accompanied by forces",
+     "url": "https://article.wn.com/view/2026/11/21/Israeli_settlers_raid_Hebrons_Old_City_accompanied_by_forces/",
+     "domain": "wn.com",
+     "seen": "20261122T010000Z",
+     "ko": "이스라엘 정착민들, 군 동행 하에 헤브론 구시가지 급습",
+     "sum": "이스라엘 정착민들이 군 병력과 함께 헤브론 구시가지를 급습했다."
+    },
+    {
+     "title": "World News: Israeli strike kills three in Gaza",
+     "url": "https://www.gdnonline.com:443/Details/1413530",
+     "domain": "gdnonline.com",
+     "seen": "20261122T004500Z",
+     "ko": "이스라엘 공습으로 가자지구서 3명 사망",
+     "sum": "이스라엘군의 가자지구 공습으로 3명이 목숨을 잃었다."
+    },
+    {
+     "title": "Avigdor Liberman says gov't with haredi backing only way to defeat Benjamin Netanyahu",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915657",
+     "domain": "jpost.com",
+     "seen": "20261122T000000Z",
+     "ko": "리베르만 \"초정통파 지지 연정만이 네타냐후 꺾을 유일한 방법\"",
+     "sum": "아비그도르 리베르만 의원이 베냐민 네타냐후를 꺾을 유일한 방법은 초정통파의 지지를 받는 정부를 구성하는 것뿐이라고 말했다."
+    },
+    {
+     "title": "Israeli attorney indicted for smuggling terror stipend updates into prison",
+     "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915656",
+     "domain": "jpost.com",
+     "seen": "20261122T000000Z",
+     "ko": "이스라엘 변호사, 테러 지원금 정보 교도소 밀반입 혐의로 기소",
+     "sum": "이스라엘의 한 변호사가 교도소 안으로 테러 지원금 지급 변동 정보를 몰래 반입한 혐의로 기소되었다."
+    },
+    {
+     "title": "Israel says to take countermeasures, bolster settlements after British sanctions",
+     "url": "http://www.theuknews.com/news/279439014/israel-says-to-take-countermeasures-bolster-settlements-after-british-sanctions",
+     "domain": "theuknews.com",
+     "seen": "20261121T233000Z",
+     "ko": "이스라엘, 영국의 제재 맞서 정착촌 강화 등 대응 조치 예고",
+     "sum": "이스라엘이 요르단강 서안지구 정착촌과 관련된 영국의 제재에 맞서 정착촌을 강화하는 등 대응에 나서겠다고 밝혔다."
+    },
     {
      "title": "DEATH THREAT: Tel Aviv Man Arrested After Threatening To Assassinate Former PM Naftali Bennett And His Son",
      "url": "https://www.theyeshivaworld.com/news/israel-news/2626068/death-threat-tel-aviv-man-arrested-after-threatening-to-assassinate-former-pm-naftali-bennett-and-his-son.html",
@@ -495,62 +781,6 @@
      "seen": "20261121T200000Z",
      "ko": "가자 중부서 팔레스타인 청년, 이스라엘 드론 사격에 부상",
      "sum": "가자지구 중부에서 팔레스타인 청년 한 명이 이스라엘 무인기의 공격을 받아 부상을 입었다."
-    },
-    {
-     "title": "IDF: Vehicle struck in northern Gaza carried terrorists, not aid workers",
-     "url": "https://www.clevelandjewishnews.com/jns/idf-vehicle-struck-in-northern-gaza-carried-terrorists-not-aid-workers/article_7b2f0352-c590-559d-8bcb-80ffca963bee.html",
-     "domain": "clevelandjewishnews.com",
-     "seen": "20261121T194500Z",
-     "ko": "이스라엘군 \"가자 북부서 타격한 차량, 구호 인력 아닌 테러범 탑승\"",
-     "sum": "이스라엘군은 가자지구 북부에서 공습한 차량에 구호 요원이 아닌 테러리스트들이 타고 있었다고 밝혔다."
-    },
-    {
-     "title": "Naftali Bennett backs Gadi Eisenkot as prime minister, still pushes for unity gov't",
-     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915647",
-     "domain": "jpost.com",
-     "seen": "20261121T190000Z",
-     "ko": "베네트 전 이스라엘 총리, 아이젠코트 지지하며 통합정부 추진",
-     "sum": "나프탈리 베네트 전 총리가 가디 아이젠코트를 총리로 지지하며 비상 통합정부 구성을 거듭 촉구했다."
-    },
-    {
-     "title": "Shuafat riots erupt after murder of 10-year-old boy",
-     "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915645",
-     "domain": "jpost.com",
-     "seen": "20261121T190000Z",
-     "ko": "동예루살렘 슈아파트서 10세 소년 피살 뒤 폭동 발생",
-     "sum": "동예루살렘 슈아파트에서 10세 소년이 살해된 직후 주민들의 폭동이 일어났다."
-    },
-    {
-     "title": "Gaza civil defence says new Israeli strikes kill four",
-     "url": "https://www.omanobserver.om/article/1200016/world/region/gaza-civil-defence-says-new-israeli-strikes-kill-four",
-     "domain": "omanobserver.om",
-     "seen": "20261121T181500Z",
-     "ko": "가자 민방위 당국 \"이스라엘 새 공습으로 4명 사망\"",
-     "sum": "가자지구 민방위 당국은 이스라엘의 새로운 공습으로 4명이 목숨을 잃었다고 밝혔다."
-    },
-    {
-     "title": "Photos show Palestinians harvesting olives under threat from Israeli settlers in the West Bank",
-     "url": "http://www.stardem.com/ap/nation/photos-show-palestinians-harvesting-olives-under-threat-from-israeli-settlers-in-the-west-bank/article_6413f799-f1de-5f1e-ba2a-45b5cdfd9436.html",
-     "domain": "stardem.com",
-     "seen": "20261120T220000Z",
-     "ko": "요르단강 서안지구 정착민 위협 속 올리브 수확하는 팔레스타인인",
-     "sum": "요르단강 서안지구에서 팔레스타인 주민들이 이스라엘 정착민들의 위협을 받으며 올리브를 수확하는 모습이 공개되었다."
-    },
-    {
-     "title": "Israeli drone attacks kill seven Palestinians in central Gaza - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
-     "url": "https://dominicanrepublicpost.com/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza/",
-     "domain": "dominicanrepublicpost.com",
-     "seen": "20261120T214500Z",
-     "ko": "이스라엘 드론 공격에 가자 중부서 팔레스타인인 7명 사망",
-     "sum": "이스라엘군의 드론 공격으로 가자지구 중부에서 팔레스타인인 7명이 목숨을 잃었다."
-    },
-    {
-     "title": "Terrorist behind 2024 bombing that wounded two Israelis surrenders to IDF",
-     "url": "https://www.israelnationalnews.com/news/436730",
-     "domain": "israelnationalnews.com",
-     "seen": "20261120T210000Z",
-     "ko": "이스라엘인 부상 입힌 2024년 폭탄 테러 용의자 군에 투항",
-     "sum": "이스라엘인 2명을 다치게 한 2024년 폭탄 테러의 배후 인물이 이스라엘군에 자수했다."
     }
    ],
    "photo": {
@@ -564,6 +794,70 @@
   "ir": {
    "articles": [
     {
+     "title": "Iran shows off missiles as President Trump aims for permanent deal",
+     "url": "https://www.theage.com.au/world/iran-shows-off-missiles-as-president-trump-aims-for-permanent-deal-20261122-p61g8u.html",
+     "domain": "theage.com.au",
+     "seen": "20261122T021500Z",
+     "ko": "트럼프의 영구 합의 추진 속 이란 미사일 무력시위",
+     "sum": "트럼프 미국 대통령이 영구적인 합의를 추진하는 가운데 이란이 미사일을 과시했다."
+    },
+    {
+     "title": "Iran's IRGC says targeted U.S. positions at 2 bases in Bahrain with missiles, drones",
+     "url": "http://www.iraqsun.com/news/279447730/iran-irgc-says-targeted-us-positions-at-2-bases-in-bahrain-with-missiles-drones",
+     "domain": "iraqsun.com",
+     "seen": "20261122T013000Z",
+     "ko": "이란 혁명수비대 \"바레인 내 미군 기지 2곳 미사일 드론 공격\"",
+     "sum": "이란 혁명수비대가 바레인에 있는 미군 기지 2곳의 진지를 미사일과 드론으로 공격했다고 발표했다."
+    },
+    {
+     "title": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves",
+     "url": "https://www.jns.org/news/u-s-news/us-sanctions-iranian-oil-traders-regime-insiders-selling-dwindling-reserves",
+     "domain": "jns.org",
+     "seen": "20261122T011500Z",
+     "ko": "미국, 이란 석유 거래상 및 정권 핵심 인사 대상 추가 제재",
+     "sum": "미국 정부가 줄어드는 비축유를 매각하는 이란의 석유 거래업자들과 정권 내부 인사들을 제재했다."
+    },
+    {
+     "title": "Iran to ration electricity as war hits energy network",
+     "url": "https://www.rnz.co.nz/news/world/2728729/iran-to-ration-electricity-as-war-hits-energy-network",
+     "domain": "rnz.co.nz",
+     "seen": "20261122T010000Z",
+     "ko": "이란, 전쟁 영향으로 에너지망 타격 입자 전력 배급제 실시",
+     "sum": "이란이 전쟁으로 인해 에너지 공급망에 타격을 받으면서 전력 배급제를 실시하기로 했다."
+    },
+    {
+     "title": "Iran Economy: Fuel distribution reform saves billions for essential medicine and food imports",
+     "url": "https://english.pravda.ru/news/world/173876-iran-fuel-card-reform-smuggling/",
+     "domain": "english.pravda.ru",
+     "seen": "20261122T001500Z",
+     "ko": "이란 연료 배급 개혁, 필수 의약품과 식량 수입 자금 수십억 달러 절감",
+     "sum": "이란이 추진한 연료 유통 개혁을 통해 필수 의약품과 식량을 수입할 자금 수십억 달러를 확보했다."
+    },
+    {
+     "title": "Urgent: Several explosions heard in Iran's southern Sirik County -- media -Xinhua",
+     "url": "https://english.news.cn/20261122/ec8485045d3b44e49d538fd73b79a6a9/c.html",
+     "domain": "english.news.cn",
+     "seen": "20261121T234500Z",
+     "ko": "이란 남부 시리크 지역서 연쇄 폭발음 발생",
+     "sum": "이란 남부 시리크 카운티 지역에서 여러 차례의 폭발음이 들렸다."
+    },
+    {
+     "title": "Iran prepares oil tanker convoy to break US naval blockade",
+     "url": "http://www.jpost.com/middle-east/iran-news/article-915644",
+     "domain": "jpost.com",
+     "seen": "20261121T221500Z",
+     "ko": "이란, 미 해상 봉쇄 뚫기 위해 유조선 호송 선단 준비",
+     "sum": "이란이 미국의 해상 봉쇄망을 돌파하기 위해 유조선 호송 선단을 준비하고 있다."
+    },
+    {
+     "title": "Iranian army claims it targeted US F-16 jet with missile over Gulf",
+     "url": "https://tribune.com.pk/story/2641554/iranian-army-claims-it-targeted-us-f-16-jet-with-missile-over-gulf",
+     "domain": "tribune.com.pk",
+     "seen": "20261121T214500Z",
+     "ko": "이란군, 걸프 해역 상공서 미군 F-16 전투기 미사일 조준 주장",
+     "sum": "이란군이 걸프 해역 상공을 비행하던 미군의 F-16 전투기를 미사일로 조준했다고 주장했다."
+    },
+    {
      "title": "Iran's army says air defense missile damages U.S. F-16 fighter jet over Gulf as U.S. denies claim",
      "url": "http://www.iranherald.com/news/279447293/iran-army-says-air-defense-missile-damages-us-f-16-fighter-jet-over-gulf-as-us-denies-claim",
      "domain": "iranherald.com",
@@ -572,76 +866,12 @@
      "sum": "이란군은 방공미사일로 미국 F-16 전투기에 피해를 줬다고 주장했으나 미군은 이를 부인했다."
     },
     {
-     "title": "Iran prepares oil tanker convoy to break US naval blockade",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-915644",
-     "domain": "jpost.com",
-     "seen": "20261121T193000Z",
-     "ko": "이란, 미국의 해상 봉쇄 뚫기 위해 유조선 호송대 편성 준비",
-     "sum": "이란이 미국의 해상 봉쇄 조치를 무력화하기 위해 유조선 호송대를 구성하고 있다."
-    },
-    {
      "title": "Iran to impose power cuts from Sunday amid worsening energy crisis",
      "url": "https://www.samaa.tv/2087360754-iran-to-impose-power-cuts-from-sunday-amid-worsening-energy-crisis",
      "domain": "samaa.tv",
      "seen": "20261121T190000Z",
      "ko": "이란, 극심한 에너지 위기에 일요일부터 제한 송전 시행",
      "sum": "심화되는 에너지 난에 대응하여 이란 정부가 일요일부터 제한 송전 조치에 들어간다."
-    },
-    {
-     "title": "Trump vows permanent peace deal with Iran, rules out regime change",
-     "url": "https://news.az/news/trump-vows-permanent-peace-deal-with-iran-rules-out-regime-change",
-     "domain": "news.az",
-     "seen": "20261121T183000Z",
-     "ko": "트럼프 \"이란과 영구 평화 협정 추진, 정권 교체는 배제\"",
-     "sum": "도널드 트럼프 미국 대통령 당선인은 이란의 정권 교체는 배제하며 영구적인 평화 협정을 맺겠다고 공언했다."
-    },
-    {
-     "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
-     "url": "https://article.wn.com/view/2026/11/21/Iran_says_allies_China_Russia_oppose_change_in_nuclear_doctr_n/",
-     "domain": "wn.com",
-     "seen": "20261121T181500Z",
-     "ko": "이란 \"중국과 러시아, 이란 핵 교리 수정에 반대\"",
-     "sum": "이란은 우방국인 중국과 러시아가 이란의 핵 개발 원칙 수정에 반대 입장을 표명했다고 전했다."
-    },
-    {
-     "title": "Araghchi: Strait of Hormuz will not reopen until Iran's demands are met",
-     "url": "https://en.apa.az/asia/araghchi-strait-of-hormuz-will-not-reopen-until-irans-demands-are-met-537696",
-     "domain": "en.apa.az",
-     "seen": "20261121T174500Z",
-     "ko": "아라그치 이란 외무 \"요구 관철 전까지 호르무즈 해협 재개방 불가\"",
-     "sum": "아바스 아라그치 이란 외무장관은 자신들의 요구가 수용되기 전까지는 호르무즈 해협을 다시 열지 않겠다고 밝혔다."
-    },
-    {
-     "title": "2 Tankers Struck In Strait Of Hormuz, Iran Says Oil Vessel On Fire",
-     "url": "https://www.cinaradio.com/2026/11/21/2-tankers-struck-in-strait-of-hormuz-iran-says-oil-vessel-on-fire/",
-     "domain": "cinaradio.com",
-     "seen": "20261121T174500Z",
-     "ko": "호르무즈 해협서 유조선 2척 피격, 이란 \"선박 한 척 화재 발생\"",
-     "sum": "호르무즈 해협에서 유조선 두 척이 공격을 받았으며 이란은 유조선에 불이 났다고 전했다."
-    },
-    {
-     "title": "Qatari Delegation Visits Tehran, Pezeshkian Admits that Iran Faces Tough Economic War",
-     "url": "https://english.aawsat.com/world/5344066-qatari-delegation-visits-tehran-pezeshkian-admits-iran-faces-tough-economic-war",
-     "domain": "aawsat.com",
-     "seen": "20261121T174500Z",
-     "ko": "카타르 대표단 테헤란 방문, 페제시키안 \"혹독한 경제 전쟁 직면\"",
-     "sum": "카타르 대표단이 테헤란을 방문한 가운데 마스우드 페제시키안 이란 대통령은 나라가 혹독한 경제 전쟁을 겪고 있음을 인정했다."
-    },
-    {
-     "title": "Explosion on Iran's Qeshm Island linked to disposal of unexploded munitions, Tasnim reports",
-     "url": "https://www.al-monitor.com/originals/2026/11/explosion-irans-qeshm-island-linked-disposal-unexploded-munitions-tasnim-reports",
-     "domain": "al-monitor.com",
-     "seen": "20261120T210000Z",
-     "ko": "이란 케슘섬서 폭발 발생, 타스님 통신 \"불발탄 처리 작업\"",
-     "sum": "이란 남부 케슘섬에서 폭발이 일어났으며 이란 통신은 불발탄 폐기 처리와 관련된 것이라고 보도했다."
-    },
-    {
-     "title": "Pressure on lawyers in Iran increases",
-     "url": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742",
-     "domain": "dw.com",
-     "seen": "20261120T210000Z",
-     "ko": "이란 내 변호사들에 대한 당국의 사법적 탄압과 압박 가중",
-     "sum": "이란 내부에서 활동하는 변호사들에 대한 사법 당국의 압박이 점점 심해지고 있다."
     }
    ],
    "photo": {
@@ -654,6 +884,54 @@
   },
   "us": {
    "articles": [
+    {
+     "title": "Trump vows to make 'permanent' deal with Iran, prevent future nuclear ambitions",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/22/trump-vows-to-make-permanent-deal-with-iran-prevent-future-nuclear-ambitions",
+     "domain": "freemalaysiatoday.com",
+     "seen": "20261122T021500Z",
+     "ko": "트럼프, 이란과 영구적 합의 추진해 미래 핵 야망 막겠다고 공언",
+     "sum": "도널드 트럼프가 이란과 영구적인 합의를 체결해 미래의 핵 개발 야망을 막겠다고 공언했다."
+    },
+    {
+     "title": "Trump orders federal contractors to check with White House before responding to Congress",
+     "url": "https://www.ketr.org/2026-11-21/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+     "domain": "ketr.org",
+     "seen": "20261122T021500Z",
+     "ko": "트럼프, 연방 계약업체에 의회 답변 전 백악관과 사전 협의 명령",
+     "sum": "도널드 트럼프가 연방 정부 계약업체들에게 의회에 답변하기 전 백악관과 먼저 상의하라고 명령했다."
+    },
+    {
+     "title": "Illinois measles numbers remain below recent peak, while the U.S. loses elimination status",
+     "url": "https://pantagraph.com/news/state-and-regional/article_4f7c846e-bf2b-5c22-84b1-502950ac8deb.html",
+     "domain": "pantagraph.com",
+     "seen": "20261122T021500Z",
+     "ko": "미국 홍역 퇴치국 지위 상실, 일리노이 환자 수는 정점 밑돌아",
+     "sum": "미국이 홍역 퇴치국 지위를 잃은 가운데 일리노이주의 홍역 환자 수는 최근 정점 아래를 유지하고 있다."
+    },
+    {
+     "title": "Ohio shooting: 3 killed, 1 injured at event venue; two suspects in custody",
+     "url": "https://timesofindia.indiatimes.com/world/us/ohio-shooting-3-killed-1-injured-at-event-venue-two-suspects-in-custody/articleshow/136065741.cms",
+     "domain": "indiatimes.com",
+     "seen": "20261122T021500Z",
+     "ko": "미 오하이오 행사장 총격으로 3명 사망, 용의자 2명 체포",
+     "sum": "미국 오하이오주의 한 행사장소에서 총격이 발생해 3명이 숨지고 1명이 다쳤으며 용의자 2명이 체포됐다."
+    },
+    {
+     "title": "California train burglars carefully executed heists for 'staggering' $22m haul",
+     "url": "https://www.yahoo.com/news/us/articles/california-train-burglars-carefully-executed-002041827.html",
+     "domain": "yahoo.com",
+     "seen": "20261122T021500Z",
+     "ko": "캘리포니아 열차 전문 털이범들, 치밀한 범행으로 2200만 달러 털어",
+     "sum": "캘리포니아의 열차 절도범들이 치밀한 수법으로 2천2백만 달러 규모의 막대한 물품을 훔쳤다."
+    },
+    {
+     "title": "Port of Seattle, Alaska Airlines review ICE incident during boarding of Seattle-LA flight",
+     "url": "https://wjla.com/news/nation-world/port-of-seattle-seatac-airport-ice-alaska-airlines-reviewing-ice-incident-during-boarding-passengers-trauamatized-plane-boaridng-incident-dhs-homeland-security",
+     "domain": "wjla.com",
+     "seen": "20261122T021500Z",
+     "ko": "시애틀 공항과 항공사, 비행기 탑승 중 발생한 이민단속국 사태 조사",
+     "sum": "시애틀 항만청과 알래스카 항공이 로스앤젤레스행 항공편 탑승 도중 발생한 이민세관단속국 관련 사건을 조사하고 있다."
+    },
     {
      "title": "FBI investigates apparent hack of database holding records on fugitives, missing people",
      "url": "https://wwmt.com/news/nation-world/fbi-investigates-apparent-hack-of-database-holding-records-on-fugitives-missing-people",
@@ -685,54 +963,6 @@
      "seen": "20261121T201500Z",
      "ko": "미국 동서부 해안 폭풍우 예보로 추수감사절 이동 비상",
      "sum": "미국 양쪽 해안에 폭풍우가 예상되면서 추수감사절 연휴 이동에 차질이 빚어질 위험에 처했다."
-    },
-    {
-     "title": "Christian nationalists see Republicans' midterm losses as an opportunity to supplant Trump's MAGA",
-     "url": "https://www.whec.com/ap-top-news/christian-nationalists-see-republicans-midterm-losses-as-an-opportunity-to-supplant-trumps-maga/",
-     "domain": "whec.com",
-     "seen": "20261121T201500Z",
-     "ko": "미 기독교 민족주의자들 공화당 패배를 트럼프 마가 대체 기회로 판단",
-     "sum": "미국의 기독교 민족주의자들은 공화당의 중간선거 패배를 트럼프의 마가 노선을 대체할 기회로 보고 있다."
-    },
-    {
-     "title": "US tech companies that build AI data centers in other countries will be penalized, Trump says",
-     "url": "https://www.wwaytv3.com/us-tech-companies-that-build-ai-data-centers-in-other-countries-will-be-penalized-trump-says/",
-     "domain": "wwaytv3.com",
-     "seen": "20261120T220000Z",
-     "ko": "트럼프, 해외에 AI 데이터센터 짓는 미 기업에 제재 경고",
-     "sum": "도널드 트럼프는 다른 나라에 인공지능 데이터센터를 짓는 미국 기술 기업에 불이익을 주겠다고 밝혔다."
-    },
-    {
-     "title": "Navy could be depleted through Australia security deal, CBO warns",
-     "url": "http://www.washingtonexaminer.com/policy/defense/4810053/cbo-nuclear-submarines-australia-aukus/",
-     "domain": "washingtonexaminer.com",
-     "seen": "20261120T220000Z",
-     "ko": "미 의회예산처, 호주와의 안보 협정으로 해군 전력 약화 경고",
-     "sum": "미국 의회예산처는 호주와의 안보 협정으로 인해 미 해군 전력이 약화될 수 있다고 경고했다."
-    },
-    {
-     "title": "Officials: Washington pulp mill violated safety standards before ruptured chemical tank killed 11",
-     "url": "https://www.khqa.com/news/nation-world/officials-washington-pulp-mill-violated-safety-standards-before-ruptured-chemical-tank-killed-11/article_228c201a-e2a3-5986-b005-f32329b75a05.html",
-     "domain": "khqa.com",
-     "seen": "20261120T220000Z",
-     "ko": "미 워싱턴주 공장 화학탱크 파열로 11명 사망, 안전기준 위반 확인",
-     "sum": "당국은 11명이 숨진 미국 워싱턴주 펄프공장의 화학탱크 파열 사고 이전에 안전 기준 위반이 있었다고 밝혔다."
-    },
-    {
-     "title": "Amazon Said Mamdani's 'Delivery Protection Act' Would Raise Prices. Here's How Mamdani Responded.",
-     "url": "https://townhall.com/news/amy-curtis/2026/11/20/mamdani-amazons-corporate-greed-n2686798",
-     "domain": "townhall.com",
-     "seen": "20261120T220000Z",
-     "ko": "아마존 배송보호법 가격 인상 주장에 맘다니 의원 반박",
-     "sum": "배송보호법이 물가를 올릴 것이라는 아마존의 주장에 맘다니 의원이 반박 입장을 내놓았다."
-    },
-    {
-     "title": "Minnesota sets voter turnout record, record 2.8 million ballots cast",
-     "url": "https://www.voiceofalexandria.com/minnesota-sets-voter-turnout-record-record-2-8-million-ballots-cast/article_1165f5ff-f8ce-4be8-a405-7bb6a75729c1.html",
-     "domain": "voiceofalexandria.com",
-     "seen": "20261120T220000Z",
-     "ko": "미 미네소타주 역대 최다 280만 표 투표율 신기록",
-     "sum": "미국 미네소타주에서 280만 표의 투표용지가 투표되며 역대 최고 투표율 기록을 경신했다."
     }
    ],
    "photo": {
@@ -755,6 +985,54 @@
   },
   "au": {
    "articles": [
+    {
+     "title": "Australia, New Zealand, U.S. Navies Boost Mine Warfare Capabilities In Exercise Dugong",
+     "url": "https://www.eurasiareview.com/22112026-australia-new-zealand-u-s-navies-boost-mine-warfare-capabilities-iin-exercise-dugong/",
+     "domain": "eurasiareview.com",
+     "seen": "20261122T021500Z",
+     "ko": "호주와 미국, 뉴질랜드 해군 기뢰전 합동 훈련 실시",
+     "sum": "호주, 뉴질랜드, 미국 해군이 듀공 훈련을 통해 기뢰전 작전 역량을 강화했다."
+    },
+    {
+     "title": "'Really bad signs' ahead of inflation data release",
+     "url": "https://www.dailyadvertiser.com.au/story/9395913/really-bad-signs-ahead-of-inflation-data-release/",
+     "domain": "dailyadvertiser.com.au",
+     "seen": "20261122T021500Z",
+     "ko": "호주 물가 지표 발표 앞두고 경기 악화 조짐 경고",
+     "sum": "호주의 공식 인플레이션 수치 발표를 앞두고 경제 지표에 매우 나쁜 신호가 감지되고 있다."
+    },
+    {
+     "title": "Trio arrested, man killed in spate of city stabbings",
+     "url": "https://www.dailyadvertiser.com.au/story/9395928/trio-arrested-man-killed-in-spate-of-city-stabbings/",
+     "domain": "dailyadvertiser.com.au",
+     "seen": "20261122T021500Z",
+     "ko": "호주 도심 연쇄 흉기 난동으로 1명 사망, 3명 체포",
+     "sum": "도심에서 잇따라 발생한 흉기 난동으로 1명이 숨지고 용의자 3명이 경찰에 체포되었다."
+    },
+    {
+     "title": "Officer wounded, man killed in remote island shootings",
+     "url": "https://www.hepburnadvocate.com.au/story/9395862/officer-wounded-man-killed-in-remote-island-shootings/",
+     "domain": "hepburnadvocate.com.au",
+     "seen": "20261122T020000Z",
+     "ko": "호주 외딴 섬 총격으로 경찰관 부상, 1명 사망",
+     "sum": "외딴 섬에서 발생한 총격 사건으로 현장에 있던 경찰관이 다치고 남성 1명이 사망했다."
+    },
+    {
+     "title": "Australian data centres a 'national security interest', Marles says amid US tax push",
+     "url": "https://cedarnews.net/newstasks/1177551/australian-data-centres-national-security-interest-marles/",
+     "domain": "cedarnews.net",
+     "seen": "20261122T014500Z",
+     "ko": "호주 데이터센터는 국가 안보 이익, 마스 부총리 강조",
+     "sum": "리처드 마스 호주 국방장관 겸 부총리가 미국의 세금 압박 속에 호주 데이터센터는 국가 안보 이익에 부합한다고 밝혔다."
+    },
+    {
+     "title": "Heatwave hits millions of people on eve of summer",
+     "url": "https://www.perthnow.com.au/news/heatwave-hits-millions-of-people-on-eve-of-summer-c-23196440",
+     "domain": "perthnow.com.au",
+     "seen": "20261122T013000Z",
+     "ko": "호주 여름 시작 앞두고 수백만 명 덮친 때이른 폭염",
+     "sum": "호주에서 여름이 시작되기도 전에 수백만 명의 주민이 극심한 폭염의 영향을 받고 있다."
+    },
     {
      "title": "Victorian public service jobs: Thousands of workers face uncertainty under Coalition's hiring freeze plan",
      "url": "https://www.theage.com.au/politics/victoria/are-these-workers-in-the-firing-line-uncertainty-over-coalition-s-promised-public-service-cuts-20261122-p61fjy.html",
@@ -786,46 +1064,6 @@
      "seen": "20261121T194500Z",
      "ko": "사이비 종교 유니버설 메디슨 말기 암 환자 유산 갈취 논란",
      "sum": "사이비 종교 집단인 유니버설 메디슨이 말기 암 환자들의 재산을 가로채고 있는 것으로 드러났다."
-    },
-    {
-     "title": "Five arrested after 660kg cocaine seized in Brazil with links to Australia",
-     "url": "https://www.smh.com.au/world/five-arrested-after-660kg-cocaine-seized-in-brazil-with-links-to-australia-20261121-p61g3v.html",
-     "domain": "smh.com.au",
-     "seen": "20261120T220000Z",
-     "ko": "브라질서 호주 연계된 코카인 660kg 압수, 5명 체포",
-     "sum": "브라질에서 호주와 연계된 코카인 660kg이 압수된 후 5명이 체포되었다."
-    },
-    {
-     "title": "Falun Gong group reports 52 alleged Chinese transnational repression incidents in Australia, seeks government action",
-     "url": "http://www.chinanationalnews.com/news/279445928/falun-gong-group-reports-52-alleged-chinese-transnational-repression-incidents-in-australia-seeks-government-action",
-     "domain": "chinanationalnews.com",
-     "seen": "20261120T220000Z",
-     "ko": "파룬궁 단체, 호주 내 중국 탄압 52건 보고하며 정부 조치 촉구",
-     "sum": "파룬궁 단체가 호주에서 발생한 중국 측의 탄압 사례 52건을 보고하며 정부의 조치를 요구했다."
-    },
-    {
-     "title": "'Vile': doctor jailed for sexually assaulting patients",
-     "url": "https://www.bluemountainsgazette.com.au/story/9395679/vile-doctor-jailed-for-sexually-assaulting-patients/",
-     "domain": "bluemountainsgazette.com.au",
-     "seen": "20261120T220000Z",
-     "ko": "환자들 성폭행한 호주 의사, 징역형 선고받고 수감",
-     "sum": "환자들을 성폭행한 혐의를 받는 의사가 징역형을 선고받고 수감되었다."
-    },
-    {
-     "title": "CFMEU accused of flexing its muscles to freeze project",
-     "url": "https://www.macleayargus.com.au/story/9395690/cfmeu-accused-of-flexing-its-muscles-to-freeze-project/",
-     "domain": "macleayargus.com.au",
-     "seen": "20261120T220000Z",
-     "ko": "호주 건설노조, 위력 행사해 공사 중단시켰다는 의혹 제기",
-     "sum": "호주 건설산별노조가 힘을 행사해 프로젝트를 중단시켰다는 혐의를 받고 있다."
-    },
-    {
-     "title": "New home birth rules to limit access for expectant mums",
-     "url": "https://www.northweststar.com.au/story/9395678/new-home-birth-rules-to-limit-access-for-expectant-mums/",
-     "domain": "northweststar.com.au",
-     "seen": "20261120T214500Z",
-     "ko": "호주, 임산부의 가정 분만 제한하는 새 규정 도입",
-     "sum": "임산부의 가정 분만 접근을 제한하는 새로운 규정이 도입되었다."
     }
    ],
    "photo": {
@@ -838,6 +1076,46 @@
   },
   "nz": {
    "articles": [
+    {
+     "title": "Northern Motorway motorcycle crash leaves one person in critical condition",
+     "url": "https://www.newstalkzb.co.nz/news/national/northern-motorway-motorcycle-crash-leaves-one-person-in-critical-condition/",
+     "domain": "newstalkzb.co.nz",
+     "seen": "20261122T020000Z",
+     "ko": "뉴질랜드 북부 고속도로 오토바이 사고로 1명 중태",
+     "sum": "북부 고속도로에서 오토바이 충돌 사고가 발생해 1명이 중태에 빠졌다."
+    },
+    {
+     "title": "Renewed push in unsolved letterbox port poisoning case",
+     "url": "https://www.odt.co.nz/news/national/renewed-push-in-unsolved-letterbox-port-poisoning-case-tp2xb0i6",
+     "domain": "odt.co.nz",
+     "seen": "20261122T010000Z",
+     "ko": "뉴질랜드 우편함 독극물 사망 사건 해결 재추진",
+     "sum": "우편함에 든 포트와인 독극물로 사망한 데이브 다반의 미제 살인 사건을 해결하기 위한 수사가 다시 본격화되었다."
+    },
+    {
+     "title": "David Kumar sexually assaulted and filmed unconscious woman",
+     "url": "https://www.rnz.co.nz/news/crime-and-justice/2726729/david-kumar-sexually-assaulted-and-filmed-unconscious-woman",
+     "domain": "rnz.co.nz",
+     "seen": "20261122T010000Z",
+     "ko": "의식 잃은 여성 성폭행하고 촬영한 뉴질랜드 남성 유죄",
+     "sum": "의식을 잃은 상태의 여성을 성폭행하고 불법 촬영한 데이비드 쿠마르의 범행이 법원에서 다뤄졌다."
+    },
+    {
+     "title": "Gisborne Mayor calls for national climate resilience framework",
+     "url": "https://www.newstalkzb.co.nz/news/national/gisborne-mayor-calls-for-national-climate-resilience-framework/",
+     "domain": "newstalkzb.co.nz",
+     "seen": "20261121T210000Z",
+     "ko": "뉴질랜드 기즈번 시장, 국가 기후 대응 체계 마련 촉구",
+     "sum": "기즈번 시장이 국가 차원의 기후 복원력 체계를 조속히 구축해야 한다고 요구했다."
+    },
+    {
+     "title": "Waikato surgeon operates on young woman who swallowed full-sized fork",
+     "url": "https://www.newstalkzb.co.nz/news/national/waikato-surgeon-operates-on-young-woman-who-swallowed-full-sized-fork/",
+     "domain": "newstalkzb.co.nz",
+     "seen": "20261121T210000Z",
+     "ko": "뉴질랜드 와이카토서 포크 통째로 삼킨 여성 응급 수술",
+     "sum": "일반 크기의 포크를 삼킨 젊은 여성이 와이카토 병원에서 포크를 제거하는 응급 수술을 받았다."
+    },
     {
      "title": "Gerry Brownlee warns New Zealand parties not to rush a coalition deal before Christmas",
      "url": "https://newswire.co.nz/2026/11/gerry-brownlee-warns-parties-not-to-rush-coalition-deal-before-christmas/",
@@ -877,46 +1155,6 @@
      "seen": "20261121T181500Z",
      "ko": "이스라엘이 뉴질랜드 팔레스타인 지지자 감시 연대 단체 주장",
      "sum": "아오테아로아 팔레스타인 연대 네트워크는 이스라엘이 뉴질랜드 내 팔레스타인 지지자들을 감시하고 있다고 주장했다."
-    },
-    {
-     "title": "Gisborne Mayor calls for national climate resilience framework",
-     "url": "https://www.nzherald.co.nz/gisborne-herald/news/gisborne-mayor-calls-for-national-climate-resilience-framework/ZLXDOAI6HVBY7OHAC4QRWCDJ54/",
-     "domain": "nzherald.co.nz",
-     "seen": "20261121T173000Z",
-     "ko": "뉴질랜드 기즈번 시장 국가 기후 복원력 대책 마련 촉구",
-     "sum": "기즈번 시장이 국가 차원의 기후 탄력성 프레임워크를 수립해야 한다고 촉구했다."
-    },
-    {
-     "title": "SunLive - Body found after search near Kaimai summit - The Bay's News First",
-     "url": "https://www.sunlive.co.nz/news/387388-body-found-after-search-near-kaimai-summit.html",
-     "domain": "sunlive.co.nz",
-     "seen": "20261120T203000Z",
-     "ko": "뉴질랜드 카이마이 정상 인근 수색 중 시신 발견",
-     "sum": "뉴질랜드 카이마이 정상 인근을 수색하던 중 시신이 발견되었다."
-    },
-    {
-     "title": "RNZ job cuts: 26 staff leaving as broadcaster tackles $11.8m deficit",
-     "url": "https://www.nzherald.co.nz/nz/rnz-job-cuts-26-staff-leaving-as-broadcaster-tackles-118m-deficit/GH2NLTDW6FB3RF2MGCCGHX6Q34/",
-     "domain": "nzherald.co.nz",
-     "seen": "20261120T200000Z",
-     "ko": "뉴질랜드 공영방송 RNZ, 1180만 달러 적자에 26명 감원",
-     "sum": "뉴질랜드 공영방송 RNZ가 1180만 달러 적자에 대응해 26명의 직원을 감원한다."
-    },
-    {
-     "title": "Schoolboy, 13, allegedly threatened with fake gun on Mt Roskill, Auckland street",
-     "url": "https://www.nzherald.co.nz/nz/schoolboy-13-allegedly-threatened-with-fake-gun-on-mt-roskill-auckland-street/HBC3JTVBI5BGBNPZUTK2WWJV24/",
-     "domain": "nzherald.co.nz",
-     "seen": "20261120T200000Z",
-     "ko": "오클랜드 거리서 13세 남학생 가짜 총기로 위협받아",
-     "sum": "뉴질랜드 오클랜드 거리에서 13세 남학생이 모조 총기로 위협을 당하는 사건이 발생했다."
-    },
-    {
-     "title": "Forest & Bird, NZDF cyber attacks likely unrelated, expert says",
-     "url": "https://www.rnz.co.nz/news/crime-and-justice/2717785/forest-and-bird-nzdf-cyber-attacks-likely-unrelated-expert-says",
-     "domain": "rnz.co.nz",
-     "seen": "20261120T184500Z",
-     "ko": "뉴질랜드 환경단체와 방위군 사이버 공격 연관성 낮아",
-     "sum": "환경단체 포레스트 앤드 버드와 뉴질랜드 방위군을 겨냥한 사이버 공격이 서로 무관할 가능성이 높다고 전문가가 밝혔다."
     }
    ],
    "photo": {
@@ -929,22 +1167,22 @@
   }
  },
  "briefing": {
-  "updated": "2026-11-21T20:41:27.719Z",
+  "updated": "2026-11-22T02:23:57.037Z",
   "items": [
    {
-    "cid": "pl",
-    "url": "https://aa.com.tr/en/world/allies-stand-with-poland-after-airspace-breach-by-russia-nato-chief/4133047",
-    "text": "나토 사무총장이 러시아의 영공 침범 이후 폴란드에 대한 지지를 표명했다."
-   },
-   {
-    "cid": "ir",
-    "url": "http://www.iranherald.com/news/279447293/iran-army-says-air-defense-missile-damages-us-f-16-fighter-jet-over-gulf-as-us-denies-claim",
-    "text": "이란군이 미군 전투기를 요격했다고 주장했으나 미군은 격추 사실을 부인했다."
+    "cid": "tw",
+    "url": "https://www.aol.com/articles/ai-sell-off-now-taiwan-220252000.html",
+    "text": "대만이 AI주 매도세 확산에 대응해 반도체 중심 시장 안정 조치에 나섰다."
    },
    {
     "cid": "us",
-    "url": "https://wwmt.com/news/nation-world/fbi-investigates-apparent-hack-of-database-holding-records-on-fugitives-missing-people",
-    "text": "FBI가 수배자와 실종자 기록이 담긴 데이터베이스 해킹 정황을 수사하고 있다."
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/22/trump-vows-to-make-permanent-deal-with-iran-prevent-future-nuclear-ambitions",
+    "text": "트럼프는 이란의 미래 핵 야망을 막기 위해 영구적 합의를 추진하겠다고 공언했다."
+   },
+   {
+    "cid": "pl",
+    "url": "https://albeu.com/english/tension-in-poland-after-russian-missiles-and-drone-violated-airspace-nato-chief-visits-warsaw-on-saturday/1109031/",
+    "text": "러시아의 미사일과 드론이 영공을 침범하면서 폴란드의 긴장이 크게 고조되었다."
    }
   ]
  }
