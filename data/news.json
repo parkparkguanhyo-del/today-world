@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T18:04:19.669Z",
+ "updated": "2026-11-22T23:46:38.114Z",
  "source": "The GDELT Project",
- "ai": "gemini",
+ "ai": "gemini-failed",
  "countries": {
   "jp": {
    "articles": [
